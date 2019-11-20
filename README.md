@@ -23,7 +23,7 @@ pip3 install -r requirements.txt
 We provide a small preprocessed dataset (`./sample_data/`) to check the pipeline. To train and evaluate model in this sample dataset:
 
 ```shell
-python3 train.py
+python3 train.py --path ./
 ```
 
 
