@@ -70,7 +70,7 @@ def evaluating():
     result_file.close()
     ref_file.close()
     score = score_files(args.result_path, args.ref_path)
-    print("beam search result:", score)
+    print("Result:", score)
 
 
 if __name__ == "__main__":
