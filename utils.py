@@ -73,3 +73,11 @@ def tile(x, count, dim=0):
     if dim != 0:
         x = x.permute(perm).contiguous()
     return x
+
+def load_formula(filename):
+    formulas = dict()
+    with open(filename) as f:
+        for idx, line in enumerate(f):
+            formulas[idx] = line.strip()
+    print("Loaded {} formulas from {}".format(len(formulas), filename))
+    return formulas

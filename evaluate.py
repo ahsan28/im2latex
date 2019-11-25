@@ -11,8 +11,9 @@ from tqdm import tqdm
 from data import Im2LatexDataset
 from build_vocab import Vocab, load_vocab
 from utils import collate_fn
-from model import LatexProducer, Im2LatexModel
-from model.score import score_files
+from model import Im2LatexModel
+from decoding import LatexProducer
+from score import score_files
 
 def evaluating():
     parser = argparse.ArgumentParser(description="Im2Latex Evaluating Program")

@@ -42,7 +42,7 @@ def main():
     parser.add_argument(
         "--cuda", action='store_true', default=True, help="Use cuda or not")
     parser.add_argument("--batch_size", type=int, default=4)
-    parser.add_argument("--epochs", type=int, default=12)
+    parser.add_argument("--epochs", type=int, default=5)
     parser.add_argument(
         "--lr", type=float, default=0.001, help="Learning Rate")
     parser.add_argument(
