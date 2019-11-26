@@ -74,7 +74,7 @@ def main():
 
     # Building vocab
     build_vocab(args.data_path)
-    vocab = load_vocab(join(args.data_path, 'vocab.pkl'))
+    vocab = load_vocab(args.data_path)
 
     use_cuda = True if args.cuda and torch.cuda.is_available() else False
     device = torch.device("cuda" if use_cuda else "cpu")
