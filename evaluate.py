@@ -15,7 +15,7 @@ from model.model import Im2LatexModel
 from model.decoding import LatexProducer
 from model.score import score_files
 
-def evaluating():
+def main():
     parser = argparse.ArgumentParser(description="Im2Latex Evaluating Program")
     parser.add_argument('--model_path', required=True, help='path of the evaluated model')
     
@@ -32,7 +32,7 @@ def evaluating():
 
     checkpoint = torch.load(join(args.model_path))
     model_args = checkpoint['args']
-
+    
     vocab = load_vocab(args.data_path)
     use_cuda = True if args.cuda and torch.cuda.is_available() else False
 
@@ -45,9 +45,7 @@ def evaluating():
     )
 
     model = Im2LatexModel(
-        len(vocab), model_args.emb_dim, model_args.dec_rnn_h,
-        add_pos_feat=model_args.add_position_features,
-        dropout=model_args.dropout
+        len(vocab), args.emb_dim, args.dec_rnn_h
     )
     model.load_state_dict(checkpoint['model_state_dict'])
 

@@ -2,7 +2,7 @@ import numpy as np
 import nltk
 import distance
 
-from utils import load_formulas
+from utils import load_formula
 
 
 def score_files(path_ref, path_hyp):
@@ -17,8 +17,8 @@ def score_files(path_ref, path_hyp):
 
     """
     # load formulas
-    formulas_ref = load_formulas(path_ref)
-    formulas_hyp = load_formulas(path_hyp)
+    formulas_ref = load_formula(path_ref)
+    formulas_hyp = load_formula(path_hyp)
 
     assert len(formulas_ref) == len(formulas_hyp)
 

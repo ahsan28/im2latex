@@ -106,8 +106,15 @@ class Trainer(object):
         return loss
 
     def save_model(self):
-        print("Saving as best model...")
-        torch.save(
-            self.model.state_dict(),
-            join(self.args.save_dir, 'best_ckpt' + str(self.epoch))
-        )
+        if not os.path.isdir(self.args.save_dir):
+            os.madedirs(self.args.save_dir)
+        save_path = join(self.args.save_dir, model_name+'.pt')
+        print("Saving checkpoint to {}".format(save_path))
+        torch.save({
+            'epoch': self.epoch,
+            'model_state_dic': self.model.state_dict(),
+            'optimizer_state_dict': self.optimizer.state_dict(),
+            'lr_sche': self.lr_scheduler.state_dict(),
+            'epoch': self.epoch,
+            'args': self.args
+        }, save_path)

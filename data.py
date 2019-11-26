@@ -31,6 +31,7 @@ class Im2LatexDataset(Dataset):
         return formulas
 
     def _get_pairs(self, split):
+        transform = transforms.ToTensor()
         # the line in this file map image to formulas
         map_file = join(self.data_dir, split + "_filter.lst")
         # get image-formulas pairs
@@ -41,7 +42,7 @@ class Im2LatexDataset(Dataset):
                 # load img and its corresponding formula
                 img_path = join(self.images_dir, img_name)
                 img = Image.open(img_path)
-                img_tensor = self.transform(img)
+                img_tensor = transform(img)
                 formula = self.formulas[int(formula_id)]
                 pair = (img_tensor, formula)
                 pairs.append(pair)
