@@ -7,11 +7,11 @@ import torch.optim as optim
 from torch.utils.data import DataLoader
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 
-from utils import collate_fn, build_vocab
+from utils import collate_fn
 from data import Im2LatexDataset
 from model.model import Im2LatexModel
 from model.training import Trainer
-from vocab.make_vocab import make_vocab
+from build_vocab import build_vocab, load_vocab
 
 
 def main():
@@ -73,8 +73,8 @@ def main():
     args = parser.parse_args()
 
     # Building vocab
-    make_vocab(args.data_path)
-    vocab = build_vocab(join(args.data_path, 'vocab.pkl'))
+    build_vocab(args.data_path)
+    vocab = load_vocab(join(args.data_path, 'vocab.pkl'))
 
     use_cuda = True if args.cuda and torch.cuda.is_available() else False
     device = torch.device("cuda" if use_cuda else "cpu")

@@ -2,7 +2,7 @@ import pickle as pkl
 
 import torch
 
-from vocab.make_vocab import PAD_TOKEN, END_TOKEN, START_TOKEN, UNK_TOKEN
+from build_vocab import PAD_TOKEN, END_TOKEN, START_TOKEN, UNK_TOKEN
 
 
 def collate_fn(sign2id, batch):
@@ -45,13 +45,6 @@ def formulas2tensor(formulas, sign2id):
 def count_parameters(model):
     """count model parameters"""
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
-
-
-def build_vocab(vocab_path):
-    with open(vocab_path, "rb") as f:
-        vocab = pkl.load(f)
-    return vocab
-
 
 def tile(x, count, dim=0):
     """

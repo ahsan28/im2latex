@@ -9,7 +9,7 @@ from torch.utils.data import DataLoader
 from tqdm import tqdm
 
 from data import Im2LatexDataset
-from vocab.build_vocab import Vocab, load_vocab
+from build_vocab import Vocab, load_vocab
 from utils import collate_fn
 from model.model import Im2LatexModel
 from model.decoding import LatexProducer
