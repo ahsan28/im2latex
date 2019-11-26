@@ -62,7 +62,7 @@ def main():
     parser.add_argument(
         "--vocab_path",
         type=str,
-        default="./data/vocab.pkl",
+        default="./data/sample_data/vocab.pkl",
         help="The path to vocab file")
     parser.add_argument(
         "--print_freq",
