@@ -1,6 +1,6 @@
 import torch
 
-from make_vocab import END_TOKEN
+from vocab.make_vocab import END_TOKEN
 
 # Reference:
 # https://github.com/OpenNMT/OpenNMT-py/blob/master/onmt/translate/beam_search.py

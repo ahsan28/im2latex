@@ -4,7 +4,7 @@ import torch
 import torch.nn.functional as F
 from torch.nn.utils import clip_grad_norm_
 
-from make_vocab import PAD_TOKEN
+from vocab.make_vocab import PAD_TOKEN
 
 
 class Trainer(object):

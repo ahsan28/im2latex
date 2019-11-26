@@ -9,9 +9,9 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 
 from utils import collate_fn, build_vocab
 from data import Im2LatexDataset
-from model import Im2LatexModel
-from training import Trainer
-from make_vocab import make_vocab
+from model.model import Im2LatexModel
+from model.training import Trainer
+from vocab.make_vocab import make_vocab
 
 
 def main():
