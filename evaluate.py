@@ -45,7 +45,7 @@ def main():
     )
 
     model = Im2LatexModel(
-        len(vocab), model_args.emb_dim, model_args.dec_rnn_h
+        len(vocab), model_args.emb_dim, model_args.enc_rnn_h, model_args.dec_rnn_h
     )
     model.load_state_dict(checkpoint['model_state_dict'])
 

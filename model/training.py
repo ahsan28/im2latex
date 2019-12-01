@@ -113,7 +113,7 @@ class Trainer(object):
         print("Saving checkpoint to {}".format(save_path))
         torch.save({
             'epoch': self.epoch,
-            'model_state_dic': self.model.state_dict(),
+            'model_state_dict': self.model.state_dict(),
             'optimizer_state_dict': self.optimizer.state_dict(),
             'lr_sche': self.lr_scheduler.state_dict(),
             'epoch': self.epoch,
