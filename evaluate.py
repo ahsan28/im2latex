@@ -19,7 +19,7 @@ def main():
     parser = argparse.ArgumentParser(description="Im2Latex Evaluating Program")
     parser.add_argument('--model_path', required=True, help='path of the evaluated model')
     
-    parser.add_argument("--data_path", type=str, default="./sample_data/", help="The dataset's dir")
+    parser.add_argument("--data_path", type=str, default="./data/sample_data/", help="The dataset's dir")
     parser.add_argument("--cuda", action='store_true', default=True, help="Use cuda or not")
     parser.add_argument("--batch_size", type=int, default=32)
     parser.add_argument("--beam_size", type=int, default=5)
