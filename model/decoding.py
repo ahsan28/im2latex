@@ -34,7 +34,7 @@ class LatexProducer(object):
         return results
 
     def _greedy_decoding(self, imgs):
-        enc_outs, hiddens = self.encode(imgs)
+        enc_outs, hiddens = self._model.encode(imgs)
         dec_states, O_t = self._model.init_decoder(enc_outs, hiddens)
 
         batch_size = imgs.size(0)
@@ -45,7 +45,7 @@ class LatexProducer(object):
         for t in range(self.max_len):
             dec_states, O_t, logit = self._model.step_decoding(
                 dec_states, O_t, enc_outs, tgt)
-            tgt = torch.argmax(logit, dim=1, keepdim=1)
+            tgt = torch.argmax(logit, dim=1, keepdim=True)
             formulas_idx[:, t:t + 1] = tgt
         results = self._idx2formulas(formulas_idx)
         return results
@@ -54,8 +54,8 @@ class LatexProducer(object):
         B = imgs.size(0)
         # use batch_size*beam_size as new Batch
         imgs = tile(imgs, beam_size, dim=0)
-        enc_outs, hiddens = self.model.encode(imgs)
-        dec_states, O_t = self.model.init_decoder(enc_outs, hiddens)
+        enc_outs, hiddens = self._model.encode(imgs)
+        dec_states, O_t = self._model.init_decoder(enc_outs, hiddens)
 
         new_B = imgs.size(0)
         # first decoding step's input
@@ -109,10 +109,10 @@ class LatexProducer(object):
 
         # encoding
         img = img.unsqueeze(0)  # [1, C, H, W]
-        enc_outs, hiddens = self.model.encode(img)
+        enc_outs, hiddens = self._model.encode(img)
 
         # prepare data for decoding
-        dec_states, O_t = self.model.init_decoder(enc_outs, hiddens)
+        dec_states, O_t = self._model.init_decoder(enc_outs, hiddens)
         dec_states = (dec_states[0].expand(beam_size, -1),
                       dec_states[1].expand(beam_size, -1))
         O_t = O_t.expand(beam_size, -1)
@@ -126,7 +126,7 @@ class LatexProducer(object):
         complete_seqs_scores = []
         k = beam_size
         for t in range(self.max_len):
-            dec_states, O_t, logit = self.model.step_decoding(
+            dec_states, O_t, logit = self._model.step_decoding(
                 dec_states, O_t, enc_outs, topk_ids.unsqueeze(1))
             log_probs = torch.log(logit)
 

@@ -53,8 +53,7 @@ def main():
     ref_file = open(args.ref_path, 'w')
     
     latex_producer = LatexProducer(
-        model, vocab, max_len=args.max_len, 
-        use_cuda=use_cuda, beam_size=args.beam_size)
+        model, vocab)
 
     for imgs, tgt4training, tgt4cal_loss in tqdm(data_loader):
         try:
@@ -63,7 +62,7 @@ def main():
         except RuntimeError:
             break
 
-        result_file.write('\n'.join(result))
+        result_file.write('\n'.join(results))
         ref_file.write('\n'.join(reference))
 
     result_file.close()
