@@ -109,7 +109,7 @@ class Trainer(object):
     def save_model(self):
         if not os.path.isdir(self.args.save_dir):
             os.madedirs(self.args.save_dir)
-        save_path = join(self.args.save_dir, model_name+'.pt')
+        save_path = join(self.args.save_dir, 'best_ckpt' + str(self.epoch) +'.pt')
         print("Saving checkpoint to {}".format(save_path))
         torch.save({
             'epoch': self.epoch,
