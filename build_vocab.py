@@ -44,7 +44,7 @@ def build_vocab(data_dir, min_count=10):
     with open(join(data_dir, 'train_filter.lst'), 'r') as f:
         for line in f:
             _, idx = line.strip('\n').split()
-            idx = int(idx) - 1
+            idx = int(idx)
             formula = formulas[idx].split()
             counter.update(formula)
 
