@@ -1,6 +1,6 @@
 import torch
 
-from beam_search import BeamSearch
+from .beam_search import BeamSearch
 from build_vocab import END_TOKEN, PAD_TOKEN, START_TOKEN
 from utils import tile
 
