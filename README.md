@@ -39,6 +39,13 @@ python3 train.py --data_path=FULL_DATASET_PATH
 ```
 
 
+##  Evaluating
+
+```shel
+python3 evaluate.py --model_path=MODEL_PATH \
+     --data_path=FULL_DATASET_PATH
+```
+
 
 ### Reference
 
