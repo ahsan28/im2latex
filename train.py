@@ -36,7 +36,7 @@ def main():
     parser.add_argument(
         "--data_path",
         type=str,
-        default="./data/sample_data/",
+        default="./data/crohme2013/",
         help="The dataset's dir")
     # training args
     parser.add_argument(
@@ -62,7 +62,7 @@ def main():
     parser.add_argument(
         "--vocab_path",
         type=str,
-        default="./data/sample_data/vocab.pkl",
+        default="./data/crohme2013_data/vocab.pkl",
         help="The path to vocab file")
     parser.add_argument(
         "--print_freq",
