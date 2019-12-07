@@ -29,7 +29,7 @@ class Vocab(object):
         return self.length
 
 
-def build_vocab(data_dir, min_count=1):
+def build_vocab(data_dir, min_count=10):
     """
     traverse training formulas to make vocab
     and store the vocab in the file
