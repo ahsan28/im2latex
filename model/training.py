@@ -92,7 +92,7 @@ class Trainer(object):
             ))
         if avg_loss < self.best_val_loss:
             self.best_val_loss = avg_loss
-            self.save_model()
+            self.save_model('ckpt-{}-{:4f}'.format(self.epoch, avg_loss))
         return avg_loss
 
     def cal_loss(self, logits, targets):
