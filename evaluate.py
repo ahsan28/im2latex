@@ -58,7 +58,7 @@ def main():
     for imgs, tgt4training, tgt4cal_loss in tqdm(data_loader):
         try:
             reference = latex_producer._idx2formulas(tgt4cal_loss)
-            results = latex_producer(imgs)
+            results = latex_producer._greedy_decoding(imgs)
         except RuntimeError:
             break
 
