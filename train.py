@@ -44,7 +44,7 @@ def main():
     parser.add_argument("--batch_size", type=int, default=4)
     parser.add_argument("--epochs", type=int, default=5)
     parser.add_argument(
-        "--lr", type=float, default=0.001, help="Learning Rate")
+        "--lr", type=float, default=3e-4, help="Learning Rate")
     parser.add_argument(
         "--lr_decay", type=float, default=0.5, help="Learning Rate Decay Rate")
     parser.add_argument(

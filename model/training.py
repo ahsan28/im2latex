@@ -43,7 +43,8 @@ class Trainer(object):
             # one epoch Finished, calcute val loss
             val_loss = self.validate()
             self.lr_scheduler.step(val_loss)
-
+            
+            self.save_model('ckpt-{}-{:4f}'.format(self.epoch, val_loss))
             self.epoch += 1
             self.step = 0
 
@@ -53,6 +54,11 @@ class Trainer(object):
         imgs = imgs.to(self.args.device)
         tgt4training = tgt4training.to(self.args.device)
         tgt4cal_loss = tgt4cal_loss.to(self.args.device)
+        
+        #cal_epsilon param set
+        #epsilon = cal_epsilon(
+        #    1, self.total_step, 'inv_sigmoid')
+        
         logits = self.model(imgs, tgt4training)
 
         # calculate loss
@@ -72,6 +78,10 @@ class Trainer(object):
                 imgs = imgs.to(self.args.device)
                 tgt4training = tgt4training.to(self.args.device)
                 tgt4cal_loss = tgt4cal_loss.to(self.args.device)
+
+                #cal_epsilon param set
+                #epsilon = cal_epsilon(
+                #    1, self.total_step, 'inv_sigmoid')
 
                 logits = self.model(imgs, tgt4training)
                 loss = self.cal_loss(logits, tgt4cal_loss)
@@ -106,10 +116,10 @@ class Trainer(object):
         loss = F.nll_loss(logits, targets)
         return loss
 
-    def save_model(self):
+    def save_model(self, model_name):
         if not os.path.isdir(self.args.save_dir):
             os.madedirs(self.args.save_dir)
-        save_path = join(self.args.save_dir, 'best_ckpt' + str(self.epoch) +'.pt')
+        save_path = join(self.args.save_dir, model_name +'.pt')
         print("Saving checkpoint to {}".format(save_path))
         torch.save({
             'epoch': self.epoch,

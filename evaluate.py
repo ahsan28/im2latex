@@ -48,6 +48,7 @@ def main():
         len(vocab), model_args.emb_dim, model_args.enc_rnn_h, model_args.dec_rnn_h
     )
     model.load_state_dict(checkpoint['model_state_dict'])
+    model.train(False)
 
     result_file = open(args.result_path, 'w')
     ref_file = open(args.ref_path, 'w')
