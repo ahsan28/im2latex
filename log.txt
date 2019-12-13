@@ -6,3 +6,21 @@
 2019-12-13 01:43:43,724 root  INFO     Creating pool with 4 threads
 2019-12-13 01:43:43,728 root  INFO     Jobs running...
 2019-12-13 01:44:32,709 root  INFO     Jobs finished
+2019-12-13 17:16:41,289 root  INFO     Script being executed: ./im2markup_script/preprocessing/preprocess_images.py
+2019-12-13 17:16:41,662 root  INFO     Creating pool with 4 threads
+2019-12-13 17:16:41,666 root  INFO     Jobs running...
+2019-12-13 17:17:57,969 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/10675.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:18:05,736 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/84555.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:18:35,265 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/19416.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:18:49,956 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/66114.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:19:19,901 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/27431.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:19:44,702 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/64202.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:20:12,669 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/277.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:20:14,747 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/27552.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:20:18,311 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/103399.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:20:26,032 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/92770.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:20:42,335 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/68104.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:20:54,466 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/100352.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:21:04,427 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/55543.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:21:37,783 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/53471.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
+2019-12-13 17:21:48,599 root  INFO     Jobs finished

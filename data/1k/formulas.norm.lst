@@ -1,0 +1,1200 @@
+\label{113}dG^{*(5)}={1\over 4}J^{*(4)},
+y\propto \left[\cot(\eta/2)\right]^{(1+\sqrt{13})/2} ,
+A\,=\,\left(\begin{array}{ccc}0&{\,\,}&\Theta_{[1]}\\\Theta_{[1]}&{\,\,}&0\end{array}\right)\,,\quad\Theta_{[1]}\,=\,\left(\begin{array}{ccccc}0&{\,\,}&0&{\,\,}&1\\0&{\,\,}&-1&{\,\,}&0\\1&{\,\,}&0&{\,\,}&0\end{array}\right)\quad,
+a G(\phi) \frac{\partial \rho}{\partial t} = -  \frac{\delta {\cal D}[\rho]}{\delta \rho},
+J\equiv \left.{{\delta S_{\rm{\small int}}}\over {\delta\sigma}} \right|_{\Phi=0}~.
+\Delta_{IJ}\equiv (R^I-R^J)^2=-2\,R^I\cdot R^J, \label{27}
+{\bf\Gamma}_\mu \circ{\cal F}\!L^* = 0, \label{zero}
+G_{CB^{\ast}}=G_{C}-G_{B^{\ast}},\;\;G_{BB^{\ast}}=G_{B}-G_{B^\ast}.\label{3.17}%
+|\psi\rangle = \psi_{g}|\psi_{g}\rangle             + \psi_{q\bar{q}}|\psi_{q\bar{q}}\rangle             + \psi_{q\bar{q}\gamma}|\psi_{q\bar{q}\gamma}\rangle             + \psi_{q\bar{q}gg}|\psi_{q\bar{q}gg}\rangle             + \ldots .
+c_4^{(L)} \approx -1.742 + \frac{0.80}{L} +\cdots% \label{eq:}
+\omega_{WP}=i\overline\partial{2\sum_{i,j=1}^h\omega_i''A_{ij}\overline \omega_j-3\left(\sum_{i,j=1}^h\omega_i'A_{ij}\overline\omega_j\right)^2\over 2\left(\sum_{i,j=1}^h\omega_iA_{ij}\overline\omega_j\right)^2}.\label{stress2ba}
+\label{eq:aux1}{\mathcal F} \;=\; {\mathcal F}_t\;+\; {\mathcal F}_l
+%V_\theta = V_0 - {1\over {\cal A}} a_{5/2}(\ln\Omega_\theta-\ln\Omega_0, P),%\label{thdep}%
+U(x+\Delta x)=U(x)+\sum_{n=1}^{\infty}  \frac{U^{(n)}(x)}{n!} (\Delta x)^{n},
+R^{(5)} = d C^{(4)} - \frac{1}{2} C_{r}^{(2)} R_{s}^{(3)} \epsilon^{r s} .
+Q_i = p_y \, p_{\overline{\eta}} + \eta \, \sigma_i\ ,\ \ \ \ Q_i^2 = 0\ ,\ \ \ \ \epsilon_Q = 1 \; . \label{2.7}
+\Delta = {d \over 2} + \nu, ~~~~~~~~~~~~~ \nu = {1 \over 2} \sqrt{d^2 + 4m^2}.   \label{nudef}
+V_{\beta \alpha }\equiv V^\mu \left( \widetilde{\sigma }_\mu \right) _{\beta\alpha }\mbox{ };\mbox{ }f_{\alpha \beta }\equiv \left( \tilde{\sigma}_\mu\right) _{\alpha \beta }f^\mu \mbox{ };\mbox{ }f^\mu =-\frac i2\varepsilon^{\mu \nu \rho }F_{\nu \rho }\mbox{ },  \label{1.13c}
+\frac{h}{r^3} \frac{d}{dr} (h r^{3} \frac{dR}{dr}) + [\frac{(\omega r_{1}r_{K}r_{5})^{2}}{r^{6}} + \frac{\omega^{2}( r_{1}^{2}r_{5}^{2} + r_{1}^{2}r_{K}^{2} + r_{5}^{2}r_{K}^{2} )}{r^4}]R = 0.
+\widehat{F}_{\mu \nu }=F_{\mu \nu }+f_{\mu \nu }+o\left( \eta ^{2}\right) ,
+\sum_{g\in G}|gcg^{-1}; gag^{-1}, gbg^{-1}\rangle~.\label{torusstate}
+\label{eq:actionvec}S = \frac{1}{2\kappa_5^2} \int dz\,d^4x \,\sqrt{g}\left(\frac{1}{2e^2} g^{ij}g^{kl}F_{ik}^a F_{jl}^a+\frac{1}{2}\left({\cal M}^2\right)_{ab}\,g^{ij}A_i{}^a A_j{}^b\right)
+{d{\widetilde m}_{np}\over d\tau}(\tau=\tau_{+})=0 \; ,
+\label{odin}\left( \frac d{d\eta }+\frac{im}{H\eta }\right) \Phi _1+k_x\Phi_2=0
+Z[J]=\exp(iW[J])=\int D\varphi\exp(iS[\varphi]+i\int d^4x J\cdot\varphi)
+\label{metric}g_{\mu\nu}=g^{(0)}_{\mu\nu}+\delta g_{\mu\nu},
+{\cal H}=\frac {i}{2}\sum_{k=1}^rp_k p_k-\hbar^2 tr (H^2H^2) \hskip 0.7 cm ,\hskip 0.7 cm {\mbox where} \hskip 0.5 cm  p_k=\frac{1}{2} (p_k^l+p_k^r)\label{gham}
+H=\frac{1}{2L} e^2 \ , \qquad [e,a] = {\rm i} \ .
+S = \int{d^4x}\sqrt{-g}\varphi\nabla^4\varphi
+\xi_1^m(u)=-\frac{\partial \xi_2^1(u)}{\partial x^m}+\sum_{i=1}^nx^i(u)\frac{\partial \xi^i_1(u)}{\partial x^m}.
+\tilde{\Phi}=\frac{1}{\sqrt{2}}\left( \begin{array}{c}v+H+i\phi _{3} \\ -\phi _{2}+i\phi _{1}\end{array}\right) ,  \label{Phitilde}
+\label{7P} P_L^2=P_R^2={1\over 2} G^{ij} m_im_j~,
+[(u,t), (v,s)] = ([u,v], \omega (u,v)),%\label{eq:}
+PID=\{\eta \in {\cal {C}}[0,T]\mid \eta (0)=\eta (T)=0\}
+\label{killingpre}k^u_I\,K_{uv}^x \ = \  -D_v P_{I}^x \equiv- (\partial_v P_{I}^x+ \epsilon^{xyz} \omega_{v}^y P_I^z)\ .
+F_{j\alpha\beta}\rightarrow(p_{j\alpha}\epsilon_{j\beta}-p_{j\beta}\epsilon_{j\alpha})\lambda_{j}\, ,
+U(z)      \ = \   \frac{9}{4}\dot{A}^2             + \frac{3}{2}\ddot{A}      \ = \   \frac{3}{4} e^{2A}              \left( 2A'' + 5 A'^2              \right),
+\Gamma^{ACC'}=\Gamma^{(AC)C'}+{1\over 2}\epsilon^{AC}\; \Gamma_{D}^{\; \; DC'} \; ,
+S^c = {\cal C}{\cal K}= e^{i\vartheta^c_{[1]}}\pmatrix{0&\Theta_{[1]}\cr-\Theta_{[1]}&0\cr}{\cal K}\,\,,\quad \Theta_{[1]} =\pmatrix{0&0&1\cr0&-1&0\cr1&0&0\cr}
+\label{4.3}O_{\Sigma}=-\nabla^2_{\Sigma}+m^2~~~,
+{8\pi^2} P_T = {4\pi}\int_0^T dt \int_0^\infty dr ({\partial_r}^2 + {\partial_t}^2)\omega
+\delta\psi_M=D_M \varepsilon +{1\over 64}~e^{3\phi/4}(\Gamma_M\,^{M_1M_2} - 14 \delta_M\,^{M_1} \Gamma^{M_2})\Gamma^{11}\varepsilon F_{M_1M_2}
+\label{tamvakis-planck} M_p^2 = M_5^3 \int_{-\infty}^{\infty} e^{2A_0(y)}\,  d y  =\frac{4 M_5^3 \sqrt{\pi}}{a(k^2-1)}\frac{\Gamma\left((k^2+3)/4)\right)}{\Gamma\left((k^2+1)/4\right)} \;,
+\sigma_{\lambda\mu} (I_1,I_2,I_3,I_4)={[2I_{34}+\lambda+\mu]![I_{34}-I_{12}+\lambda]!\over[2I_{34}+2\lambda]![I_{34}-I_{12}+\mu]!}\,\left[{\lambda\atop\mu}\right] \ .\label{eq:3.69}
+N(d,p+1)_{\rm massless}=N(d,\tilde{p}+1)_{\rm massless}\, ,
+\begin{array}{rl}&\displaystyle \int\frac{d^4k_1}{(2\pi)^4}\int\frac{d^4k_2}{(2\pi)^4}D(k_1)D(k_1+k_2)\overline{D(k_2+p)}K_1\\\approx&\displaystyle 2^{-1}(4\pi)^{-4}p^2\ln(p^2\tilde{p}^2).\end{array}
+\int_{\tau}^{-z+\tau}\omega_\mu (t,z,\tau )dt=\int_0^{-z}\omega_{\mu -2}(t,z,\tau)dt
+Y^{\alpha\beta}_L({\tilde x_L},{\tilde \theta}) = {{\tilde x_L}^{\alpha \beta}} + \frac{1}{4} \left( {{\tilde \theta}^{\alpha}} \psi^{\beta}({\tilde x_L},{\tilde \theta}) +  \alpha \leftrightarrow \beta \right),
+\left (\partial_{q^*}+\frac{c}{q-q^*}\right )\Psi (q,q^*)=0.
+\frac{1}{({M_{i}}^2-{p_{1}}^2)({M_{i}}^2-{p_{2}}^2)}=\int_{0}^{1} d\,\xi \frac{1}{{[{M_{i}}^2-{p_{1}}^2-({p_{2}}^2-{p_{1}}^2)\xi]}^2}
+h_{\mu\nu}(t,\phi,r) = e^{-i \omega t} e^{i\mu \phi}H_{\mu\nu}(r).\label{ptr_metric}
+%  r_{0}^{2} \;=\; \frac{2-\aleph}{6g^{2}} \; .%
+{\cal L}_{\rm LSM}=-\partial_\mu A'^* \partial^\mu A' -V(A', A'^*), \qquad V(A', A'^*)={1 \over |\cosh^2 A'|^2} .\label{eq:ernst_pot}
+\Theta =\int d^{3}x\left( \sigma ^{2}\partial _{i}\gamma -\epsilon_{ijk}\partial _{j}A_{k}\right) ^{2}\;,  \label{th}
+G_{m}(\phi) = G_{m}^{(0)}(\phi) + \lambda G^{\prime}_{m}(\phi), \;\;\;\;\;\;E_{mn}(\phi) = E_{mn}^{(0)}(\phi) + \lambda E^{\prime}_{mn}(\phi)
+S^{(n)}_{cl}(z_1,\ldots,z_{n-3})=\left\{\begin{array}{cc} 2\pi\log|z_k-z_i|+{\cal O}(1),\; & z_i\to z_k,\; k\ne n, \\2\pi\log |z_i|+{\cal O}(1) \; & z_i\to\infty.\end{array}  \right.\label{newssurf1}
+\label{liouville}\Delta_0 2\sigma= - 2\pi^z_{\bar z} \pi^{\bar z}_z e^{-2\sigma}-\sum_n m_n\delta^2(z-z_n^c)
+\tilde{K}_N[S^d\times\Sigma ]=\delta_\Sigma ~K_N[S^d]\label{3.28}
+\begin{array}{ccc} &h^{00}&\\ h^{10}&&h^{01} \\ &h^{11}& \end{array}\qquad =\qquad\begin{array}{ccc} &1&\\ n&&n \\  &1& \end{array}
+U(\phi)=\frac{1}{2} \sum_a  \frac{\partial W^1}{\partial\phi^a} \frac{\partial W^1}{\partial \phi^a} =\frac{1}{2}\left(1- 2(\phi_1^2+ \phi_2^2)^{\frac{n-1}{2}} \cos \left[ (n-1) \arctan\frac{\phi^2}{\phi^1}\right]  + (\phi_1^2 +\phi_2^2)^{n-1}\right)
+\hat{\pi}_{A_a} T=T ,\quad\hat{\pi}_{A_a} T^-=T^- ,\quad\hat{\pi}_{A_a} \Phi=\Phi ,\quad\hat{\pi}_{A_a} \varphi=\varphi
+\hat{I}=N\bar{b}\int[d\lambda][d\mu]|\lambda,\mu\rangle\langle \lambda,-\mu|
+_{\alpha _{1}....\alpha _{m}}{}^{out}\left\langle p_{1},....,p_{m}\left| A(0)\right| p_{m+1},....,p_{n}\right\rangle _{\alpha _{m+1}....\alpha _{n}}^{in}  \label{mixed}
+S = - T_{D3} \int d^4\sigma e^{-\phi} \sqrt{-\det (g_{ab} + \mathcal{F}_{ab})} + \mu_{D3} \int C_4,\label{pa}
+{\rm Re} \, \, I_n(\beta)=-\frac{M}{2{\pi^2}}\left( p^{2n} \beta + \frac{\beta^3}{3}p^{2n-2} +\ldots +\frac{\beta^{2n+1}}{2n+1} \right)+{p^{2n}}\frac{Mp}{4{\pi^2}}\log\left(\frac{\beta +p}{\beta-p}\right),\label{eq:integralcutoff}
+^3 S = \int d^3x {\mid h \mid}^{\frac {1}{2}}\left\{- ^3 R + \frac {1}{4}Tr\left[(J^G)^2 + (J^{\vec \Omega})^2\right]\right\};
+\label{cv}a^p_k = \sqrt{2p} \tilde A_k^{(-p)},\, p>0.
+\left\{\Psi\circ\mu ,f\right\}=(\overline X_if)\, (Y^i \Psi)\circ\mu\,,\label{mom2}
+\label{eq:add}  {\hat{\bar\Omega}}^r={\hat\Omega}_0^r\,, \qquad r \geq 3\,.
+\tilde C_{ab}=\nu_{ab}+\delta_{ab}\,\frac{1}{r_a} +\frac{1}{|\sum \vec r_a-2\pi\vec\zeta/R\,|} ,
+\!\!\!\!\!\!\!\!\!\! -{1\over 2}\sin{\phi_3}\sin{\phi_2}  \sin{\phi_1}\, t\,\hat{\rho}(-\theta_3-\theta_2) -  \sin^2{\phi_3\over 2}\sin{\phi_2}\cos{\phi_1}\, t\,\hat{\rho}  (2\theta_3 -\theta_2)
+\label{I} i) \hskip 2 cm (\phi^i)'  =  + 3 g^{ij} \partial_j  W \ , \qquad \qquad  {a'\over a} = - W \ .
+\hat{\Omega}^{\dagger}_{\mu}=\Omega_{\mu}-2i\partial_{\mu}\phi,
+U={\hat{\omega}+\gamma^k\hat{\pi}_k\over\sqrt2\hat{\omega}}\;,\quad\gamma^k=\left(\begin{array}{cc}0&\sigma^k\\-\sigma^k&0\end{array}\right)\;.
+\lambda \frac d{d\lambda }m_R(\lambda )+\gamma _m(\lambda )m_R(\lambda )=0
+\left[ W_{\mu },P_{\nu }\right] =0\,\,\,\,\,\,\,\,\,\,\left[ W_{\mu },M_{\nu \kappa }\right] =i(g_{\nu \mu }W_{\kappa }-g_{\kappa \mu }W_{\nu })\,\,\,\,\,\,\,\,\,\left[ W_{\mu },W_{\nu }\right] =i\epsilon _{\mu \nu \kappa \lambda }W^{\kappa }P^{\lambda }
+\int [dU]~\chi_R(U)~\chi^*_{R'}(U)~=~\delta_{R,R'}
+\label{2eq8}f_{\pm}(r) = 1 -\frac{\omega_n M}{r^{n-1}} +\frac{n \omega^2_n Q^2}{8(n-1)   r^{2(n-1)}} -\frac{2\Lambda_{\pm}r^2}{n(n+1)}.
+{\bf b}^{12\pm}\sim{\rm const} \label{101}
+\label{dvdz}2zU{dV\over dz}={g_1\over g_2}~,
+E_{\exp }^{\left( 1\right) }=\left. -\frac \mu2\frac d{dt}\left( \sum_{n=-\infty }^\infty e^{-t\left( \left(\frac{2n\pi }{L\mu }\right)  ^2+\left( \frac m\mu \right) ^2\right)^{\frac 12}}\right)  \right\rfloor _{t=0}\,.
+W \equiv (2N\sinh^2\delta_1 +\Delta)(2N\sinh^2\delta_2 +\Delta)\label{ebhdef}
+\sigma_{\mu\nu}=\sigma \varepsilon_{\mu\nu}=\sigma\left( \begin{array}{cc} 0&1\\-1&0\end{array}\right),
+\left( \begin{array}{cc}\alpha  & \beta \\-\frac{1}{\beta } & 0\end{array}\right)
+S_{5} = \int dt (Tr(\frac{1}{2} \dot{\phi}^{2}) - V_{5})
+{\tilde a}_\alpha = a_\alpha + \lambda_\beta \partial^\beta \Sigma\;,
+{W(S,T) = {\Omega (S) {H(T) \over{{\eta (T)}^6}}}} ,\label{HG}
+{\cal A}_{\rm II}(b)=\int d^2 z \int d^4\theta \left[SS^{\dagger}+{\tilde\mu}e^{b(S+S^{\dagger})}\right]\label{actiontwo}
+\mbox{J=(isopinor space) }: \left\{ 1= \left( \begin{array}{l} 1\\ 0  \end{array} \right), j= \left( \begin{array}{l} 0\\ 1  \end{array} \right) \right\}
+\label{f3.4}  f^{(2n)}(q)= \sum_{l=1}^{n+1} a_l^{(2n)} f^l(q),
+\epsilon'^{i}=\sqrt{\det A}[(A^{-1})^{t}\epsilon]^{i}.
+\label{4.10}i\int D\phi \frac{\partial }{\partial \theta }S_{eff}[\phi ,\theta ]\delta \theta \exp \left( iS_{eff}[\phi ,\theta ]+i\int d^{4}xJ\phi \right)
+S[\beta^\mu(\tau), N(\tau)] = \int d\tau \left[\frac{G_{\mu \nu}}{N} \frac{d \beta^\mu}{d \tau} \frac{d \beta^\nu}{d  \tau}- N \, V(\beta^\mu) \right]\label{action}
+d{*}G_{(3)}+ 4i \kappa G_{(3)} \wedge F_{(5)}=0\ .\label{eom}
+B=-2\sigma^{\mu\nu}{\partial S^{(0)}[\phi]\over\partial\sigma^{\mu\nu}} \label{l76}
+\label{csp}\langle \psi \mid  \varphi \rangle_c ~=~ \frac{1-i\mid i}{2}~\langle \psi \mid  \varphi \rangle~,
+J^B_\mu=i(W\partial_\mu W^*-W^*\partial_\mu W)\label{J^B}
+x_0 = \rho \cos \varphi \, , \quad x_b = \rho \sin \varphi \, , \quad x_i = 0 = x_j \, , \quad \left| \epsilon_{b i j} \right| = 1
+R_{+}=R_{-}^{-1}+\lambda P_{12},~~~\lambda =q-1/q.\label{7}
+\lambda_+(x) = -i\sqrt{{\pi\over L}}\sum_{n=1}^\infty {1\over\sqrt{p_-(n)}}\left( C(n)e^{-ip(n)x} + C^*(n)e^{ip(n)x}\right)
+\label{puii2}M=-\frac{\gamma}{2} \int r^{2}\mathcal{V}\, d^{2}x.
+\left(af\right)(x)=\frac{1}{\left(2\pi\right)^{d/2}}\int d^dq\sigma (a)(q,x) \hat{f}(q)e^{iq\cdot x}
+v_{\pm} = 1 + \frac{1}{2}\sqrt{W(x)} \pm\frac{1}{2}\sqrt{-W(x) +\frac{2x^{2}}{\sqrt{W(x)}}}\;,
+\label{eq:wy7}\omega ^2\left( \vec p,t\right) =\vec p^2+\left(p^3-e\,A\left( t\right) \right) ^2+m^2
+{\rho}(k,t) \equiv \int_{-\infty}^{\infty} dp {\psi}^{\star}(p+k,t){\psi}(p,t).
+\label{left1}G'=(1+i\epsilon)G,\quad\epsilon =\epsilon^0 L_{-1}+{\epsilon^{1}}L_0+{\epsilon^{2}}L_1+...+{\epsilon^{m}}L_m+... ,
+S_{impr} = S + \frac{is}{2\pi}\oint d\phi \left.\left[Y \partial_{\bar z} X           - X \partial_z Y\right]\exp(-\Phi)\right|^{t_2}_{t_1}\,.           \label{impract}
+V_0 = {\partial \over \partial \bar z} + {1\over 2} \xi^s_i\lambda^i_{,\bar z}({\partial \sigma_s \over \partial p}{\partial \over \partial q} - {\partial \sigma_s \over \partial q}{\partial \over  \partial p}),
+q ~=~ e^{i \pi \over (g-h+1) + h} ~=~ e^{i \pi \over g+1} \ .\label{qvalue}
+\begin{array}{rcl}[(1a)+(1b)+(1c)+(2a)+(2b)]_{\delta Z_{\phi}}&=&\displaystyle ({\rm ~one~loop~result~})\times(-\delta Z_{\phi}),\end{array}
+\left\{R, \pi_R\right\}_{Pb} =-1 \, , \, \left\{\varphi ,\pi_\varphi \right\}_{Pb} =-1 \, .\label{bracket2}
+k_{n\mu}T_{n}^{\mu}=eT_{n-1}(r;k_{1},..,k_{n-1}).
+I_{-1k}\left( \mu ,\lambda \right) \approx \Gamma \left( k+1/2\right) \frac{e^{-2\mu k\lambda }}{\left( 4\mu k\lambda \right) ^{k+1/2}},
+<0|V_{2p+1}(z_{1})...V_{2p+1}(z_{n})|0>=\prod_{i<j=1}^{N}(z_{i}-z_{j})^{2p+1}
+\label{BTZ}ds^{2} = - N^{2} dt^{2} +  N^{-2} dr^{2} +r^{2} \left(N_{\phi} dt+d \phi\right)^{2},
+<\theta_{1}\theta_{2}> = - <\theta_{2}\theta_{1}> \ .
+\label{det(m)=}det(m)= \left( 1-{h^2\bar{h}^2 \over 4} \right)^2 .
+\frac{f_i^\prime}{f_i}=\frac{f_j^\prime}{f_j}
+\lambda_{b}(x^\alpha) =\lambda_0 - \frac{D-2}{\theta_0(x^\alpha)}.\label{eq-caustic}
+X^0_-\equiv X^0_-(\tau_1)=X^0_-(\tau_2)=...,
+G_{n} = E^{\frac{n}{2}} \frac{sin ((n+1)\theta)}{sin \theta}, \;\;\;\;\;\; F_{n} = E^{\frac{n}{2}} cos (n\theta) \label{u}
+V(f)=\{\mathbf{z}\in \left( \mathbf{C}^{\ast }\right) ^{\mathbf{k}}\mid f(%\mathbf{z})=0\}  \tag{5.39}
+T=c_T\cdot{\bf 1} + \sum c^{a_{1}\dots a_{2}} T_{a_{1}}\dots T_{a_{l}}\label{eq11},
+\label{bullet}f\bullet g(x)= \left\{P(\alpha_\phi)(f_\phi\otimes g_\phi)\right\}(x;0).
+\kappa_{\alpha\beta\ \mu } =  e_{a\alpha}\, \kappa^{ab}_{\ \ \mu} \, e_{b\beta},\label{kappamu}
+\label{compactification_radius}r=\frac{\sqrt{4\pi }}{\beta }k\, .
+(N^{-1})^i_r = \frac{1}{N} \left((1-\xi K^l_l) \delta^i_r + \xi K^i_r \right).
+\label{condbounce}2 \rho_{\Lambda} - (D-2)\rho_{\rm r} - \biggl[(D-3) +(D-1)\gamma^*\biggr]\rho^*>0\, .
+2B_{IJ}=\left( \begin{array}{cccc}               0 & d & a & c\\               -d & 0 & -a-c & a\\               -a & a+c & 0 & b\\               -c & -a & -b & 0               \end{array}        \right)~,~~~ G_{IJ} =\left( \begin{array}{cccc}               2u & -u & f & h\\               -u & 2u & -f-h & f\\               f & -f-h & 2v & -v\\               h & f & -v & 2v               \end{array}        \right)~.
+\partial_T g^{-2}(T,\overline{T})=i\Theta_T\ ,\label{thetat}
+a^{\prime }(r_{2})-a^{\prime }(r_{1})=-\frac{15}{2}\pi^{2}\int_{S(r_{1},y)}^{S(r_{2},y)}{\rm d}^{4}x\ |x-y|^{4}\langle\Theta (x)\\Theta (y)\rangle.  \label{ar}
+\bigl[\,\ldots\,\bigr]^2=-\Psi^2-2\Psi\bigl[\,\ldots\,\bigr] \ .\label{Yoneya_decomposition}
+\Delta_{k k^{\prime}}=\{\Omega_{k},\Omega_{k^{\prime}}\} = 2\epsilon^{kk^{\prime}}a^{\mu}a^{\mu}  \label{delta}
+F_{(z,w)(z',w')}=(2\pi)^{2}\frac{i}{g_{st}^{2}}(zw'-z'w) \delta (z+z') \delta^{'} (w+w')\label{new.16}
+\label{f19}  k \approx \frac{n}{\log n}\left(1+\frac{\log \log n}{\log n} \right).
+\sinh \theta ^{m}-rm/2\sinh (2\theta ^{m})+\cosh (\theta ^{m})(\varphi^{\prime }*L^{f})(\theta ^{m})=0\,\,\,.
+f(z) = 4 \tan^{-1} \exp{[\gamma_+ x^+ +\gamma_- x^- -\Delta_0]} \label{eq18}
+i\overline{\psi}_{R}\gamma_{\mu}\psi _{R}=i \overline{\psi}\gamma_{\mu}\frac{1-\gamma_{3}}{2}\psi \longleftrightarrow \frac{1}{\sqrt{2 \pi}}(\partial_{\mu}\Lambda+\epsilon_{\mu \nu}\partial^{\nu}\Lambda).
+2 \pi \alpha^{\prime} T_{\alpha \beta} = t_{\alpha \beta}\label{scale}
+\hat S=\frac{1}{2\hat  \kappa{}^2}\int d^5\hat{x}\sqrt{-\hat{g}}\hat{R}\label{action}
+\label{bogo}t \rightarrow {\partial\over \partial\bar t}\ ,\qquad\qquad {\partial\over \partial t} \rightarrow -\bar t\ .
+G(\tau_1,\tau_2) = \mid \tau_1 - \tau_2\mid -{{(\tau_1 - \tau_2)}^2\over T}\quad .\label{defG}
+\int {\cal D} \phi e^{-\beta \int Tr (\frac{1}{2}\dot{\phi}^{2} + U(\phi )) dt},\label{1}
+\Omega(E)=\sum_{n=1}^{\infty}\frac{1}{n!}\int_0^{\infty}\prod_{i=1}^{n}dE_i\Omega_1(E_i)\delta\left(\sum_{i=1}^{n}E_i-E\right)
+\label{omega_n}\omega_n({\bf p})=\sqrt{{\bf p}^2+\frac{\pi^2}{\ell^2}\left[(n+s)^2+\frac{g}{3}\right]}\qquad(n=1,2,\ldots).
+\alpha_0|_{\partial M}=0,\quad\alpha_\theta |_{\partial M}=0,\quad\left( \partial_r +\frac 1r \right) \alpha_r |_{\partial M}=0,\quad\sigma |_{\partial M}=0.\label{asbc}
+L=-\stackrel{.}{t}p_{t}-\stackrel{.}{r}p_{r}-\stackrel{.}{\phi }p_{\phi }-%\frac{A^{22}}{2}\left( -\left( \frac{p_{t}}{N}\right) ^{2}+\left(Np_{r}\right) ^{2}+\left( \frac{p_{\phi }}{NM}\right) ^{2}\right)
+W_{1324} = \frac{2^9 c^4}{x_{13}^8 x_{24}^8} \frac{s(-s+t^2-3st+4s^2)}{(1-t)^3}.
+Z(q,\gamma,0) = \int {\cal D} g {\cal D}  {\hat \psi} {\cal D} A \,e^{-I(g,A,{\hat \psi})}, \label{FPI}
+\widetilde{C^{(5)}} = 2 \widetilde{R_{4242}} =0,
+{\cal L}_{WZ} = \alpha f^\mu\partial_\mu\theta + \frac{\beta}{2}\partial_\mu\theta\partial^\mu\theta.
+\label{luto1.5}  \{ {\cal{Q}}_{a}, {\overline{\cal{Q}}}_b \} = {\cal{Z}}_{ab} =  \pmatrix{P_0 +P_9 & P_8+t_rP_r\cr  P_8-t_rP_r & P_0-P_9 }\, ,
+L_{1}^{\left( 0\right) }\,=\,-\frac{a}{2}A_{\mu }^{\left( 0\right) }\,A^{\mu\left( 0\right) }\,+\,\frac{b}{2}\left( F_{\mu \nu }^{\left( 0\right)}\right) ^{2}\,+\,\theta \,\epsilon ^{\mu \nu \rho }\,\,A_{\mu }^{\left(0\right) }\,\partial _{\nu }\,A_{\rho }^{\left( 0\right) }.  \label{eq3}
+\exp\bigg\{\frac{i}{\hbar}S_{\rm ext}\bigg\}=\exp\bigg(-i\hbar \hat{T}(F)\bigg)\exp\bigg\{\frac{i}{\hbar}S\bigg\},
+\{K^{(3)}_A, E_{AB}, \tilde E_{AB}^{(\pm)}, K_A^{(\pm)},1\le A\neq B\le N\} \quad\rightarrow \quad  Sp(2N).
+a^{(0)}_{q_i(t)}= m p_i(t)- e A_i(t,\vec q),
+\phi (\pi ,\varphi )=ae^{-2i\varphi }|2\lambda _{\phi }-2\alpha >
+\partial_{\mu}T(\phi(y)j^{\mu}(x))=\delta(x-y)e\phi(y),
+f_{i+1}(t,z)=-2i(m_iz^{m_i-1}t+h_{i+1}(z))
+S=\int L=\lambda^2_u(u)\lambda^2_v(u)+\lambda^2_u(u)\lambda^2_v(v)+\lambda^2_u(v)\lambda^2_v(w)+\lambda^2_u(w)\lambda^2_v(u)+\lambda^2_u(w)\lambda^2_v(w)+\lambda^2_u(v)\lambda^2_v(v)\qquad
+\widetilde{W}({\bf k})=\frac{ (2 \pi )^{{D_{0}}/2} }{    k^{ {D_{0}}/2 -1 }  }\, \int_{0}^{\infty} dr r^{{D_{0}}/2-2}J_{{D_{0}}/2-1} (kr)\;  .\label{eq:fourier_ISP2}
+x_8 = y-\frac{1}{8}\left( c_5^2-4c_4-4c_5z-8z^2\right).
+E_{k}^{2}=\frac{\cos (2\pi w_{r}/H)+\cos (\pi (2j-1)/H)}{\cos (\pi /H)+\cos(\pi (2j-1)/H)};~E_{r}=\frac{\sin (\pi w_{r}/H)}{\sin (\pi w_{r})\,\sin (\pi/2H)}.  \label{bde}
+=\int\! dx ~(J^{1~j} \Phi^j+{i\over2} \bar\chi^j\gamma^1 \Psi^j -{i\over2} \bar\chi^j\gamma^1 \varepsilon^{jkl}\Phi^k \chi^l).
+\label{ang1}\left[ \sigma ^2\partial _\vartheta -i\frac{\sigma ^1}{\sin\vartheta }(m+F+(1-\cos \vartheta )g)\right] \bar \Phi _1=-ik\bar \Phi _1
+{\cal L}_{P}=L\wedge dB+\frac{1}{2}B\wedge {}^{*}B.  \label{M02}
+r (\xi,\eta ) ~=~ f(\xi_{12})[ \xi_{12}^{-1} r^+ +      \xi_{12} r^-  ]~,\ \ \ \ L (\xi)  ~=~ { \xi^{-1}}  L^{+} + \xi L^{-},
+|\alpha(q)| \;>\; \frac{3}{2} + \left\{ \begin{array}{ccl}\displaystyle \left| \frac{w_{ij}(q) a^i q^j}{\Delta(q)} \right|&\;\;\;& {\mbox{if $\Delta(q) \neq 0$}} \\[1em]\displaystyle \left(1+\Theta(1-2\sqrt{|l(q)|} \right)\: \sqrt{|l(q)|}&& {\mbox{if $\Delta(q)=0$}}. \end{array} \right.\label{2r}
+\hat n_{(a_1,\cdots,a_k)}=e_{a_1}+e_{a_2}+\cdots+e_{a_k}
+\sum\limits_{k=2}^{n}\frac{B_{k}}{N}\frac{F_{k}}{k!}(m+2)(m+3)..(m+k-2)>\sum%\limits_{k=2}^{n}\frac{B_{k}}{N}\frac{F_{k}}{k!}m^{k-3}  \tag{242}
+w_{m_{l+1}}={1 \over 4} w_{m_l} + N_{w_m}[\mu_{m_l}, g_{m_l},w_{m_l}] \;.
+F(xe^{\pi i/2})=(-1)^{m+1}F(xe^{-\pi i/2}), \label{th4cond1}
+\label{rid2}\frac{d}{dt}\delta (t-t')=0!
+E^{abcd} \equiv {1\over 2}\Bigr(g^{ac}g^{bd}+g^{ad}g^{bc}-g^{ab}g^{cd}\Bigr).\label{15}
+N^{'} {\mid {\cal Q} \mid}^{-2} e^{-i \int dx {\cal J}{{\cal Q}}^{-1} \bar{{\cal J}} }
+\label{chir}\partial_{-2}\theta^{\alpha1}=\partial_{-2}\lambda^{\alpha1}_+\equiv\partial_{-2}\lambda^{\alpha}_+=0,\ \partial_{+2}\theta^{\alpha2}=\partial_{+2}\lambda^{\alpha2}_-\equiv\partial_{+2}\lambda^{\alpha}_-=0.
+\langle \xi(s_1) \xi(s_2)\rangle_{\xi} = \hbar I(s_1,s_2). \label{A31}
+\phi + \bar{D}^2 \bar{F} + \bar{\phi} + D^2 F
+\label{eq:gensint1}  \{ x_a^k \,,\, e A_k (x_b) \} \;=\; \delta_{ab}
+\mathcal{S}_{\mathrm{CS}}(A)+\mathcal{S}(F),\;  \label{eff-cs}
+Z_1^*W_{\pi^+}(K)Z= e^{i \frac19 30 m}e^{i 90 m}b_1 z_1^*z_1 +  e^{i \frac19 30 m}e^{i 90 m}b_2 z_2^*z_2+\frac12 e^{i \frac19 30 m}e^{i 90 m}b_3 [z_1^*(z_1+z_2)+ z_1^*(z_1+z_2)]             \label{casimor7}
+I_{TOP}=\frac{\Theta _{G}^{P}}{2\pi }{\rm Tr}\int_{X}R\wedge R+i\frac{\Theta _{G}^{E}}{2\pi }{\rm Tr}\int_{X}R\wedge \widetilde{R},\label{topo}
+V(\vec\varphi^2) = \frac{\mu^2}{2}\vec\varphi^2 +\frac{\lambda}{4}(\vec\varphi^2)^2 \label{eq:v2.2}
+Y_{2} R_{12} K_{1} R_{21} = R_{12} K_{1} R_{21} Y_{2} + \eta_{3}R_{12}{\cal P}\quad; \label{tp} \\%
+\delta M=T\delta S+\mu_{q}\delta q - D\delta\phi_{0},
+{i\over 4\pi} \delta_{ab}\epsilon^{\mu\nu\rho}{(x-y)_\rho\over |x-y|^3}, \,\,\,\,\,\,\,\,-i g f_{abc} \epsilon_{\mu\nu\rho} \int d^3x , \,\,\,\,\,\,\,\,g (T^a)_i^j.\label{nuevetres}
+\times\qquad\left\vert\begin{array}{cccc}(x_1-x_{r+1})_1 & (x_2-x_{r+1})_1 & \ldots & (x_r-x_{r+1})_1 \\(x_1-x_{r+1})_2 & (x_2-x_{r+1})_2 & \ldots & (x_r-x_{r+1})_2 \\     \vdots     &      \vdots     & \ddots &      \vdots     \\(x_1-x_{r+1})_r & (x_2-x_{r+1})_r & \ldots & (x_r-x_{r+1})_r\end{array}\right\vert\qquad=\qquad
+x^2+y^2+z^n+a_{n-2}z^{n-2}+a_{n-3}z^{n-3}+\ldots+a_0=0
+\lambda_{0}= (\lambda+\delta\lambda)(1+\delta Z)^{-2},
+\omega^{ij} = \iota^*\left(\Omega^{ij} - \Omega^{ik} \frac{\partial\psi^\alpha}{\partial Z^k} \Xi_{\alpha \beta} \frac{\partial\psi^\beta}{\partial Z^l} \Omega^{lj}\right),
+p_\mu = \partial_\mu + \omega_\mu{}^{\alpha \beta}a^+_\alpha a_\beta.
+S=\frac{A}{4G_7}=\frac{\Omega_5}{4G_7}\sqrt{1+\frac{q}{r_h^4}}r_h^5 \,.
+U=\frac{e^2}{8G}\left( |\phi |^2-v^2+\frac{2\kappa }eM+2g|\phi |^2M\right)^2+\frac{e^2}2M^2|\phi |^2  \label{higgs2}
+U_{\mu}=u_{\mu}\prod_{a,b=1}^{d}\left( {\mathbf{P}}_{\alpha_{ab}}^{Q_{\mu}^{a}}{\mathbf{Q}}^{Q{\mu}^{b}}\right),
+X^i-\hat{X}^i=\frac{1}{P^0}(S^{0i}-\hat{S}^{0i}),\label{XfraX}
+Ind\,D_{p}=ker\,D_{p} \ominus ker\,D_{p}^{\dagger}
+\dot{\rho}^2=-\frac{1}{g_{\rho\rho}} \frac{E^2 g_{\varphi \varphi}+L^2g_{tt}} { g_{tt} g_{\varphi \varphi} } -\frac{\delta}{g_{\rho\rho}}\,.\label{GEOD_1}
+\label{freein}\Omega^{+}\phi^{in}=\phi^{+}\, ,\quad\phi^{+}(t)=e^{-iHt}\phi^{+}\, ,
+\label{dualitygroup}  G=SO(4,n)\times O(1,1)
+\label{luz3.7}\delta(\partial_\mu f) = \partial_\mu \delta f + e\theta\varepsilon_{kj}(\partial_\mu \partial_j \Lambda )\partial_k f \, .
+I =\int_{0}^\infty \frac {d\omega}{\sqrt{\omega^2 + \mu^2}} \left( \coth \frac {L\sqrt{\omega^2 +\mu^2}}2 - 1\right) .
+\gamma = \theta \wedge (d\theta )^{q},\label{eq2}
+\left[ \frac{\pi _{+}}{\sqrt{2eB}},\frac{\pi _{-}}{\sqrt{2eB}}\right] =1%\text{ .}
+-4\displaystyle\frac{\partial ^{2}}{\partial u\partial v}{\tilde{\psi}}(u,v)=%{\tilde{V}}(z){\tilde{\psi}}(u,v)  \label{eq16}
+R(\gamma_{L},\delta_{L})\;R(\gamma_{L^{\prime}},\delta_{L^{\prime}})\;=\;   R(\gamma_{L\,L^{\prime}},\delta_{L\,L^{\prime}}).\label{3.2}
+\nabla [(\nabla P)P^{-1}]+P(\nabla \times \vec \Omega)P\nabla\times \vec \Omega=0.
+\phi_\pm^f \simeq \left [ \alpha_\pm {J_\nu(u) \over u} +                   \beta_\pm {J_{-\nu}(u) \over u} \right ].\label{far-sol-swave}
+\label{D11'}+H_{2}^{-2/3}(dz_{4}^{2}+dz_{5}^{2}+dz_{6}^{2})+\sum_{i=1}^{3}dx_{i}^{2}],
+\alpha'_{2}=\sqrt{\beta_{1}^{2}+\beta_{2}^{2}-\alpha_{2}^{2}}
+f^2\nabla (f^{-1}e^{-2\alpha\phi}\nabla v)+(\nabla\chi +{\bf w})\nabla a=0,
+\label{5}S_R=-\mbox{Tr}~\hat{\rho}\ln\hat{\rho}~~~,~~~\hat{\rho}={e^{-\hat{H}/T_H} \over\mbox{Tr}~e^{-\hat{H}/T_H}}~~~.
+S_{\rm{\small int}}={1\over 2}\int d^Dx~f(r)~T_{\mu\nu} H^{\mu\nu}~.
+\label{treeL}\frac{1}{\sqrt{-g}}{\cal L}=\frac{1}{2\kappa}R-\frac{1}{2}g^{\mu\nu}\partial_\mu\phi\cdot\partial_\nu\phi-\frac{1}{2}\exp(-2\frac{\phi}{f_\phi})g^{\mu\nu}\partial_\mu a\cdot\partial_\nu a
+V_B=- m^{\delta} \phi^{\gamma} + {\rm H.c.} \ ,\label{breaking}
+\label{phiM}M^i_j =0, \qquad \tilde B^{j_1\cdots j_{N_D}} =0,\qquad B_{i_1 \cdots i_{N_D}} =m^{N} \ \epsilon_{12...N_c i_1 \cdots i_{N_D}}.
+\left\{ Q_{\alpha i}, Q^{\dagger \beta j}\right\}= P_\mu \delta^j_i\left( \gamma^\mu \gamma_0\right) _\alpha{}^\beta \ .
+{\cal  L}_1 =  \psi^\dagger_\uparrow  (i  \partial_t  -  \epsilon (p))\psi_\uparrow   +  \psi^\dagger_\downarrow  (i  \partial_t - \epsilon (p))\psi_\downarrow   + \sqrt{\lambda g}(\phi^*\psi_\downarrow \psi_\uparrow +\phi \psi_\uparrow^\dagger \psi^\dagger_\downarrow) +g \phi^* \phi\, \, \, \, . \label{2.}
+\label{Zalpha}Z = \sum\limits_{\alpha}e^{ig_{\alpha}}              \int\limits_{{\cal E}(a_0,a_1)}               D[X]\exp\ iI,
+{\cal Z} = \int \!  [ d q^{i} d p_{i} ]~ \delta ( \Omega_{a} )             \delta ( \Gamma^{b} ) \det |\{ \Gamma^{b}, \Omega_{a} \}|~              e^{ i\!\!\int \!\! d x(p \dot{q} - H_{c})}
+\rho(\tau)=\left[\rho^{-\frac{1}{2}}(0)+\frac{1}{\sqrt{3}r^\frac{3}{2}_0}(\tau -\tau _0)\right]^{-2}.
+Z_{l}^{SU}(g,\theta)\sim\frac{\sqrt{2\pi}}{g}\exp\frac{g^{2}}{8}(\frac{\theta}{\pi})^{2}{\rm det}_{jk}\exp[-\frac{g^{2}}{2N}\{(j-k)^{2}-\frac{1}{4}(\frac{\theta}{\pi})^{2}\}].
+a_{1}=a_{i}+4\sum_{1\leq j \leq i-1} \ln \left(\frac{k_{j}-k_{i}}{k_{i}+k_{j}}\right)\,.
+\Gamma_{AB}\equiv{1\over 2}\left[\Gamma_A~,~\Gamma_B\right]~,
+E_F = \sum_{k r s}\biggl\{\epsilon^0_{-k r}\Bigl[|U^{(-k r)}_\beta v^{(r k s)}_\beta|^2+|V^{(-k r)}_\beta v^{(r k s)}_\beta|^2\Bigr]\biggr\}\geq 0.
+L^{\xi} = p\cdot\hat{H}+X^{\xi},\quad   X^{\xi}=i\sum_{\rho\in\Delta_{+}}g_{|\rho|}   \,(\rho\cdot\hat{H})\left(x(\rho\cdot   q)-x(\rho^\vee\!\cdot\hat{H}\xi)\right)\hat{s}_{\rho},   \label{LaxOpDefxi}
+\label{statpot}V(r)=-\frac{g^2 C_F}{4\pi r}\left[ 1+\frac{g^2}{4\pi}\frac{C_A}{2\pi }\left( 4-\frac13\right) \log(\mu r) \right]\,.
+\frac {\Phi}{\sqrt{-\gamma}} = c = constant.
+-\frac{1}{8\pi g^{2} } \int d^{2}x tr   \sum_{\mu \neq 2,3,4,5}\left[ ((2M+1)/B+(2N+1)/B+U^{2})       \left(c_{\mu} c_{\mu}^{\dagger}     +c_{\mu}^{\dagger} c_{\mu} \right)  \right]_{\star} .
+\Biggl[ - {d^2\over d\tilde{\xi}^2} + V_{(p)} \Biggl]\eta^{\hat{s}}_{(p)}   = \eta^{\hat{s}}_{(p)} \quad ,
+{R_s^2\over 4(k-2)^2}\biggl(4(k-2){\hat N}-{\hat N}^2+4{\hat N}-4C_{2,U(k-2)}\biggr)
+\label{e.2.1}             [a,b] \equiv ab  -  ba \ =\ I,
+E_i^a(q)={\Lambda^a}_b V^b_\mu(q)\delta^\mu_i.\label{vierbein}
+\Delta ^{ij}_{22}=[\pi _0(\pi .S)\epsilon ^{ij}+e(F^{ij}S^2+S_bF^{bi}S^j+S^iF^{jb}S_b]~~;~~S^2=S_aS^a .\label{29}
+\Psi\approx \alpha_1e^{iS^{(+)}(\beta,\phi)}\chi^{(+)}   (\beta,\phi,\{x_{\lambda}\}) +\alpha_2  e^{iS^{(-)}(\beta,\phi)}\chi^{(-)}   (\beta,\phi,\{x_{\lambda}\}),
+e^{2\pi i \alpha_j} \neq 1,\label{nontbc}
+[<\phi_{n}(t)|+\sum_{k\neq n} C_{nk}(\theta)<\phi_{k}(t)|]\frac{\partial}{\partial t}[|\phi_{n}(t)>+ \sum_{\ell\neq n}C_{n\ell}(\theta)|\phi_{\ell}(t)>] .
+U^\nu{}_\rho U^\mu{}_\sigma \theta^{\rho\sigma} = \theta^{\nu\mu}\,.
+\label{eom2}0=(\phi_2^{\prime}+H_1\phi_1)^{\prime}+\frac{1}{r^2}\phi_2(1-\phi_i^2-\phi_2^2)-(im-H_1)(\phi_1^{\prime}-H_1\phi_2)-M^2(\phi_2+\sin \beta );
+E: \mathbf{Q} \to \mathcal{A}~, \qquad E(q) = qe~.
+\label{2.5.38}\{D_s,D_q\}\eta^{\prime r}-{2i\over{D-2}}\delta_{sq}{\partial\over{\partial{\tau}}}\eta^{\prime r}=0,
+E_{\vec{p}}=\pm \sqrt{m^2 +\frac{1}{a^2 }\sum_{l=1}^{3}\sin ^{2}p_{l}}\quad .\label{lspe}
+\label{cc}z_{1} = \frac{1}{\sqrt{2}}( x^{1} + ix^{n+1})   \, ,  \frac{1}{\sqrt{2}}( x^{2} + ix^{n+2}) \, , \dots \, , z_{n} = \frac{1}{\sqrt{2}}( x^{n} + ix^{2n}) \, .
+2 S_{ijk} = - \epsilon _{ijk},\label{10}
+\label{openlcham}H_{l.c} = -2p_+ = {1\over p^+}\big({p_\alpha^2 + {\cal H}_{o}}\big), ~~~ {\cal H}_{o} = {\cal H}_b + {\cal H}_f + \cdots
+\delta \lambda^{(X)}:=\frac1{\sqrt{2}}\left[i f^{(X)}_Y \gamma^\mu \partial_\mu\Phi^Y+2(p-2)f^{(X)Y}\frac{\delta W}{\delta \Phi^Y} \right]\epsilon,
+B|_{\partial\Sigma_3}\rightarrow B|_{\partial \Sigma_3}-\Lambda|_{\partial\Sigma_3}.
+\rho_0=\sigma_0=I,\; \rho_1=\sigma_1=\sigma_x,\;\rho_2=\sigma_2=i\sigma_y,\;  \rho_3=\sigma_3=\sigma_z,\;
+{\cal P}^\prime = {\nabla^2 }C, \label{canno2}
+m^2(S)=V_{\mbox{\scriptsize flat}}^{(1) \prime \prime}(\varphi_m).
+[e^{\alpha}, e^{-\alpha '}]=\delta_{\alpha \alpha '}h^{\alpha}\label{ea}
+g\ :\quad X^I\ \ \rightarrow \ \ U^{IJ}X^J\ .\label{XtoUX}
+\Psi=x^3\bar{\cal C},\;\;[Q,\Psi]={\cal C}\bar{\cal C}+ \pi x^3\;.
+A_1^z=A^z_1(l)=\frac{2}{\cosh(l)}\;,\quad A_1^{\bar{z}}=0\,,
+k\cdot x=\sum _{\mu =0}^{5}k_{\mu }x^{\mu }
+2(2a)^{-s}\frac{1}{\Gamma(s)}\sum_{k=1}^{\infty}(-1)^{k}\int_{0}^{\infty}dt\, t^s\frac{e^{-(\frac32+\frac{c}{2a})t}}{1-e^{-t}}\frac{1}{(k\pi)^{2}+(\frac t2)^2}
+\begin{array}{rcl}\, [\delta_Q(\varepsilon_1),\delta_Q(\varepsilon_2)]& = &\delta_R(\xi=2\varepsilon_2\varepsilon_1 e^{-1}) +\delta_Q(\varepsilon = -2\varepsilon_2\varepsilon_1 e^{-1}\chi) ,\\   \,[\delta_R(\xi_1),\delta_R(\xi_2)] & = & \delta_R(\xi = \xi_2\dot{\xi}_1 -\xi_1\dot{\xi}_2) ,\\   \,[\delta_R(\xi_1),\delta_Q(\varepsilon_2)] & = & \delta_Q(\varepsilon =-\xi_1\dot{\varepsilon_2}). \end{array}\label{alg3}
+\frac{ \partial }{\partial \theta } S_k(\bar{y})\left |_{\Psi_j =0}\right .\label{a4}
+\Delta J^i = J^i \otimes I + I \otimes J^i = J_1^i +J_2^i \,.
+F_{\varphi r}=\frac{\chi_{\rm m}}{4 \alpha^2 r}e^{2 \phi},\label{MAX_1}
+\sigma^n_q ( w ) = q^n w + [ n ],  \label{eq:note}
+\label{magne2}B_1 = \frac{b}{\sqrt{(1 + b^2) W_1 - b^2}}
+\Delta M_{ADM}=\frac{\pi ^{3}T_{H}^{2}}{32l^{3}}\tilde{Q}_{0}\tilde{Q}_{1}%\tilde{Q}_{2}\sum_{I}\tilde{Q}_{I}^{-1},
+\Phi_b^{(10)} = - 2 ~{\rm ln}\Big({(p^2 + q^2) \Delta ^{1\over 2}\over{p^2 + q^2 \Delta}}\Big), ~~\chi = {pq(\Delta -1)\over{p^2 + q^2 \Delta}}.\label{pqdlocc}
+f (\det U, Tr U, \cdots) = \sum_r a_r \chi_r (U),
+\label{pole1}(1-\tilde{P}_2)c\tilde{P}_2=0\hspace{1cm}\Rightarrow\hspace{1cm}c\,\tilde{T}_2=\tilde{T}_2Z_2,
+{\cal L}_{\mbox \small{\rm KIN}} = \frac{1}{2} \stackrel{\mbox{{\huge  .}}}{\phi}^{a} K^{ab}(\partial_{i}\phi) \stackrel{\mbox{{\huge  .}}}{\phi}^{b}  \label{Lkin}
+\eta_{+-} = \eta_{-+} = - \eta_{11} = - \eta_{22} = 1
+H_\ell\left(g(\hat n,\theta)\right):|h\rangle_\ell\to |g(\hat n,\theta)h\rangle_\ell~,
+Z_{TM}^{red}=\int{\cal D}p{\cal D}qdet{\bigl\{\Theta_a,\Upsilon_b\bigr\}}\delta(\theta)\delta({\theta}_i^T)   \delta(\Upsilon)\delta({\Upsilon}_i^T)e^{i\int(p\dot{q}-{\cal H}_{TM})}\;,
+D_{(1)}=\{(x^3,{\cal C}),(\bar{\cal C},\pi)\},\;\;  D_{(2)}=\{({\cal P},G),(\lambda,\bar{\cal P})\}\;.
+\label{Ainy}  A(z)=\frac{y_2}{y_1}, \qquad B(z)=\ln{y_1}.
+\left\{D^a\, , D^b \right\}=2im^2 C^{ab} \, ,
+P^{(1/2)}_{1/2}\otimes P^{(1/2)}_{1/2} - P^{(1/2)}_{-1/2}\otimes P^{(1/2)}_{-1/2}
+\langle W \rangle = \exp \left( \sqrt{g^2 N} \right) .
+N = \frac{\lambda^2}{A^2} \ , \ \ \ A = \frac{\partial X}{\partial x}\ .
+{\cal E}[h] = {\cal E}_{\rm cl}[h] + {\cal E}_{\rm ct}[h]    + {\cal E}_{\Psi}[h]\ ,
+T_2(x,d_x)= -\alpha ^2 x^2d_x^2 + \alpha [2ax^2-(\alpha+2b)x-2c]d_x -2\alpha anx
+\label{Chiral_Identity}\bar D^2 D^2 \phi = - 16\partial^2\phi
+V_{n}  =  \alpha_{n}\frac{\sigma^n}{M_{\rm pl}^{n-4}}\label{eq:eq9}
+|\Gamma| = \sum_l v_l^2.   \label{eq:dim}
+\Lambda_{k}=\{\lambda(m,n)=m\frac{p}{q}-n-1\, :\;0<m\leq q,\,0\leq n\leq p\}.
+S=\frac{1}{2\pi\alpha '}\int d^2 \xi%% FOLLOWING LINE CANNOT BE BROKEN BEFORE 80 CHAR\frac{1}{2}[\sqrt{\gamma}\gamma^{ij}\partial_iX^{\mu}\partial_jX^{\nu}G_{\mu\nu}(X)+\epsilon^{ij}\partial_iX^{\mu}\partial_jX^{\nu}B_{\mu\nu}(X)]
+\left. \langle x^{\prime}(s)|x^{\prime\prime}(0)\rangle \right|_{s\rightarrow 0}= \delta^{(4)}(x^{\prime}-x^{\prime\prime}). \label{eq15}
+\ln f_0(ik)\ =\  \ln \left[ I'_0 K_{-\beta}+I_{0}K'_{-\beta}\right]\ .
+\label{5.4}\partial_t\gamma_k=6k^{-2}v_4l^{(FB)4}_{1,2}(0,0)e^3,
+\Pi u_{m,l,\pm }(r)=\pm \sqrt{\omega }u_{m,l,\pm }(r)\,.  \label{abe26}
+\underline{A}_{\mu }^{\prime }\left( \mathbf{x,}t\right) =e^{-iH^{(0-loop)}t}%\underline{A}_{\mu }^{\prime }\left( \mathbf{x,}0\right)e^{iH^{(0-loop)}t}=e^{-iH_{W}^{(0-loop)}t}\underline{A}_{\mu }^{\prime}\left( \mathbf{x,}0\right) e^{iH_{W}^{(0-loop)}t},  \tag{2.4.18}
+\sin \alpha _{m}=\frac{1}{\sqrt{k^{2}\beta _{m}^{2}+1}},\quad \cos \alpha_{m}=\frac{k\beta _{m}}{\sqrt{k^{2}\beta _{m}^{2}+1}}.  \label{alpha0}
+\Gamma_\mu^{BC} (p,q) = \frac{1}{2} \left[ A(p) + A(q) \right] \gamma_\mu + \frac{(p + q)_\mu}{p^2 - q^2} \left[ A(p) - A(q) \right] \frac{\not\!p + \not\!q}{2},   \label {BallChiu}
+Fermionic~~~~~~~R:~~~~~~ (L_o-1)|\Phi>_{\alpha} =0,~~~~~~L_m|\Phi>_{\alpha}=0,~~~~~F_m|\Phi>_{\alpha}=0;~~~m>0\label{57}
+\left| * \right> = u\left| 0 \right> + v\left| 1 \right>.\label{eq17}
+\sum_{n=0}^k \chi_k^n(\tau) \left( \chi_k^n(\tau) \right)^*
+\langle \zeta, Q(f)\rangle=F_\zeta(f), \quad f\in {\cal O}.
+h^{\mu\nu} \Gamma^\lambda_{\mu\nu}        - \bar g^{\mu\nu} \delta \Gamma^\lambda_{\mu\nu}=0\label{harm_cond}
+\sum_{\stackrel{\rm{cyclic}}{\rm{perms}}} P_{i} = d Q_{i} + R_{i}(\phi)
+\bar{\psi}^{\alpha }=C^{\alpha \beta }\psi _{\beta }.\label{conjugation}
+Z_{m,c,k}^{U(1)}(2)={\cal N} Z_{B_+}^{U(1)}  \sum_x n_x.
+a \frac{d}{da} \lambda_4^{(0)} = (4-2 \lambda_2^{*(0)}) \lambda_4^{(0)}- \frac{9}{4} (\lambda_3^{(0)})^2
+\Lambda = 4\,v_2^m v_1^n \bar\sigma_{mn} = -\bar\Lambda\, .
+\left({dR\over dt}\right)^2 = {2\Lambda\over n(n-1)}\left[1+\left({R_*\over R}\right)^{(1+\alpha)n}\right]R^2-k \,.
+V(S,\phi )=\frac{1}{2}\left( Y_{a}Y_{a}+F^{\dagger }F\right)
+\sinh \theta ^{m}-rm/2\sinh (2\theta ^{m})+\cosh (\theta ^{m})(\varphi^{\prime }\ast L^{f})(\theta ^{m})=0\,\,\,.
+{\partial |Z(\lambda ,  \bar \lambda (n_1, m_1, n_2,m_2)  |^2 \over \partial\lambda } =0
+\theta({\bf{k}} - {\bf{q}}_{1}/2, -{\bf{q}}+{\bf{q}}_{1})= \theta({\bf{k}} + {\bf{q}}/2 - {\bf{q}}_{1}/2, {\bf{q}}_{1})
+\label{eq:BRS4}{d\phi_i(x,\kappa)\over{d\kappa}}=\delta_{\rm BRS}[\phi(x,\kappa)]\Theta^\prime[\phi(x,\kappa)]
+\chi(x)=\tilde{\chi}(x)+\chi_{\nu}(x)\label{18}
+\tau= \oint_{\gamma_1}\omega \,\left(\oint_{\gamma_2} \omega\right)^{-1}.
+[A_0({\bf x}),G({\bf y})] = -i\delta({\bf x-y}),\label{eq:AcomG}
+-P_{massless}(\mu) = - \frac{\mu^2}{2\pi},
+q = \pmatrix{0 & 0\cr\gamma I & 0 \cr}~.
+g_1(z+\tau)=a\,g_1(z)\,b,\qquad g_2(z+\tau)=b^{-1}\,g_2(z)\,c.
+\label{e2.2}K_{\dot A B}=\sigma^\mu_{\dot A B} K_\mu =k_{\dot A} k_B\ .
+F^{(n)} (z_o)/n!\sim [v(n)v'(n)/2\pi ]^{1/2}\exp [\omega (z_o +v(n))-n\ln v(n)].
+\Theta_{\{\Lambda\}}(v) = \sum_{n_i \in {\bf Z}} exp\bigl(3 \pi i (n_i +\frac{\lambda_i}{3})\tau_{ij} (n_j+\frac{\lambda_j}{3}) + 2\pi i\sqrt{3}(n_i+\frac{\lambda_i}{3})v_i \bigr)\ ,\label{theta2}
+\langle C , Ch (E) \rangle \label{eq:(0.30)}
+U = \left( \begin{array}{ccc}  1 & 0 & 0 \\ 0 & a & 0 \\ 0 & 0 & \bar{a}   \end{array} \right) \quad a \in U(1)
+I_{cs} = \frac{k}{2 \pi} \int_R dx^{0}  \int_{\Sigma}d^2x\left(- \epsilon^{ij}\eta_{ab} A^{a}_i \partial_0 A^{b}_j + A^{a}_ 0F_a \right)
+\varphi \rightarrow \varphi - \Lambda .\label{diecisiete}
+s\ll R^{2}.                      \label{a2}
+[G^{\bar{I}\hat{J}},G^{\bar{K}\hat{L}}]={1\over 2}\eta^{\bar{I}\bar{K}}G^{\hat{J}\hat{L}}\,.\label{nonnull}
+\psi(x) = V(x)^{\nu} e^{-\frac12 \omega x^2} P(x)\label{1.4}
+(\tau^{B}_{\beta})^{i,j}_{\zeta,\eta}(1_{D(H)})=1_{N_{B}}(x_{\eta}^{-1}x_{\zeta})\beta_{ij}(x_{\eta}^{-1}x_{\zeta}).
+W=Z^2+Z_I^2 \,  , \quad \, Z = X^\Lambda q_\Lambda
+\Gamma =\prod_{all\ \ \Sigma _{j}\ \in \ U}\mathcal{R}_{j}\Sigma_{j}^{(l)}(q_{j}^{2})
+\left( \begin{array}{c} m \\ r \end{array} \right) =  \left( \begin{array}{c} m \\ m-r \end{array} \right),
+{\cal W}=\sum_{I=1}^{N-R} \sum_{a=1}^{N} q_I^a T^I h_a \tilde h_a\; ,\label{superpot}
+c_1(L_\Sigma)=\mbox{$-\frac d{12}(\frac d2+1)(2d+5)$}\label{totchern}
+G(\mu)=G_0 l^{1-d} W^{\Delta} F \left(\Delta,\Delta-\frac{d}{2}+\frac{1}{2},2\Delta -d+1,W \right) ,\label{2-5}
+\label{asso}\sum_{r\geq0}\nu^r\sum_{u+v=r\atop u,v\geq0}\rho_u(\rho_v(FG)H)=\sum_{r\geq0}\nu^r\sum_{u+v=r\atop u,v\geq0}\rho_u(F\rho_v(GH)),\quad\forall F,G,H\in N[\nu].
+\Psi (x)=\Psi (\overrightarrow{x})e^{-i\omega t}\Longrightarrow \partial_0\Psi (x)=-i\omega \Psi (x),  \label{f28}
+(\Omega_b)^2 = \left(\begin{array}{ccccc}r^2 & -2 iv& 0 & \cdots & 0\\2iv & r^2 & 0 & \ddots & 0\\0 & 0 & r^2 & \ddots & \vdots\\\vdots & \ddots &  \ddots & \ddots & 0\\0 & 0 & \cdots & 0 & r^2\end{array} \right)% \label{eq:}
+\langle \xi^{\prime\prime}\vert \xi^\prime\rangle=(1+\bar\xi^{\prime\prime}\xi^\prime)^{2J}.\label{ker}
+\gamma_{\beta} \Phi_{\beta \alpha}=\Phi_{\beta \alpha} \gamma_{\alpha}.\label{gt}
+\begin{array}{ccc}(kl3)+j\rightarrow (1234),\qquad  & (1234)+(kl3)\rightarrow j,\qquad  & j+(1234)\rightarrow (kl3), \\ (j3)+(kl3)\rightarrow (12334),\,\,\, & (kl3)+(12334)\rightarrow (j3),\,\,\,& (12334)+(j3)\rightarrow (kl3), \\ (1234)+3\rightarrow (12334),\,\,\, & 3+(12334)\rightarrow (1234),\,\,\, & (12334)+(1234)\rightarrow 3,\end{array}\label{pro}
+E_{n_r,l_D,q}=\pm Mc^2\left[ 1+\frac{\alpha ^2}{\left( \frac 12+\frac 12\sqrt{\left( 2l_D+1\right) ^2-4\left( q^2+\alpha ^2\right) }+n_r\right) ^2}\right] ^{-1/2}.
+d\omega \equiv \left[g^D(dX,dX)\right]^{\frac{1}{2}}.
+\label{5.1.4}\dot J_i=-\epsilon_{mnj}J_j\frac{\partial J_i}{\partial J_m}                          \frac{\partial T}{\partial J_n}~,
+E_c =\frac{2nr_{\rm BH}^{n-1}\Omega_n}{16\pi G_{n+2}}, \ \ \  2E-E_c =-\frac{2n r_{\rm BH}^{n+1} \Omega_n}{16\pi G_{n+2}l^2_{n+2}}.
+\tilde{F}(y)= \int_0^{\infty}dx\ln\left(1+\frac{\sin^2xy}   {(e^x-\cos xy)^2}\right) < F(y).
+\langle\psi^{\dagger} P_+\psi\rangle_{\cal{R}}=\langle\psi^{\dagger}P_+\psi\rangle_{{\cal{R}}=0}\cdot\big(\frac{{\cal{R}}}{2m_\gamma^2}\big)^{\frac{\pi}{2\pi+g_2^2}}\exp\Big[-\frac{\pi}{4e^2}{\cal{R}}- \frac{\pi m_\gamma^2}{4e^2}\gamma\Big]\hspace{.5cm}\hbox{for}\;\frac{{\cal{R}}}{m_\gamma}\rightarrow\infty.\label{bigR}
+T \equiv \beta _H^{-1}=\left.\frac{\tilde{A}'}{4\pi\sqrt{\tilde{A}\tilde{B}}}\right |_{r_+}\nonumber\\=\frac{\tilde{d}}{4\pi r_+}\left[1-\left(\frac{r_-}{r_+}\right)^{\tilde{d}}\right]^{(\tilde{d}-2)/2\tilde{d}},
+{\cal S}_G=\int d^4x\int d\phi~\sqrt{-G}~2~M^3~ R(G,H)
+\dot{\theta_l} \approx \frac{\left(p_{\alpha}(l)-p_{\alpha}(l+1)\right)}{ \left(p_{\mu}(l+1)-p_{\mu}(l)\right)^2}\int_{\bar{\theta}_l}^{\bar{\theta}_{l+1}} d \theta\dot{P}_{\alpha}(\theta)
+\label{rprinf}R_p = \cosh\!\gamma_p R_\star \sim e^{\gamma_p} R_\star \quad ,
+m=\tanh \left[ \beta\widetilde{v}(0)m\right]\, .
+{\cal H}\equiv 2F{\cal L}_{F}-{\cal L},  \label{eq:Leg}
+\label{W}W_i=\int_{\Sigma _i}\delta (\vec \phi )J(\frac \phi v)d^mv,
+\label{GS}S^{\rm grav.}_{{\rm KK11}} = - {T_{{\rm KK11}}\over 2} \int d^{7}\xi  \sqrt{|\gamma|} \left[k^{4/7} \gamma^{ij}D_{i}X^{\mu} D_{j}X^{\nu}g_{\mu\nu}-5\right]\, ,
+{\cal A}_\lambda(x) G_{\rho\sigma}(y)ik_\mu\rightarrow {\cal A}_\lambda(x) G_{\rho\sigma}(y)ik_\mu+2{\cal A}_\lambda(y)\partial_\rho{\cal A}_\sigma (y) i k_\mu\ .\label{5.12}
+{C^{\prime} \over  C}={(r^{d}+c_{1})r^{d-1} \over  (r^{2d}-2b_{1}r^{d}+b_{2})}-{16 \phi^{\prime} \over  (d+1)^{2} \alpha_{e}}
+\langle {\cal A} \rangle = \lim_{k\to \infty,\; n\to \infty}  {\langle {\cal A} \psi \rangle_{n,k} \over  \langle \psi \rangle_{n,k}}\ ,  \label{eq:expect}
+[W_{Z}] = \frac{1}{2}q_{*}[W] ,\label{eq:51A}
+\label{4.15}\int_{{\cal M}^{\pm}}\sqrt{-g} d^4x E_\phi {\cal L}_t\phi=\pm{\cal H}_{(m)}~~~.
+\tilde{T}_{i}=pr_{2}^{!} \circ ( \int_{pr_{2}^{-1}}) \circ( \otimes s_{i}^{-\frac{1}{2}(\lambda + 2\rho)(H_{i})}) \circ( pr_{1}^{\ast}\otimes pr_{1}^{\ast}).
+2{\widetilde a}_-={1\over g^2_{\rm {\small YM}}}+ {\beta^{(-)}_0\over 16\pi^2}~\ln\left( {\Lambda^2\over p^2}\right)~,
+V(U,V,t_{3k},\tilde{t}_{3},l)=\sum_{k=1}^{m_{1}}t_{3k}U^{3k}+\tilde{t}_{3}V^{3}+gUV-3l\log U\label{pot2}
+m(\alpha,\alpha)=1,\,\forall \alpha\in \Pi
+x_L^I(z)x_L^J(w)\sim -\eta^{IJ}\log(z-w),~~\psi_L^I(z)\psi_L^J(w)\sim -{\eta^{IJ}\over z-w} \ ,
+{\omega^\alpha}_\beta=\left({1\over 2}{f^{\alpha}}_{\beta\gamma} +{f^{\alpha}}_{\beta i}{\Pi^i}_\gamma\right)e^\gamma.
+z(1-z)K^{\prime \prime }+[c-(1+a+b)z]K^{\prime }-abK=0\;,  \label{HyperGeom}
+G \approx \frac{1}{2\pi(1+g^2/\pi)}\bigg[1-2^{(5\pi+3g^2)/(\pi+g^2)}\frac{(1+g^2/\pi)^2}{16\pi^2}\bigg(\frac{m^2}{T^2}\bigg)^{(\pi+2g^2)/(\pi+g^2)}\bigg].
+s (k_i,e_i)=k_i^2 -(e_i - \sqrt{2})^2 + 2\label{s}
+D^{++} \rightarrow {\cal D}^{++} = \varphi^{-1} [D^{++}] \varphi\equiv \Delta^{++} + \omega^{++}, \label{17}
+S_4 = S_{4,{\rm kin}}+S_{4,{\rm top}}\label{S4}
+\nabla_{k}(A)\nabla^{k}(A) A^{0}(x^{0}, {\bf x}) = 0\label{eq:genCnAG}
+\Pi_i |\Phi_a\rangle = b^i{}_a |\Phi_a\rangle.\label{pibia}
+\bar{\Psi}^\downarrow  = \psi :e^{\frac{i}{\sqrt{2}}(\varphi_c+\varphi_s)}: \,,  \qquad  \Delta^{\uparrow\uparrow}_s  = \, :e^{i \sqrt{2}\varphi_s}: \,, \qquad  \Delta_c  = \, :e^{i \sqrt{2}\varphi_c}:  \ ,
+\label{31}s_{m}\pi _{n}^{a}=-\delta _{mn}\lambda ^{a}-\frac{1}{2}f_{bc}^{a}\eta_{m}^{c}\pi _{n}^{b}+\frac{1}{12}\varepsilon _{npr}f_{bc}^{a}f_{de}^{c}\eta_{m}^{e}\eta _{p}^{d}\eta _{r}^{b}\,, s_{m}p_{n}^{a}=-\delta _{mn}l^{a}\,,
+g^{(t)}= M_{(-)}N_{(+)}g_{(0)-}=M_{(+)}N_{(-)}g_{(0)+},\label{7}
+\epsilon=\frac{\theta}{2\pi}\frac{g^{2}}{N}.\label{cc}
+F = -\frac{1}{2\pi}\left(\alpha(\infty) - \sin \alpha(\infty)\right)
+\delta T^{*bc}=\partial_a T^{*[ab]c}.\label{anti2}
+{\cal A}_N^{0,-} = < \prod_{i=1}^{N-1}{V}^{\omega_i}_{j_i,m_i} (z_i)\tilde{V}_{j_N,j_N}^{\omega_N (0),(-)}(z_N) \prod_{n=1}^{s_+} {\cal S}%_+(u_n)\prod_{m=1}^{s_-} {\cal S}_-(v_m)>_{0,-},  \label{corr}
+\label{dh1} \frac 1{2\pi i}\int\limits_{c-i\infty }^{c+i\infty }ds\frac{(-s)}{\mu}\left(\frac{t}{\mu}\right)^{-s-1}\frac{2^{s-1}}{\sqrt{\pi}}\Gamma \left( \frac{ s+1}2\right) \left[ \mu^{-s}\Gamma \left(\frac s2\right) \zeta \left( \frac s2, \frac{D_B}{\mu ^2}\right)\right]\,,
+(z,\bar{z}) \rightarrow \left(\sigma \!=\! S^z(z,\bar{z},\varphi),\,\bar{\sigma} \!=\!S^{\bar{z}}(z,\bar{z},\varphi)\right)
+{\cal Z}_N(r)=\int_0^{\infty} dx e^{-rx^2}\{e^{rx^2-x^3}\}_N.\label{znplus}
+\label{dilcan2}  \alpha_2  = \sqrt{2}\ ,
+\delta R ~=~ i \Lambda R ~~~,~~~ \delta V ~=~ - \, i ( \Delta - \bar{\Delta} )
+\psi_<~(x^{\pm}, {\vec r}_{\perp})~=~e^{ipx}
+\label{dlog}d\,{\rm log}f_{0}=-2d \left(\frac{\eta}{\zeta}\right) +d\,{\rm log} f_{1}
+\widehat{[\lambda,\eta]}=[\widehat\lambda\stackrel{*}{,}\widehat\eta]+i\left(\delta_\lambda\widehat\eta-\delta_\eta\widehat\lambda\right).\label{parametros}
+*\vee\left(*{\bf d}\omega-\frac1c\frac{\partial }{\partial t}{\cal I}_*\omega,\omega\right)-\vee\left({\cal I}_*\delta \omega,{\cal I}_*\omega\right)=\frac{4\pi}{c}*\vee \left({\cal I}_*{\cal J},\omega\right)+         %7%4\pi\vee\left({\cal I}_*{\cal Q},{\cal I}_*\omega\right)
+\label{rh2}E^{--} \equiv \Pi^{\underline m} u^{--}_{\underline m} =e^{--} ,
+\tilde{f}(M)=\sum^\infty_{k=1}\tilde{f}_kM^k\label{tildefexp}
+\label{eq:killinggauge}  e^\mu{}_0 =\delta^\mu{}_0 \quad ,  e^\mu{}_i=\frac{1}{a}\delta^\mu{}_i.
+\psi_{i} (\sigma) \psi_{k} (\rho) = S^{r s}_{i k}\psi_{r} (\rho) \psi_s (\sigma) \quad, \ldots \nonumber
+A^{(n)} C=C G^{(n)}. \label{eq:adjintern}
+t\to t^{\prime}=(\cos\alpha)^{-1}(t+y\sin\alpha),\ \ \ \ \ y\to y^{\prime}=(\cos\alpha)^{-1}(y+t\sin\alpha).\label{lorenbstcoordtrn}
+\Omega =i\eta_{\alpha{\bar\beta}}(d\pi^\alpha\wedge d{\bar\omega}^{\bar\beta} + d{\omega}^{\alpha}\wedge d{\bar\pi}^{{\bar\beta}}), \quad \alpha,\beta,=0,1 \label{1}
+\left\{\begin{array}{rcl}\delta_{\lambda} C^{(1)} & = & m \lambda\, ,\\& & \\\delta_{\lambda} C^{(3)} & = & 3m \lambda B\, ,\\& & \\\delta_{\lambda} B & = & -4\partial\lambda\, ,\\\end{array}\right.
+\label{list}\{ L_{-1}^X, L_{-2}^X, \cdots  ;  L'_{-2}, L'_{-3}, \cdots ;c_{1}, c_{-1}, c_{-2} , \cdots ; b_{-2},b_{-3}, \cdots \}
+|n_1,n_2,\dots,n_N \rangle \equiv   \prod_{i=1}^N a_{n_i}^\dagger |0 \rangle.
+\label{c5}A \to X''\to Y' [1] \to A[1]\,.
+HX^0=\pm\arccos\sqrt{(1+H^2r^2)\cos^2Ht-H^2r^2},
+\label{zeta}\zeta=\frac{m_W^{7/2}}{g}\delta\left(\frac{\lambda}{g^2}\right){\rm e}^{-4\pi m_W\epsilon/g^2}.
+\label{3}V(\phi, \sigma) = {m^2\over 2}\phi^2 + V(\sigma) \ .
+\left( X\cdot \partial +1\right) A_{M}=0,\quad X\cdot A=0.
+\label{a14}N_{p_D n} = |g(-|^+)|^2 = e^{-\pi\lambda},\;\;   \mbox{if}\quad \sqrt{\rho}\,T\gg  1,\;\;\mbox{and}\;\sqrt{\rho} T\gg   \lambda, \; \mbox{and} \; \rho^2 T\gg |qEp_D|\;,
+G_t(y,x)=\int {\cal D} x \; e^{ i S [ x(t)] }
+\label{Candeg}\{\lambda_i,\lambda_j\}=\{\mu_i,\mu_j\}=0~, \quad \{\lambda_i,\mu_j\}=\delta_{ij}
+\label{S-34}\sum^{\infty}_{l=0}F(l+\frac12)=\int^\infty _0 d\nu F(\nu) +\int^\infty _0\frac{d\nu}{1+e^{2\pi\nu}}\frac{F(i\nu)-F(-i\nu)}{i}.
+\langle x'',t'',\tau'' |p_x',p_t',\tau'\rangle= \exp\{ip_x'x''+ip_t't''\}/[({p_x}'^{\ 2}/2m)+{p_t}'],
+g_R^{(8),\delta}=g_0/A^{(8)}(p,\delta)\label{seventeen}
+f_2  = - \frac{\sqrt{2}}{3} \phi + \frac{\sqrt{2}}{3} \psi_1 - \frac{2 \sqrt{2}}{3} \psi \ , \  f = \sqrt{2} (\psi - \phi  ) ,
+P^+ = \frac{4J_{(2)}}{\mu R^2} = \frac{2J_{(2)}}{M_2} \frac{1}{2R_{-}}~.
+-\frac {1} {\pi} \frac {(-i)^{m+n-1}} {(m+n-1)!}D_{\alpha}D_{\beta}\left\{\frac {\sin\pi\alpha\;\sin\pi\beta} {\sin\pi(\alpha+\beta)}z^{\alpha+\beta+m+n-1}\right\}
+\label{PiTad}\begin{array}{lll}\Pi_{tad}^{\mu\nu ,\,\alpha\beta}\left(k\right)\equiv\displaystyle{\frac {1}{4}}&\left(\eta^{\mu\alpha}\tilde\Gamma^{\nu\beta}+                         \eta^{\mu\beta} \tilde\Gamma^{\nu\alpha}+                         \eta^{\nu\alpha}\tilde\Gamma^{\mu\beta}+                         \eta^{\nu\beta}\tilde\Gamma^{\mu\alpha}\right)\\&-\eta^{\mu\nu}\Delta^{\alpha\beta}-\eta^{\alpha\beta}\Delta^{\mu\nu}\end{array}.
+\mu(k\eta, q) \rightarrow \frac{1}{\sqrt{k}} (c_{-} e^{-ik(\eta+2\eta_c)}+c_{+} e^{ik(\eta+2\eta_c)}).\label{planew}
+m^2_{\pm}=\frac{1}{2 Z^2}\left(m^2_{r}+(1+ 6 \xi \gamma^2) m^2_h \pm ((m^2_{r}-m^2_h(1+ 6 \xi \gamma^2 ))^2+ 144 \gamma^2 \xi^2 m^2_{r} m^2_h )^{1/2} \right) \label{pmmass}
+\alpha^{(n)}=\frac{2\sqrt{2}\pi}{v^{2/3}}\left(\frac{\kappa}{4\pi}\right)^{2/3}\int_{{\cal{C}}_{\omega}}{J^{(n)}}.\label{eq:20}
+\label{Maction}S=\int d^3x \frac{1}{4e^2}F_{\mu\nu}^2,
+S = \int dt\,L \rightarrow S -2\pi\kappa N\label{g8}
+\Delta a_j^i=\sum_{k,l,m}a_k^i\otimes a_l^k\otimes a_m^l\otimes a_j^m,
+\begin{array}{|c||c|c|c|c|}\hline\mbox{Matrix operators} &J_{\ell}^{+ij}&J_{\ell}^{+-i}& J_{\ell}^{ijk} & J_{\ell}^{-ij}   \\\hline\hline\mbox{SUGRA modes} &v^{\ell}_2 & u^{\ell} & \alpha^{\ell} &  v_1^{\ell} \\\hline\end{array}
+\label{2.12}\displaystyle\int_{D}d^3 \xi \frac{\partial}{\partial\xi_j} \Bigl(\beta(\xi_i)\alpha_j(\xi_i)\Bigr)=\int_{\partial D}dS_j\Bigl(\beta(\xi_i)\alpha_j(\xi_i)\Bigr)=0,
+{\cal H}_{SUSY}={1\over2}\left({\cal Q}{\cal Q}^*+{\cal Q}^*{\cal   Q}\right),
+\xi^i_{n+1} = (1-g) T\left(\xi^i_n\right) + \frac{g}{2d} \sum_{\nu=1}^d               \left(\xi^{i+e_\nu}_n + \xi^{i-e_\nu}_n\right) \, ,\label{eq22}
+\label{a*b}*\alpha \wedge \beta=*\beta \wedge\alpha=\frac{1}{p!}\,\alpha_{\mu_1 \cdots \mu_p}\beta^{\mu_1\cdots \mu_p}\,*1\,.
+\label{Bethe-vector}\psi (t, z) = e^{2 \pi i \zeta(z)} \sum_{\alpha \in S_n} w_{\sigma, c}(t,\alpha_1(z), \cdots, \alpha_r(z)) f_{c(\sigma(1))} \cdots f_{c(\sigma(n))}v_\Lambda
+\Omega_1=P^m,~~~~~~~~\Omega_2=Q.\label{omegas}
+\tilde{\xi}^2+ \xi^{2} = - \frac{2 mV_{0} a^{2} }{ \hbar^{2}}\; ,\label{eq:pythagorean}
+\partial^\nu \mbox{\mbox{}$^*\!$} F_{\mu\nu}(x) = 0.\label{gausslaw}
+Z_3(-1)=\frac{\pi^2}{192}=0.051404\,{.}\label{e_3_26}
+W_{\alpha} =W_{\alpha a}T^a = (\frac{1}{8} \bar{{\cal D}}^2 -R)e^{-2V}{\cal D}_{\alpha} e^{2V} ,
+\label{Eq:Lmass} -{\cal L}_{\rm mass}  =  \sum_{i=1}^{N_f}{\big[}\mu_{Li}^2|\phi_i|^2 + \mu_{Ri}^2|{\bar \phi}_i|^2 +\mu_i^2(\phi_i {\bar \phi}_i+\phi_i^\ast {\bar \phi}_i^\ast ){\big]}            + m_{\lambda}(\lambda\lambda+\bar{\lambda}\bar{\lambda}).
+\label{en}E_n = n \omega~~~~(n=0,1,2,...)
+g(z)=\Theta\left(I(z)+{\cal D}\big|\Omega\right),\label{thetafncte}
+\label{1.1}  L^{++}(x,\theta^+,\bar\theta^+,u) = {\rm  Tr}[q^+(x,\theta^+,\bar\theta^+,u)]^2\;.
+\begin{array}{l}\Phi_{j}\bar{\Phi}_{i}=\delta_{ij}+qR_{kijl}\bar{\Phi}_{l}\Phi_{k},\\\Phi_{l}\Phi_{k}=q^{-1}R_{jikl}\Phi_{j}\Phi_{i},\qquad i,j=1,2,...,N,\end{array}
+X_{1}=g\overline{\gamma }_{2}^{2}+{\cal G},\qquad X_{2}=g\gamma _{1}^{2}+%{\cal G},\qquad X_{3}=-2g\gamma _{1}\overline{\gamma }_{2},\qquad X_{4}=-2g%\overline{B}\overline{\gamma }_{2},
+a_\nu=\frac{1}{g}\,\frac{\partial A_\mu}{\partial\rho}=\frac{1}{g\rho}\,G_{\nu\mu}\, x^\mu\,,\qquad\|a_\nu\|=\frac{4\pi}{g}\,.
+\phi(\rho)=\chi^{(0)}\rho^{m+\frac 12}, \quad \rho = 2(m+1)\eta,\quad F=-\frac 12,
+{\tilde D}=1+{(4\pi k_{11}^2)^{1/3} \over 4\pi^2(x^2+x_{11}^2)^{3/2}} \ ,
+GFS(B)\left\{\begin{array}{rcl}ds^{2}&=&2e^{2\hat{\varphi}}\left(dv+{\cal A}_{\underline{i}}dx^{\underline{i}}\right)du-dx^{\underline{i}}dx^{\underline{i}}\, ,\\& & \\{\cal{B}}^{(1)}&=&e^{2\hat{\varphi}}\left[\left(1-e^{-\frac{1}{2}\hat{\varphi}} \right)dv+{\cal A}_{\underline{i}}dx^{\underline{i}}\right] \wedge du\, ,\\& & \\\hat{\varphi}&=&-\frac{1}{2} \log{(1-{\cal A}_{u})}\, .\\\end{array}\right.
+V(R)=M_0^2 R+\frac{D-2}{2}\sum\limits_{n=1}^{\infty}\omega_n,\label{a25}
+\label{t12}\bar Z_{\;\;j_1\ldots j_{p-k}}^{i_1\ldots i_{p-k+1}}=\frac1{\left( p-k\right) !}\partial _{}^{\left[ i_1\right. }\delta_{\;\;j_1}^{i_2}\ldots \delta _{\;\;j_{p-k}}^{\left. i_{p-k+1}\right]},\;k=1,\ldots ,p.
+\label{i15} [b, b] =i\gamma^{-1}\cosh^2\bar{\beta}+O(\gamma).
+\Gamma_t[\phi] = \int\!\! d^Dx \; V(\phi^2,t) + \frac{1}{2} (\partial_{\mu} \phi^a)^2\quad.\label{e:LPA}
+\label{general}\alpha \beta^{2} k^{d-2} n^2 v_n(k) = (d+ k\partial_k) v_n(k) - {1\over 2} \beta k^{d-2} \sum_{p=1}^{N} A_{n p}(k) (d+ k\partial_k)v_p(k),
+\Psi(x,0) = \sum_{n=1}^\infty  C_n u_n(x),\label{10_1}
+D_{+} = i(\partial_{z} + A_{z})\label{24}
+\frac{1}{2}\,(z_0 G\,(z_0)z_1^2G'\,(z_1)z_2^3z_3^3+11 \,\mbox{moreterms})-2\,(z_0G\,(z_0)z_1G\,(z_1)z_2^3z_3^3+5 \,\mbox{more})\,\equiv\, 0
+\label{regularized}\textrm{P}\frac{1}{z^2}=\frac{1}{2}\left[\frac{1}{(z + i\epsilon)^2}+ \frac{1}{(z - i\epsilon)^2}\right]=-{\partial \over \partial z} \left[\textrm{P} \left( {1 \over z}\right)\right].
+S={1\over{2\kappa^2_2}}\int d^2x\sqrt{-\bar{g}}\left[\Phi{\cal R}_{\bar{g}}+\Phi\Lambda\right].    \label{JTmodel}
+\label{chiral}  \bar{D}_{\dot{\alpha}} \Phi = 0 , \qquad D_\alpha \Phi^\dagger = 0.
+M=M(r_{0})-\frac{1}{2}Q^{2}\ln r_{0}\,.  \label{suma}
+\label{eq:delXr}  \delta^{-1} X =  \frac{I+1}{I} X_{\delta^{-1} r}  + (\omega^\#( I^{-1} r))^{\uparrow},
+\label{eq20}b = (D^a)^2 - \frac{1}{2} (F_{\mu\nu}^a)^2 - \frac{i}{2} F_{\mu\nu}^a\tilde F_{\mu\nu}^a.
+V_{2}(x)=-{\frac{1}{2}}x^{2}-{\frac{\mu^{2}}{2x^{2}}},
+J_{1}^{\pm}(z) = a_{11}^{n_{\pm}} exp (\alpha_{\pm} \varphi_{1}) ;
+-\frac{1}{a}\,0.531627 \quad \mbox{and}\quad \frac{1}{a}\,0.006896\,{,}\label{e_4_15}
+\label{eq:TrafoNew}  x\ \mapsto\ \epsilon_{L}^{U_nG}\circ\epsilon^{HU_n}\bigl(h\bigr)\cdot x\cdot\epsilon_{R}^{U_1G}\circ\epsilon^{HU_1}\bigl(h^{-1}\bigr)\ \ .
+R_{\mu\nu}=\frac{R}{2d(d+1)}[\Gamma_\mu,\Gamma_\nu]
+d {\hat H}^{(3)} = 2\kappa_{(10)}^2 T_{(5)}\; n^\prime \delta^{(2)}({\cal I}  )\ .
+\label{fi'}   \Phi'=   \frac{(2\varepsilon(\hat{\bf p}))^{-1/2}}   {(\varepsilon(\hat{\bf p})+mc^2)^{\frac{1}{2}}}   \left((\varepsilon(\hat{\bf p})+mc^2)\Phi(\varepsilon(\hat{\bf p})+mc^2)+   c^2\vec\sigma{\bf\hat p}\Phi\vec\sigma{\bf\hat p}\right)   \frac{(2\varepsilon(\hat{\bf p}))^{-1/2}}   {(\varepsilon(\hat{\bf p})+mc^2)^{\frac{1}{2}}}\,;
+\label{eq-H+}H\psi_{+}=\sigma_{1}m[1-{\rm sgn}(x-x_{1})]\psi_{+}.
+\frac{1}{(k^2+m^2)(k^2+\alpha m^2)} ~=~ \frac{1}{(1-\alpha)m^2} \left[ \frac{1}{(k^2+\alpha m^2)} ~-~ \frac{1}{(k^2+m^2)} \right]
+\Phi_\omega = e^{\imath \omega t}\left(\rho^{\imath \omega\beta_H\over 2}\phi_\omega (x,\rho )+\rho^{-{\imath \omega\beta_H\over 2}}\psi_\omega (x,\rho )\right)~~,\label{4.3}
+{\cal V}\,\Omega \,{\cal V}^{\rm T} = i\Omega\ ,\label{symplmatrix}
+\label{eq:InversionIdentity}\vec{T}_0^1\vec{T}_1^1\;=\;s_{-1}^{r-1}s_{1}^{r-1}f_{-1}^1f_{1}^1\,\vec{I}+s_0^{r-1}f_0^1\,\vec{T}_0^2
+\label{3.13}T_x ~g(\theta) = \int      x(\underline{\theta} ^{-1} ~\underline{k}            ~\underline{\theta} _1 )    ~ {\mid k_{22} \mid }^{-2k} ~g (\theta _1)     ~d \mu (u)
+\sum_M (-1)^{|M|}{K \choose M}{{L+M} \choose {N}}=(-1)^{|K|}{{L} \choose{N-K}},
+x y^{2} = \left[ x \prod_{a=1}^{n_{c}} (x-\phi_{a}^{2})^{2}      + 2 \Lambda^{2n_{c}+2-n_{f}} m_{1} \cdots m_{n_{f}} \right]^{2}    - 4 \Lambda^{2(2n_{c}+2-n_{f})} \prod_{i=1}^{n_{f}}(x+m_{i}^{2}),    \quad USp(2 n_c). \label{curveA3}
+e^{{6\over\sqrt{15}}\varphi_*}={R_5\over20m^2}.
+g = -du\cdot dv + u^2(dx)^2\,. \label{adaptmetric}
+a_{ij} = 0 \:\:\: implies \:\:\: a_{ji} = 0
+\label{eq:0Aaction-1}\begin{array}{rcl}\hat{S}_{0A} & = & {\displaystyle\int} d^{10}\hat{x}\sqrt{|\hat{g}|}\,\left\{e^{-2\hat{\phi}} \left[ \hat{R} -4(\partial\hat{\phi})^{2}+\frac{1}{2\cdot 3!}\hat{H}^{2}+\frac{1}{2}(\partial\hat{T})^{2}-V(\hat{T})\right] \right.\\& & \\& & \hspace{2cm}\left.+\sum_{\alpha=+,-}f_{\alpha}(\hat{T})\left[-\frac{1}{4}\left(\hat{G}_{(2)}^{\alpha}\right)^{2} -\frac{1}{2\cdot 4!}\left(\hat{G}_{(4)}^{\alpha}\right)^{2}\right]\right\}\, ,\\\end{array}
+\omega_f = \int d\sigma \left(f^{12}(X)+ f^{23}(X)\frac{\partial X^1}{\partial \sigma}+f^{31}(X)\frac{\partial X^2}{\partial \sigma}\right)\,\,.
+{\cal F}^D:=\{f|f=f^{*},f\in {\cal F}\}.  \label{h.4}
+h_\Delta (x_2)\,=\,{\rm tanh} (\frac{x_2}{\Delta})
+\label{boltz}{ {\partial f(\vec v_1, t)} \over {\partial t}} =\int d^D v_2 \int d\Omega \sigma(\Omega) |\vec v_1 - \vec v_2|(f_2' f_1' - f_2 f_1) \,,
+{\overline J}_3 = \sum_{r=1}^n\; v_r\,\left( \partial\theta_{r+1} -\partial\theta_{r-1} \right),
+U (\pi) = \mbox {\rm exp} ~(i \pi_a T_a) \; .\label{B.3}
+(h,\psi)g=(hg,g^{-1}\psi);{\forall} h {\in}spin(3),\psi {\in} {\cal H}_3.
+\label{localbasisa}E_A=\left(\begin{array}{cc}E_1 & E_2\end{array}\right)\;{\cal E}_A\;;\;{\cal E}_A=\left(\begin{array}{c}\nu_A^c \\ 1\end{array}\right)\;{1\over\sqrt{1+\vert\nu_A\vert^2}}\;,
+\label{pa2}A_i\sim\frac{1}{(Q^2)^{n-2}}\quad.
+%4.4L_g = stu \: M_g \sim t_8 t_8 \: RRRR
+a_{0}^{2}=\frac{\sqrt{1+\frac{{|\Lambda c|}}{2}}-1}{|{\Lambda |}}.
+\label{39} \beta_{\lambda}^{[2]}=\frac{1}{8\pi^2}\lambda\nu-\frac{25}{12\pi^2}\,e^4\lambda.
+{\cal{K}}(b)\equiv d_{ijk}b^ib^jb^k =6\; .
+\label{gdef}\Gamma ( A^{(0)}) \,=\, - \log \left|\frac{\vartheta (\alpha , \tau)}{ \vartheta (0,\tau)}\right|^2 \,+\,  \frac{e^2}{2\pi}\beta L{ A}^{(0)}_\mu { A}^{(0) \mu}
+(U(\Lambda,\alpha)\Phi)(x) = \Phi(\Lambda^{-1}(x-\alpha)).\label{2.130}
+i\varepsilon ^n  \cdot \dot x(t_n ) = \int {d\xi _n } d\bar \xi _n \exp \left[ {i\xi _n \bar \xi _n \varepsilon ^n  \cdot \dot x(t_n )} \right].
+F(\xi):= -\frac{1}{8}\times {d^3\over d\xi^3}\left({1\over 2}\cot{\xi}\right)\,.
+U_{1/2} (k)=3D\left( \begin{array}{cc} 1 \\ \frac{k_1+ik_2}{|\vec{k}|+                                   k_3} \end{array} \right) .
+A_{\mu} \rightarrow UA_{\mu}U^{\dagger}. \label{unitarytr}
+j^{a}_{0} \leftrightarrow \frac{1}{8\pi} \epsilon_{ij}F^{a}_{ij} \label{53}
+\int d^{3}x (\partial_{0}S^{0}(x) - J(x)) = \int d^{3}x(\partial_{0}\bar{S}^{0}(x) - \bar{J}(x)) = 0
+x_{\mu} \to \tilde{x}_{\mu} = x_{\mu} + \zeta_{\mu}. \label{tra}
+\label{eqn:3-52}\left(\frac{d}{dt}-i\omega\right)z=\epsilon\frac{i\omega\alpha}{b}(z^2-{\bar z}^2),
+\Gamma = \sum_{n}\left\{\ln\left[1-e^{-\beta(E_{n}-e\mu)}\right] + \ln\left[1-e^{-\beta(E_{n}+e\mu)}\right]\right\} + \Gamma_{1}\label{BP}
+\label{erg:sd6}  RP_V'(T) \sim \frac{1}{T^{d_s/2}}(1+O(T)).
+\left[ E^{2}-P_{z}^{2}-\frac{m^{2}}{4}-4\omega \left( \frac{E}{m}+(N+\left|m\right| +\frac{1}{2})\right) \right] +i\omega P_{z}b_{-}+i\omega \left(N+\left| m\right| +\frac{1}{2}\right) P_{z}b_{+}=0
+b_1(z) = r(z) + \sum^{\infty}_{m=1} a^{-(m+1)\gamma} U_m(x;z)\label{2.7}
+\label{O}O = \left( \begin{array}{cccc} x_{3} & 0 & \sqrt{1-x_{3}^{2}} & 0 \\ 0 &1 & 0 & 0 \\ -x_{1} & 0 & \frac{x_{1} x_{3}}{\sqrt{1-x_{3}^{2}}} &\frac{x_{2}}{\sqrt{1-x_{3}^{2}}} \\ x_{2} & 0 & -\frac{x_{2}x_{3}}{\sqrt{1-x_{3}^{2}}} & \frac{x_{1}}{\sqrt{1-x_{3}^{2}}}\end{array} \right).
+\Psi _{2s+1}(\xi _{1},\xi _{2})=\sum_{k_{1}<k_{2}}\left\{A_{1}(k_{1},k_{2})\left| \Omega _{1}(k_{1},k_{2})\right\rangle+A_{2}(k_{1},k_{2})\left| \Omega _{2}(k_{1},k_{2})\right\rangle \right\}\label{pba9}
+t_{\mu\nu}=\frac{1}{8\pi {\cal G}}\left [ R_{\mu\nu}-\frac{1}{2}g_{\mu\nu} R^{\alpha}_{\;\;\;\alpha} -R^{(1)}_{\;\;\;\;\mu\nu}+\frac{1}{2}\eta_{\mu\nu} R^{(1)\,\alpha}_{\;\;\;\;\;\;\;\alpha} \right ] \,. \label{t}
+exp\bigg( - L^*_D \bigg) = \int {\cal D}A exp \bigg( - L_D \bigg).
+z=\langle {\mathrm tr }\, \phi ^2\rangle - {1\over 8} m^2 E_1(\tau ) +m^2 \sum_{n=1}^{\infty}c_{n}q^{n}.
+\dot{\tilde{x}}{}^0=\frac{p^0}{m}\label{tx0}
+\mbox{\boldmath $p$} = - \mbox{\boldmath $\nabla$} \varphi.
+a=\left(  \begin{array}{llll} a_{11} & a_{12} & 0 & 0 \\  a_{21} & a_{22} & 0 & 0 \\  0 & 0 & a_{11} & a_{12} \\  0 & 0 & a_{21} & a_{22} \end{array} \right) \simeq \left(  \begin{array}{ll} a_{11} & a_{12} \\  a_{21} & a_{22} \end{array} \right) \otimes \underline{1}
+\sqrt{\frac{\pi}{2}}~\omega^{3/2}~\frac{\alpha}{2}~=~K~E~.
+\eta'^{\dot 1}=a^{\ast} \eta^{\dot 1}+c^{\ast} \eta^{\dot 2},\qquad  \eta'^{\dot 2}=b^{\ast} \eta^{\dot 1}+d^{\ast} \eta^{\dot 2}.
+\label{mas_i}m_1, \ldots, m_{i-1}, m_0, m_{i+1}, \ldots, m_N ,
+T(X)= \lambda e^{X^0}~.\label{tg3}\label{tachprof}
+\frac{k^{2}+i\varepsilon }{(k^{2}_{0}+i\varepsilon )^{2}k^{2}_{0}}
+{\cal H} \rightarrow {\cal H} + \int d^3 {\vec x}j({\vec x},t) {\hat \varphi} {(\vec x},t) \ ,
+\dot{g}_{\mu\nu}~=~{2N \over r} g_{\mu\nu}~=~{1 \over \rho} g_{\mu\nu}.
+D_2:\;\;\; (\tau, \rho)\to(\rho, \tau).\label{ER52}
+\{X^{i},X^{j}\}_{MB}=\lim\limits_{\stackrel{\alpha^\prime\to\alpha}{\beta^\prime\to\beta}}\sin\lambda(\partial_{\alpha}\partial_{\beta^\prime}-\partial_{\alpha^\prime}\partial_{\beta})X^{i}(\alpha,\beta,\sigma)X^{j}(\alpha^\prime,\beta^\prime,\sigma)  .
+S\approx \tau_pV_p\int dt \left[K(T)e^{-\phi}\left[ {e^{\phi - \eta}\over u^2}{(\partial u)}^2 + F^2\right] - V(u)\right],
+[1-2\Gamma (\omega -1) +\frac{\omega -1}{2} (\Gamma(\omega -1))^4]          \Gamma(\frac{3-\omega}{2}) = -4(1 - \gamma) -1
+\begin{array}{lll}\frac{\textstyle U_{a-1}(u)}{\textstyle U_{a-1}(\gamma-u)}&=&\frac{\textstyle \sin(2(\gamma-u))\sin(\xi_a-u)\sin(\xi_a+a\gamma+u)}{\textstyle \sin(2u)\sin(\xi_a-(\gamma-u))\sin(\xi_a+a\gamma+(\gamma-u))}\\&&\\\frac{\textstyle D_{a+1}(u)}{\textstyle D_{a+1}(\gamma-u)}&=&\frac{\textstyle \sin(2(\gamma-u))\sin(\xi_a+u)\sin(\xi_a+a\gamma-u)}{\textstyle \sin(2u)\sin(\xi_a+(\gamma-u))\sin(\xi_a+a\gamma-(\gamma-u))}\;.\end{array}\label{eq:diag2}
+\label{31}{\cal A}_1^a=\Delta ^aS+i\left( M_1,S\right) ^a+iV^aM_1
+\mu+6\kappa+20\nu>0\ .\label{2ndordercond1}
+\delta_LV_k^R[V]=\epsilon_i (x_i\partial_t+t\partial_i)V_k^R - \partial_k\left({1\over \vec{\partial}^2 -M^2}\epsilon_i\dot{V}^R_i\right)~.
+{{\ddot q}_d\over (a \tau+b \dot q)_d}={\rm Diag}\Big(    A (a \tau+b \dot q)_d C -C (a \tau+b \dot q)_d A\Big). \label{diag}
+\Phi_+(n_1n_2nk)=a(n_1n_2nk)^*\Phi_0\quad\Phi_-(n_1n_2nk)=b(n_1n_2nk)^*\Phi_0\label{v2}
+\frac{\partial \phi_1}{\partial x}\mp \phi_3\phi_1A_2=0,
+\left( g\frac{\partial \widetilde{S}}{\partial g}\right) _{\omega^{-},\varepsilon ^{-}=0}\approx -\frac{\left( \omega ^{+}\right) ^4}{96g^2}%\varepsilon ^{\mu \nu \rho \sigma }\mathcal{W}_\mu \mathcal{W}_\nu \mathcal{W%}_\rho \mathcal{W}_\sigma tr\int d^4x\,\phi ^2\;  \label{fund}
+|\lambda _i>=\flat_i^+\flat_{i-1}^+\cdots \flat_1^+|0>, \mbox{ and,respectively,} <\lambda _i|=<0|\flat_1\cdots \flat_{i-1}\flat_{i}.
+-2k_{\alpha}+k_{\alpha+1}+k_{\alpha-1},\label{eq:e68}
+\Delta \tau =\beta = \frac{4\pi}{G'(\xi_3)}.
+\label{2.cha1}\begin{array}{rcl}& &tt^{-1}=1=t^{-1}t~,\\[2mm]& &tet^{-1}=q^{2}e~,~~~~tft^{-1}=q^{-2}f~,\\[2mm]& &[e,f]=\displaystyle\frac{t-t^{-1}}{q-q^{-1}}~.\end{array}
+\vec{\nabla}\cdot \vec{E}=\rho_{(\vec{x})}+\vec{\nabla}h\cdot\vec{E}\ ,
+\label{117}A_j = - \frac{1}{2} \left ( \frac{ \partial f }{ \partial Q_j } \right)^{-1} \frac{ \partial^2 f }{ \partial {Q_j}^2 } \; ,\; \; B_j = 0 \; ,
+\hat a_H(\zeta)\vert {\rm Vac }_H\rangle =0
+{\cal E}_{\rm w}=\left|{\cal Z}\right|\,,
+[H_i, H_j^{\prime}] \sim H_j^{\prime}\delta_{|i} - H_i^{\prime}\delta_{|j}.\label{hi}
+\Lambda=\frac{dY}{d{\cal G}}\,{\cal G}-Y\label{2.7}
+h_{\mu\nu} = g_{\mu\nu} - \eta_{\mu\nu} =\left ([B(x^2)]^{-2} - 1\right ) \eta_{\mu\nu}.\label{Eq:graviton}
+R_{\alpha\beta}^{;\alpha}=\frac{1}{2}R_{;\beta}
+h_{r,s}=h_{s,r}=(r-s)^2/4K+\Delta^j_j{}~.
+{\{} \overline{2} {\}}\cdot {\{} {2} {\}} = {\{} \overline{2};2 {\}}+ {\{} \overline{1};1 {\}}+  {\{} {0} {\}}
+\tilde{\delta} \varphi  = [ \tilde{\epsilon}^+ \widetilde{Q}^+    +\tilde{\epsilon}^- \widetilde{Q}^- , \varphi ] ~,
+<{\vec n}_{1}|{\vec n}_{2}>=         e^{i \Phi ({\vec n}_{1},{\vec n}_{2},{\vec n}_{0}) s} \;         {\left( { {1+ {\vec n}_{1}.{\vec n}_{2}}\over 2} \right) }^{s},\label{eq:prop1}
+V(\phi)=-\frac{1}{2}\phi^2+\frac{1}{p+1}\phi^{p+1} \label{eq:padB}
+\{g (x), \pi _g  (y) \}_D= \delta (x-y)\,\,\, , \label{64}
+z = {\rm sgn}(y) H_o^{-1}\ln\left[\coth{\textstyle{1\over2}}\mu(y_{\rm h}-|y|) \right]\,.\label{defz}
+F^-(\alpha)\equiv\lim _{\stackrel {N\rightarrow +\infty}{N\Delta =R}} F^-_N(\alpha +\Lambda _N) \, .\label{Fcont-}
+{\hat\eta}^{ij} = - (\delta^{ij} + {k^i k^j\over m^2}),\label{2.230}
+\begin{array}{rl}\Lambda \sqrt{\sigma_{r,3}} = & \omega_{r,0} - i \gamma_{r,0} = \Lambda\sqrt{\sigma_{r,1}^{*}} \, ,\\\varrho_{r,2} i^{-\frac{3}{2}} (\sigma_{r,3})^{\frac{1}{4}} = &\chi_{r,0} \, e^{-i \varphi_{r,0}} = \left[\varrho_{r,0} i^{\frac{3}{2}}(\sigma_{r,1})^{\frac{1}{4}} \right]^{*} \, .\end{array}
+\int D{\cal B}_+ det \left( \begin{array}{cc}                   0   &i \partial_t + {\cal B}_+\\                   i \partial_- & 0                   \end{array} \right) = det \left( \begin{array}{cc}                                            0   &i \partial_t  \\                                            i \partial_- & 0                                            \end{array} \right)~\int DU~                                            e^{-(1 + 2 N) \dot{W}[U]},
+- \frac{1}{8z^2_0} + V^{\prime}(z_0) = 0.\label{12}
+= \ \int drdz \ r \Biggl\{ G^2 \Bigl( { U_{r}^2 + U_z^2 + V_r^2 + V_z^2 \over ( 1 + U^2 + V^2 )^2 } \ + \ \frac{k^2}{r^2}{ U^2 + V^2 \over( 1 + U^2 + V^2 )^2 } \Bigr)
+\beta(f)= -{Nf^{3}\over4\pi}\left[1-\left({{f^{2}k}\over{2\pi}}\right)^{2}\right]\label{eq:beta1}
+n^\mu =\frac{\partial x^\mu }{\partial \tau }.  \label{ndx}
+\label{eleqm}\frac{\partial {L}}{\partial q^i}-\frac{d}{dt}(\frac{\partial{L}}{\partial \dot q^i})=0.%  
+{\cal L}=-\frac{1}{4}F^a_{\mu\nu}F^{a\mu\nu}+\frac{1}{2}({\cal D}_\mu^{ab}\phi^b)^2+\mu^2\phi^2-\lambda(\phi^2)^2\label{lgg}
+\left(u(1-u)\frac{d^2}{du^2}-2u\frac{d}{du}+6\right)F=u^{n-3}\;,\;\;n\geq 3.\label{hyp}
+\partial_5\epsilon^A=\frac{k}{2}\gamma_{5}(\sigma^3)^A_B \epsilon^B.
+\label{su3}\left.\left.-i\pi h_{\mu\nu}^a\Sigma_{\mu\nu}^a+\left(g_m\sqrt{\frac32}h_{\mu\nu}^a+\partial_\mu a_\nu^a-\partial_\nu a_\mu^a\right)^2\right]\right\}
+\langle f_{1} \cdots f_{n} \rangle = \int V\left( \omega \right) dx\, \left( f_{1} \star \cdots \star f_{n}\right) .\label{nptfct}
+{\cal Z}(G,B)=\int DX exp [\int (G^{ij} \partial X^{i} \partial X^{j} +\epsilon B^{ij} \partial X^{i} \partial X^{j} ) d^{2}z].
+\label{eq:cd} D_{z^a}\phi := \partial_{z^a}\phi+A_{+z^a}\star\phi-\phi\star A_{-z^a}.
+{\cal L} = 6a{\dot{a}}^{2} F(\varphi) + 6{\dot{a}}{\dot{\varphi}}a^{2}F'(\varphi) + a^{3}(p_{\varphi} + p_m) \,,\label{eq10}
+\left(\frac{3}{2}\,t\right)^{-{2\over 3}}\, \frac{L_x L_y  L_\tau}{16\pi}\ .
+<\Phi_{1}(z,\bar{z})\Phi_{2}(0,0)> = \frac{E(z\bar{z})}{z^{h_{1}+h_{2}}\bar{z}^{\bar{h}_{1}+\bar{h}_{2}}}
+\label{4.2}{\cal L}= \left( \partial_\mu \phi \right)^\dagger \left(\partial^\mu \phi \right) -(m^2- k^2X^2)\phi^\dagger\phi -ikX_\mu[\phi \partial^\mu \phi ^\dagger - \phi^\dagger\partial^\mu \phi ]- \frac{1}{12}H_{\mu\nu\rho}H^{\mu\nu\rho},
+\label{trafoF}\widehat F= (\nu-\mu\theta)F(\nu-\mu\theta)^t + \mu(\nu-\mu\theta)^tI.
+g_{ab}{\rm d}X^a{\rm d}X^{b}=U(\vec{r}){\rm d}\vec{r}\cdot {\rm d}\vec{r}+4U^{-1}(\vec{r})({\rm d}X^4+\vec{w}\cdot {\rm d}\vec{r})^2\ ,\label{asmetric}
+\left\{ ( \vec{p},\omega_{i}(\vec{p}) ) \quad | \quad <a| \omega_{i} ( \vec{p} ) >=0 \right\}
+S_{\rm surf} = - {i \over 8 \pi} \int d \psi \, 4 \pi r^2 \left [ {\sqrt{M^2 - Q^2} \over r^2} + {Q^2 \over r^3} \right ] \; ,
+I = \int_{S} \, d\Omega \, (- \epsilon \, \dot{\beta} - [\sigma,g])
+\label{wilson}{\cal W}^{(1)}={1\over {\cal Z}^{(1)} N}\sum_{R,S} \frac{d_{R}}{d_{S}}\exp\left[-{{g^2 A_1}\over 2}C_2(R)-{{g^2 A_2}\over 2}C_2(S)\right]\int dU {\rm Tr}[U]\chi_{R}(U) \chi_{S}^{\dagger}(U),
+\label{colrel}  ({\cal C}^k_m)_{A2} = ({\cal C}^k_m)_{A3} = ({\cal C}^k_m)_{A4} -2 ({\cal C}^k_m)_{A5} = -({\cal C}^k_m)_{A1} \equiv -c^k_m\;.
+\label{numberdens2}{n_{3/2}\over s} \sim   \lambda^{3/4}  \sim 10^{-10}  \ .
+\delta^{(1)} X^+ = 4 i f^{-1/2} h \,  ( \psi^I \delta^{(0)} \psi^I)                   + 2 \zeta^{(1)\tau} ~,
+\label{stringcoupling}g_s = e^{\langle \Phi\rangle},
+\label{pbact}I = \frac{1}{16\pi G} \int d^D x \sqrt{g} \Big( R- \frac{1}{2} \partial_\mu \phi \partial^\mu \phi- \frac{1}{2 (p+2)!} e^{a\phi} F_{p+2}^2 \Big)
+\label{pp3fo29}\left( 0,a,1\right) =\left( \begin{array}{cc}{\rm sgn}\left( a\right) \cdot \left( \begin{array}{cc}\cosh \phi & \sinh \phi \\ \sinh \phi & \cosh \phi \end{array}\right) & 0 \\ 0 & {\bf 1}_{n-2} \end{array}\right) \quad ,
+\label{f10} \langle \sigma |(X,X)_{DB}|\sigma'\rangle =(X(\sigma),X(\sigma'))_{DB} =-\frac{1}{4}E(\sigma,\sigma':\gamma)+2c,
+\label{eq16} g(\epsilon)= \sum_p \epsilon(p) g_p = \sum_p \sum_{\sigma} \epsilon(p) [d_p^{(\sigma)}\bar{d}_{\tilde p}^{(-\sigma)} - d_p^{(\sigma)\,\dagger}\bar{d}_{\tilde p}^{(-\sigma)\,\dagger}] \,{.}
+\gamma_0=\left[\frac{1}{2}\left(1+\sqrt{1+\left(\displaystyle\frac{2\vec\sigma}{c}\right)^2}\right)\right]^{1/2}.                     \label{D10}
+\label{*}i^* = - i~, ~~~~~j^* = - j~, ~~~~~ (ij)^* = - (ij) ~,
+\label{relations}\sigma _1 \cdot\sigma _3 =1,\enspace\sigma _2 =\sigma _3+\sigma _1,\enspace\sigma _2'=\sigma _3 - \sigma _1.
+[\hat {B}^{0i},\hat {Q}^a]=i\varepsilon^{ab}\hat{\pi}^i_{(C)b},\;\; [\hat {\pi}_{(B)0i},\hat {Q}^a]=0,
+(e^{-2 \alpha \Phi} F^{\mu \nu})_{; \mu}=0,
+CS:\ H^3(G,U(1)) \to H^3(S^3/G,U(1))\cong U(1)
+S^{-1}(p) = i\gamma\cdot p A(p) + B(p),   \label{prop}
+\left\langle J^{\mu }\right\rangle =\left. e\mbox{Tr}\left[ \gamma ^{\mu}\exp \left( -ie\int_{x}^{x^{\prime }}A(\xi )\cdot d\xi \right)G(x,x^{\prime })\right] \right| _{x\rightarrow x^{\prime }}\ ,  \label{10}
+Z(\lambda,\epsilon)=Z_{\phi}^{J/2}Z_{\cal O}=1-{\lambda\over\epsilon}(e^{i\varphi}+e^{-i\varphi}-2)
+U=\exp(i\psi) + i \Lambda_r \exp(-i\frac{\psi}{2})\sin\chi + \Lambda_r^2 \Bigr(                 \exp(-i\frac{\psi}{2}) \cos\chi - \exp(i\psi) \Bigr)\ ,
+b_{\mu\nu}(\xi)={l_B}^{-2}\varepsilon_{\mu\nu}
+Tr({\cal L}_j)\propto {\cal H}_\omega,\quad j=1,2.
+\label{Hamiltonian2}{\bf H} = \int_{\Sigma}\sqrt{u^2+T^2}\quad ,
+S=-\frac{1}{g}\int_{D6}(1+\frac{1}{4})\left(F_{\mu\nu}F^{\mu\nu}+2i\overline{\theta}\Gamma^{\mu}\partial_{\mu}\theta+2\delta_{i,j}\partial_{\mu}X^i\partial^{\mu}X^j \right)
+W_{NS}=0,\quad W_{R}=0, \quad {dW_R\over dz^A}+\tau{dW_{NS}\over dz^A}=0.
+\label{eq3-45a} B_{3/2}=\frac{\alpha\,\sqrt \pi}{64\,R},\quad B_{2}=\frac{4\,\alpha}{315\,R^2},\quad  B_{5/2}=\frac{37\,\alpha\,\sqrt \pi}{2^{13}}\,{.}
+\partial_{\tilde{t}}\,\varphi^r\;=\;%\frac{\sqrt{\zeta\,(x)\,}}{}\frac{1}{(M-1)!}\,\ f_{i_2\cdots i_M}(x) \ h(x)\ \frac{1}{\tilde{\rho}  (\tilde{\varphi})} \ \bigl\{ \varphi^r, x^{i_2}, \cdots ,  x^{i_M}\mathop{\big\}}\limits_{\widetilde{ }}  \ ,
+p_G=(\nu-1)m_{\nu}^{\nu-1}\!\left(\frac{\ddot{a}}{n^2a}-\frac{\dot{n}\dot{a}}{n^3a}\right)+\frac{1}{2}(\nu-1)(\nu-2)m_{\nu}^{\nu-1}\!\left(\frac{\dot{a}^2}{n^2a^2}+\frac{k}{a^2}\right).
+(Ds)_{\beta \gamma}= \delta_{\beta,\gamma}(Ds)_{\beta},\quad    (Ds)_{\beta}=-ig_s\sum_{\lambda\in\Delta_s,\    \beta\cdot\lambda=1}z^{(1/2)}(\lambda\cdot q).    \label{eq:f4lndsHD}
+\label{kil}X_k = -i ( k^\mu \hat\nabla_\mu - {1\over 4} \gamma^\mu \gamma^\nu k_{\mu;\nu})
+\label{ansatz2}ds^2 = -n^2(t, y) dt^2 + a^2(t, y) \delta_{ij} dx^i dx^j + b^2(t, y) dy^2.
+\mathcal{V}_\lambda =   \bigoplus_{\mu\in\mathcal{G}} \mathcal{V}_\lambda^\mu,
+\phi_I = Z_I + {\sqrt 2}\theta\psi_I+ 2i\bar\theta\theta \nabla_+ Z_I,
+I_{\rm eff}^{(d+1)} \ni \int dt d^dx \sqrt{g(\vec x, t)}e^{-2\Phi ({\vec x},t)}\left[-g^{00}Q^2(t)\right] \label{vacuumenergy}
+3l-2E_{i}-E_{j}-E_{k}-E_{l}-E_{m}-E_{n}-E_{o}  \label{eq:28}
+{1 \over q^2} \int_0^{\infty} d \rho ~\rho^{1-2iGs} J_n(\rho)~.
+\sum_{i}\gamma _{i}^{\left( D\right) }\left( a,b,c\right) \,\alpha_{il}\left( a,b,c\right) \alpha _{il^{\prime }}\left( a,c,b\right) =\left(-1\right) ^{\left( m-2\right) \left( l-1\right) }\gamma _{l}^{\left(D\right) }\left( b,a,c\right) \delta _{ll^{\prime }}.  \label{algD1}
+\sigma_{(\mu)}=m F(m,\mu),  \label{Pimunuf1}
+Z_{-+}^U(V;F) = UZ_{-+}(V;F^U)U^* =Z_{-+}(UVU^*;F),
+n^a=\varphi ^a/||\varphi ||\qquad {}a=1,2,\cdots ,N  \label{f201}
+u = a_{y}\, , \, \, \, \, \, \, \, \, \, v = -a_{x}\, .
+E_{0}=-\frac{\mu _{eff}^{2}}{\left(2\pi \right)^{2}}\sum _{r\, n=1}^{\infty }\frac{1}{n^{2}}K_{2}\left(2\pi n\mu _{eff}\right)+\frac{\mu _{eff}^{3}}{2\pi }\sum _{n=1}^{\infty }\frac{1}{n}K_{3}\left(2\pi n\mu _{eff}\right). \label{eq: exact ZTCasimir energy}
+F( T)=-\frac{\xi_0^2x_0^4t}{8\pi a}\sum_{l=1}^\infty\left[ \frac 1 {\nu (x_0^2+l^2)^2} +\sum_{n=1}^\infty\frac{2\nu^5}{(x_0^2+l^2+n^2t^2)^2(\nu^2+n^2t^2)^3}\right],
+{d G \over 2 \pi} = \delta (Y) \sqrt{\hat{A}(Y)} ch(TX).
+\langle W(C)\rangle_{\rm ladders}=\exp\biggl[\biggl(\frac{g^2N}{4\pi}-\frac{g^4N^2}{8\pi^3}\ln \frac{1}{g^2N}+\cdots\biggr)\frac{T}{L}\biggr],\qquad g^2N\ll 1; \label{asympt1}
+\frac{\langle \langle \psi^\prime|e^{-\hat H \tau_f}\hat O_1(\tau_1)\hat O_2(\tau_2)\ldots \hat O_n(\tau_n)e^{\hat H\tau_i}|\psi\rangle\rangle}{\langle \langle \psi^\prime|e^{-\hat H(\tau_f-\tau_i)}|\psi\rangle\rangle}\,.\label{5.1a}
+\ln {\cal I}(\alpha)=-E(\alpha)L\label{EI}
+S(\omega _{1}|\omega _{2})_{M}=-\left\langle log\Delta _{w_{1},\omega_{2}}\right\rangle
+\Gamma_{s}(M_{i})\equiv {\textstyle\frac{1}{4}}f_{ia}{}^{b}\gamma_{b}{}^{a}\, ,
+\label{5.35}V=M^2-\gamma^k M_{,k}+\frac 14 \bar{R}+{1 \over 16} F^{jk}F_{jk}-\left(eA_0+\frac i8F\right)^2+{e \over 2} ({\cal F}-2\breve{\gamma}^0\gamma^k\nabla_k A_0)~.
+\dot v (t) = - (1 + \alpha t)^{-1/2} = - \left({1 + \alpha u_+\over 1 +\alpha u_-}\right)^{1/2} ,
+n(\omega) = {{1 + e^{-\alpha^2\omega^2}}\over{1-e^{-\alpha^2\omega^2}}}.
+P_{\mu\nu\rho\sigma} = \frac{ k_\mu k_\nu k_\rho k_\sigma}{k^4}, \ \ \ M_{\mu\nu\rho\sigma} = \frac{1}{2} \left(L_{\mu\rho}P_{\nu\sigma} +L_{\mu\sigma}P_{\nu\rho} + L_{\nu\rho} P_{\mu\sigma}+L_{\nu\sigma}P_{\mu\rho} \right), \ \ \  m^2 = \frac{ \alpha\Lambda}{2}.
+a_i^{({\rm eff})}(x)= \epsilon_{ij} \partial_{x^j}\int \! d \vec y {G}_{\rm cyl}(\vec x, \vec y)(b^{(1)}(y) -{e \over \mu c} J_0(y))\,. \label{aeff}
+J_a\propto\left| \begin{array}{ccccc}m_e&m_d&m_c&m_b&m_a\cr\epsilon_e-\epsilon_a & v_{de}&v_{ce}&0&0\cr0&\epsilon_d-\epsilon_a & 0&0&v_{ad}\cr0&0&\epsilon_c-\epsilon_a & v_{bc}&v_{ac}\cr0&0&0&\epsilon_c-\epsilon_a & v_{ab}\end{array}\right| \, .
+\tanh(\pi\lambda)=1-\frac2{e^{2\pi\lambda}+1}.
+I = \frac{1}{16\pi G_N}\int d^4x\sqrt{-g}  \left[ R + a_1R^2 + a_2(3R^{\mu}_{\nu}R_{\mu}^{\nu}-R^2) +    a_3(R^{\mu\nu}_{\ \ \rho\sigma}R^{\rho\sigma}_{\ \ \mu\nu}    -4R^{\mu}_{\nu}R_{\mu}^{\nu}+R^2) \right],  \label{eqn:4Daction2}
+d\Omega_{3,k}^2 = d\chi ^2 +\frac{\sin^2\! \left( \sqrt{k}\chi\right)}{k} \left( d\theta ^2 + \sin^2 \!\theta d\omega^2\right).
+\label{mdeff}M_{IJ} = \pmatrix {- I_{p+1}& 0 \cr      0 &   I_{7-p}  \cr}
+g({\Phi}_{i})\hspace{0.1in}\rightarrow\hspace{0.1in} e^{-2i\alpha}g({\Phi}_{i})
+u=\frac{x_1}{\omega x_2},~ v=\frac{x_4}{x_3},~z=\frac{z_1}{z_2},~z_1=\frac{x_{13}}{\omega x_{14}},~z_2=\frac{x_{23}}{x_{24}}
+\zeta'_{\pm}(0|K_0)= \frac{1}{2}\zeta'(0|L) \mp \frac{i \pi}{2} A_p(L)
+\label{psicon}\Psi_{C} = -\frac{\sqrt{2}}{12 \pi} \cdot \frac{1}{(d-1)} [a \Gamma^{AB}F^i_{AB}\Gamma_{C} + b \Gamma^{B}F^i_{BC}]\chi^i.
+m{\bf v} ={\bf p} -{\bf \mu}\times {\bf E}
+\begin{array}{lll}\displaystyle\delta x^a=f^a &\displaystyle \delta z=0&\displaystyle \delta\theta^\alpha=0\\[1mm]\displaystyle\delta{x^a}=i\epsilon^{\alpha}(\sigma^a)_{\alpha\beta}\theta^\beta&\displaystyle\delta z=0 & \displaystyle \delta\theta^\alpha=\epsilon^\alpha\\\displaystyle \delta x^a=\epsilon^{abc}x_b\;\omega_c&\displaystyle \delta z=-i(\omega,\xi) &\displaystyle\delta\theta^\alpha=\frac{i}{2}\omega^\alpha{}_\beta\theta^\beta\;.\label{20a}\end{array}
+\eta_{1}={{A^{\prime}C^{\prime}}\over {AC}}-{{C^{\prime\prime}}\over{C}}+{{B^{\prime}C^{\prime}}\over {BC}}
+z (1 -z) {d^2 u \over d z^2} + [{1 \over 2} - (1 - 2 \lambda) z ]{d u \over dz}- ( \lambda^2 + {1 \over 8} \omega^2 ) u = 0.
+\Phi+\bar\Phi=(\alpha+\bar\alpha)+\theta\psi+\bar\theta\bar\psi+\theta\sigma^n\bar\theta\partial_ni(\alpha-\bar\alpha),
+\label{uniq3}J^{(N)}\left(N; 1, \ldots , 1 \right)= 2\; \mbox{i}^{1-2N} \pi^{N/2}\frac{\Gamma\left( {\textstyle{N\over2}} \right)}     {\prod m_i}\int\limits_0^{\infty} \ldots \int\limits_0^{\infty}\prod\mbox{d}\alpha_i\; \delta\left( \alpha^T \|c\| \alpha-1 \right) .
+\left\{ \begin{array}{cc}    ( h^{-1} + \mu \mathcal{F}) \, \left( \widehat{G} - \frac{1}{\mu} \, F\right) \, =  \, \left[ \mbox{det}  \left( \widehat{G} - \frac{1}{\mu} \, F \right) \right] ^{1/2}  1 \! \!  1  \\    h^{-1}\widehat{G} - \mathcal{F}F \, = \, \left[ \mbox{det} \left( \widehat{G} -\frac{1}{\mu} \, F \right) \right] ^{1/2} 1 \! \!  1 \ \end{array}\right.\label{sistem}
+\label{cs8a} A(x)\, \epsilon \, {\cal O}_{\pm} \quad ,\quad \mbox{if}\quad \pm \mbox{tr}(W \left(x_{\perp}\right))\ge 0 .
+\label{chi2s2}\Psi_{0\theta}=D_{\theta}\hat{\Theta_{0}}h_{0}(\hat Z,\hat\Theta),
+\label{cr}[A_{i}(\phi), A_{j}(\phi)] = 0 \, , \quad [A_{i}(\phi), X_{I}(\phi)]=0 \, , \quad[X_{I}(\phi), X_{J}(\phi)]=0 \, .
+\partial_i E^i_T = 0, \; \oint _{S^2_{\infty}} E^i_T dS_i = 0
+\bigl[D_{\nu}F^{\nu\mu}(x)\bigr]_a=j_a^{\mu}(x),
+\begin{array}{l}y^0=\displaystyle a\frac{1+xx'}{1-xx'}~,~~~~~~iy^{n+1}=a\frac{2x^{n+1}}{1-xx'}~,\\y^i=a\displaystyle\frac{2x^i}{1-xx'}~,~~~~~~(i=1,~2,~\cdots,~n)~.\end{array}
+\int_0^R{\rm d}r\,\left[u_{1\epsilon\kappa}\left(r\right)u_{1\epsilon'\kappa}\left(r\right)+u_{2\epsilon\kappa}\left(r\right)u_{2\epsilon'\kappa}\left(r\right)\right]=\frac{u_{1\epsilon\kappa}\left(R\right)u_{2\epsilon'\kappa}\left(R\right)-u_{1\epsilon'\kappa}\left(R\right)u_{2\epsilon\kappa}\left(R\right)}{\epsilon-\epsilon'}\,.\label{ndira}
+\Delta = -{1\over 2} l_{\mu\nu} l^{\mu\nu},\quad\quad \epsilon_{\mu\nu\rho\lambda} l^{\mu\nu} l^{\rho\lambda} = 0,\label{3.180}
+\label{i2}I[\psi_d,g_{\mu\nu}]=\int_{\cal M}dV~\bar{\psi}_d\left(i\gamma^\mu\nabla_\mu+m_d\right)\psi_d~~~.
+\langle \xi(x_1) \xi(\_2) \rangle _* = -2{\rm ln}\left(|x_1 - x_2| + a\right)\label{freefield}
+a(t)=\frac{Re^{t_{0}/R}}{(qR)^{q}}(t-t_{0}+qR)^{q}.
+A_{x_\perp}^{21}=\int_{R^2}d^2z\,\psi_{-\frac{1}{2}}^\dagger(z+\omega)\frac{\partial}{\partial x_\perp}\psi_{\frac{1}{2}}(z-\omega)=\frac{\bar x_\perp}{2\pi |x_\perp|}e^{2ix\cdot\omega} (I+J).
+\times \prod_{a=1}^N\Bigg| \frac{ \prod_{i<j}^{n_a}\big( \tilde{x}^{(a)}_i - \tilde{x}^{(a)}_j \big)\big( \tilde{y}^{(a)}_i - \tilde{y}^{(a)}_j \big)\big( \hat{x}^{(a)}_i - \hat{x}^{(a)}_j \big)\big( \hat{y}^{(a)}_i - \hat{y}^{(a)}_j \big)}{ \prod_{i,j=1}^{n_a}\big( \tilde{x}^{(a)}_i - \tilde{y}^{(a)}_j \big)\big( \hat{x}^{(a)}_i - \hat{y}^{(a)}_j \big)} \Bigg|^{[1-\frac{g}{\pi+gN}]}
+E_l=\frac{c(l+1/2)}{\pi a}\int\limits_{0}^{\infty}dy \ln \left \{1-\xi ^2\left [(s_l(y) e_l(y))'\right ]^2\right \},\label{final}
+\label{10}\theta\theta_0\underline\varphi_{in}^* (-x) \theta_0\theta = \underline\varphi^*_{out} (-x)
+\{2\omega_1,2\omega_3\}\to \{2\omega_1/n,2\omega_3\}
+Q +  \Pi_{(p)}{\overline Q} = \int_0^\pi  d\xi^1 \; ( S + \Pi_{(p)} {\overline S}) \ \ ,\label{eq:unbroken}
+\tilde{F}(q,p,\eta)=\sum_{n=0}^\infty\tilde{F}^{(n)},  \label{a23}
+\label{calcerr}\epsilon_{c,N} \rightarrow e^{-  \left(  4 N / e \lambda \right)^{1/2} - N / e}.
+c^{\dagger}_{\alpha} = c_{\alpha} \ \ \ and  \ \ \ c^{2}_{\alpha}=1
+V(R)=\lim_{T\rightarrow\infty}\,\frac{1}{T}\,\left[\int\limits_{0}^{T}\!\!dt\int\limits_{0}^{R}\!\!dr\,M_{0}^{2}\,+\,\frac{D-2}{2}\,\mbox{Tr}\ln G^{-1}\right]\,{.}
+\psi = \left( \begin{array}{cc}I_n & \chi \\[.7em]0 & I_n\end{array} \right).
+S=\frac{1}{8\pi G_N} \int_{\partial M} \Bigl[ (K-K_0)+{\textstyle{\frac{1}{4}}} n_\mu \Bigl( \sqrt{-g} e^{-\gamma\Phi}A_\nu^{\alpha}(LML)_{\alpha\beta}F^{\beta\mu\nu} \Bigr) \Bigr]\quad .
+a = |0 ><1|\sqrt{[1]} +  |1 ><2|\sqrt{[2]} + |2 ><3|\sqrt{[3]} + \cdots\label{eqn21}
+{\cal P}_{\leq}   \left[ e^{i \theta /2}g(R,\theta) \right] =0.
+H=\frac{1}{2} \left(\pi_x^2 + \pi_y^2 + \lambda L^2 \right) +\frac{\omega^2}{2} \left( x^2 + y^2 \right),\label{eq:Higgs-ho}
+[ {\cal M} (M) , {\cal M} (N) ] =  {\cal M} ([M,N])
+\label{etp}\tilde{E}_3^a=-2E_3^b\mathrm{tr}\,(\tau^a h^{-1}\tau^b h)=E_3^bR_{ab}\,
+\Omega^{2} \nabla_{\mu}e^{\mu}_{\tau} = 0
+\int_0^\infty f^2(y) t(y) \, | \sqrt y /t(y)|^{l+1} dy = 0   \label{ftpog}
+S = 4 \int d\tau \int_0^{\pi/2}  d\sigma r^\prime(\sigma) \sqrt{1-r^2\omega^2} . \label{sng}
+\label{cardy}S = 2 \pi \sqrt{\frac{c}{6} Q_{0}}.
+\sum_{ {\bf{q}}_{1}\neq {\bf{0}}, {\bf{q}} }{\bar{n}}_{ {\bf{k}} - {\bf{q}}/2 + {\bf{q}}_{1} }e^{i\mbox{  }\theta({\bf{k}} + {\bf{q}}_{1}/2, -{\bf{q}} + {\bf{q}}_{1})}e^{-i\mbox{  }\theta({\bf{k}} - {\bf{q}}/2  + {\bf{q}}_{1}/2, {\bf{q}}_{1})} = 0
+\label{free}<\bar{\psi}\psi(x)~\bar{\psi}\psi(0)>_{T\gg\mu}\ =\ 2 T^2\ \left[\sum_{n=0}^\infty \exp\{-\pi T(2n+1)x\}\right]^2 =\frac{T^2}{2\sinh^2(\pi Tx)}
+\widehat{\phi}\Psi=0,\quad\widehat{\chi}\Psi=0.\label{q1}
+\label{eqmot2}({\cal D}^2+d\lambda^2)|S\rangle=0\,.
+G^{(\pm)}={G_5\ell^{-1} e^{\pm d/\ell}\over 2 \sinh(d/l)}
+a_{i}({\bf k})=c_{i}({\bf k})=\frac{1}{\lambda}\,(2\hat{j}+1),\quad (1\leq i\leq n_{b}=8)\label{ac-coeff}
+[\nabla^i, Z_j] = i(({\cal C}\Theta + {\cal D})^{-1})^i_{\,j}\, Z_j.
+{\mathcal M} = \left( \begin{array}{c} \frac 12 (M+M^{*}) \\ \frac 1{2i}(M-M^{*})\end{array} \right) , \quad  {\mathcal Z} = \left( \begin{array}{c} \frac 12 (Z+Z^{*}) \\ \frac 1{2i}(Z-Z^{*}) \end{array} \right).\label{eq:8times4real}
+\label{(160)}\left[ G_a,H^{*}\right] =-\gamma _a,
+\mu _{a_{1}}^{\prime 1}=\stackrel{[1,0]}{{\cal P}^{\prime }}%_{1a_{0}}Z_{\;\;a_{1}}^{a_{0}},\;\mu _{a_{1}}^{\prime 2}=\stackrel{[0,1]}{%{\cal P}^{\prime }}_{2a_{0}}Z_{\;\;a_{1}}^{a_{0}},  \label{39}
+S_{eff}=-{\kappa\over 2}\,\int d^2\sigma\,\sum\limits_{k\not=n} P_+^k\,\partial_-v_k\ ,\label{S_eff}
+n_{\pm }^2=\frac{n_{\rm sup}^2}{2}\\biggl(1\pm \sqrt{1-\frac{n_{\rm b}^2}{n_{\rm sup}^2}}\biggr),
+{\cal H}_{{\rm C}}=\lambda ^{\tau \tau }\pi _{\tau \tau }+\lambda ^{\tau\sigma }\pi _{\tau \sigma }+\lambda ^{\sigma \sigma }\pi _{\sigma \sigma }-%%TCIMACRO{\dfrac{h^{\tau \sigma }}{h^{\tau \tau }} }%BeginExpansion{\displaystyle {h^{\tau \sigma } \over h^{\tau \tau }}}%EndExpansion\chi _1-%%TCIMACRO{\dfrac T2 }%BeginExpansion{\displaystyle {T \over 2}}%EndExpansionf\left[ h\right] \chi _2,  \label{v.56}
+{\kappa\over 4x^{\pm 2}}< {1\over 2}\sum_{i=1}^Nf'_{i\pm}f'_{i\pm}\ .\label{eq: spb}
+\begin{array}{lll}\nu(\overline{s})&=&\displaystyle\int_M c_n(F/F_0\ominus E)\\                         &=&\displaystyle\int_M c_n(F).\end{array}
+\Gamma ^{\mu \nu }P_{\mu \nu },\,\,\,\Gamma ^{\mu \nu \lambda \rho }P_{\mu\nu }P_{\lambda \rho },\,\,....
+g(p) = 2 h(p)  \sqrt{{\sum_{\alpha=0}^{2} \sin^2{\frac {p_\alpha}{2}}}}
+{\Lambda'}_\mu = \frac{1}{\beta} \frac{\partial\ln\sqrt{-\sigma g}}{\partial x^\mu} =\frac{1}{2\beta} \frac{1}{(\sigma g)}\frac{\partial {(\sigma g)}}{\partial x^\mu}.
+w={2s+1\over 8\pi^3} \sum_{k=1}^\infty (-1)^{(2s+1)(k+1)}(eE/ k)^2\exp(-k\pi m^2/|eE|).\label{2}
+\{\Gamma^m, \Gamma^n\} = 2\eta^{mn}, \quad {\rm where}~ \eta = (- ++ \ldots +).
+A_j(t)=\prod_{n=1}^\infty \Big(1-\frac{t}{t^{(j)}_n}\Big),\label{Aprod}
+%  u=\alpha+\beta+\gamma ~,~~ v = \alpha \beta \gamma ~,~~ s= \alpha\beta+\beta\gamma+\alpha\gamma %
+\label{Fsch}F(z) = {5\over 2} {M\over z^4} -{k \over z} \, .
+S_M=\int d^4x^L\int d^4x^R \overline{\Psi}\left\{ \delta^{(4)}(x^L-x^R)i\gamma^\mu D_\mu+i\kappa\tilde{D}_\eta \right\}\Psi , \label{action M}
+G_{\mu\nu}^{ab} (\theta) \;=\; \delta_{\mu\nu}^{ab} \,-\, i g^{-\frac{1}{2}}\epsilon_{\mu\lambda\sigma} f^{acd} \theta_\lambda^c G_{\sigma\nu}^{db}(\theta)\;.
+\label{drag-eq12} = g^2 \left[\frac{\Gamma{(a)} \Gamma{(b)} }{\Gamma{(a+b)}} + \frac{\Gamma{(b)}\Gamma{(c)}}{\Gamma{(b+c)}} + \frac{\Gamma{(c)}\Gamma{(a)}}{\Gamma{(c+a)}}\right]
+\sum_{n=-\infty}^{\infty}e^{-\pi(n-b)^2/a}=\sqrt{a}\sum_{s=-\infty}^{\infty}e^{-\pi as^2+2\pi isb},
+{\cal P}_*(\chi) \propto \exp[3N(\chi)].\label{3}
+\left[ \Psi _M(x),\overline{\Psi }_N(x^{\prime })\right]_{t=t^{\prime }}=\left( \Gamma _4\right) _{MN}\delta(\mathbf{x}-\mathbf{x}^{\prime }) ,\label{87}
+t(x)dx=\Big[T\Big(x-\frac{i}{2}m\Big)- T\Big(x+\frac{i}{2}m\Big)\Big]dx\ ;\label{t}
+\label{basis2}|\tilde{\psi}_i\rangle\equiv U(z_i)|n_i\rangle\ (i=1,\dots,k), \quad U(z_i)=e^{z_ia^\dagger-\bar{z}_i a},
+{\{ x^\alpha,x^\beta \} }_{GB} = \Omega^{\alpha\beta}\;.
+\eta ~=~ {1\over 96\pi^2} [ - (T(R_o) -2T(R_{1\over 2}) + 2T(R_1) ) ] ~+~ {1\over 96\pi^2} [3(-2T(R_{1\over 2}) + 8T(R_1))],\label{eq:lncoeff}
+m(x_4)=m(2L+x_4)=-m(-x_4)\ . \label{fm1}
+<m,\ell|m',\ell'>=\delta_{mm'}\,\delta_{\ell\ell'}\ \ \ .
+\int d\tilde q\, q^rq^sF\left( q\right) =-\delta ^{rs}.\label{IV5}
+G(k^2)\,=\,\frac{1}{c-1}\frac{c\,-\,e^{-k^{2}/\mu^2}}{k^2}.\label{green}
+\Lambda =\sqrt{\lambda -1},  \label{b.3.18}
+\label{www}W_{m+1,M}^{n+1,N}= W_{mM}^{nN}\sqrt{\frac{1-q^{2(m+1)}}{1-q^{2(n+1)}}}.
+T(u+2\pi)=T(u),\qquad W(u+2\pi)=W(u).\label{BC-int}
+T_0^{(0)} = (1/2) \Bigl(2\pi\alpha'P^2 + (2\pi\alpha')^{-1} X'^2\Bigr),
+\label{energia_final}\Delta U_T= - {1\over 2\pi} A {(k_B T)^3\over \hbar^2}\sum_{n=1}^{\infty}{1\over n^3}.
+\begin{array}{c}t_ie_jt_i^{-1}=q^{a_{ij}}e_j\\t_if_jt_i^{-1}=q^{-a_{ij}}f_j\\{}[e_i,f_j]=\delta_{ij}\frac{t_i-t_i^{-1}}{q-q^{-1}}\end{array}
+S=\frac{1}{(2\pi)^p g_s}\int d^{p+1}x\left[1-\sqrt{-\det(\eta_{\mu\nu}+F_{\mu\nu})}-\Sigma_pe\phi\delta({\bf r})\right]\label{59}
+a = 2 + \left( \frac{2 N B_0}{3} \right)    \left( \frac{1 - 4 Q^2 B_0}{1 - 2 Q^2 B_0} \right).\label{eq-a}
+F_{L}=-\overline{\Theta}_{\Lambda_{24}}\partial_{\bar{z}}\overline{\rho}(z,\bar{z})+\overline{B}_{14}(\tau,\bar{\tau}),
+\Phi_i (p_\alpha , q^\alpha ) = 0 , \hspace{.5in} (i= 1, \cdots,N),
+\mathrm{det}\,T_{(i,j)}-\Omega_{(i,\,j)}=0.\label{eq:moduli-simple}
+\begin{array}{l}v_{k+1}=W\left[ \left( 2F(u_k,v_k)-F(u_k,v_{k-1})\right) \,,u_k\right] , \\u_{k+1}=\bar W\left[ \left( 2\bar F(u_k,v_k)-\bar F(u_{k-1},v_k)\right)\,,v_k\right] .\end{array}\label{constants}
+d_\pm= \frac{i}{k_z r_0} \left[ a_\pm -\left(\omega \pm \frac12 \right) \right], \quad a_\pm =\textrm{sg} \left(\omega \pm \frac12 \right) \sqrt{\left( k_z r_0 \right)^2 +\left(\omega \pm \frac12 \right)^2}
+\label{extG} Z \equiv i\frac{\partial}{\partial q}.
+\int d^{10}x\\sqrt{-\hat{g}}\ \left[ {\textstyle\frac{3}{4}} \hat{G}^{2} \right] =\int d^{9} x\sqrt{g}\ \left[{\textstyle\frac{3}{4}} k G^{2}-{\textstyle\frac{3}{4}}k^{-1}\left( H^{(2)} -\ell H^{(1)}\right)^{2}\right]\, .
+{\cal O}^{(\gamma_j)} = \int_{\gamma_j} W_j,\label{noguta}
+\frac{1}{\Delta}\int d^{D}x Y^{a}_{{\mu}_{1}{\cdots}{\mu}_{q}}{\partial}_{\mu}V^{a{\mu}{\mu}_{1}{\cdots}{\mu}_{q}},
+\tau_{\varphi}^{(n)}   =  -\sin n\varphi \ \sigma_1                        +\cos n\varphi \ \sigma_2 \ ,%\nonumber
+Z[C]=\int D\phi\exp\{-\int dx^3 [\frac{g^2}{32 \pi^2} \, (\partial_\mu \phi-2\pi j_\mu(x)) (\partial^\mu \phi-2\pi j_\mu(x)) +         \frac{M^2_\gamma g^2}{16 \pi^2} \, (1-\cos \phi)] -M_WL\}\,\,\, .
+\label{gauss}\langle e^{i\pi L}\rangle=\exp [\frac{-\pi^2}{2}\langle L_i^2\rangle N_{ind}]
+H^{(orb)}_{\lambda=1} = \frac{1}{sin \gamma}\sum^L_{j=1} \left( \tau^+_j \tau^-_{j+1} + \tau^-_j \tau^+_{j+1}+\rho^+_j \rho^-_{j+1} + \rho^-_j \rho^+_ {j+1} - \sigma^0_j -\sigma^0_{j+1} \right)\label{3.57}
+R_1^{\mathbf{IIA}} = \frac{N_2}{\sqrt{2} R}l_s^2.
+D \int \mbox{d} x \, a = 0\label{consistency}
+\tilde f_{23}=\biggl[ (0,0),\left( 0, 1/2 \right),\left( 0, 1/3 \right),\left( 0, 1/6 \right) \biggr]\;.
+\label{defination-disclination}\theta ^{ab}=\frac 12R_{\mu \nu \sigma}^\lambda e_\lambda ^ae^{\sigma b}dx^\mu \wedge dx^\nu =-F^{ab}.
+\tilde{\sigma_{5}}=\int {d^{d}k\over (2\pi)^{d}}\gamma^{5}_{\alpha\beta}\sigma_{\alpha\beta}(k)=-\tilde{G}_{5}=-\int {d^{d}k\over (2\pi )^{d}}Tr[\gamma^{5}G^{(2)}(k)]\label{53}
+\frac{1}{2}\alpha' M^2=N^\perp+\bar{N}^\perp\ \ \ ,\ \ \ N^\perp=\bar{N}^\perp\ ,
+\label{Omega-H}{}^{\star}d\omega  -e^{-2U} {}^{\star} d\mu  -W^{-1} \Re{\rm e}\left( {\cal H}_{1}d\bar{\cal H}_{2} -\bar{\cal H}_{2}d{\cal H}_{1}\right) = 0\, ,
+\label{eq:Csub}C_{i_{ p},\alpha_p \; j_{ q},\alpha_q}^{k_{ s},\alpha_s}= \left\{\begin{array}{lll} 0, &\mathrm{if} \ \beta_p + \gamma_q \neq \alpha_s  \\c_{i_{ p}j_{ q}}^{k_{s}}, & \mathrm{if} \ \beta_p + \gamma_q =\alpha_s  \end{array} \right. \quad \begin{array}{l}p,q,s=0,1 \\i_{p,q,s}=1,2,\ldots, \textrm{dim} \, V_{p,q,s} \\\alpha_0,\beta_0,\gamma_0=0,1, \ldots, N_0 \\\alpha_1,\beta_1,\gamma_1=1,2, \ldots, N_1 \;  .\end{array}
+\dot{\tilde F}_2 (0) =  \frac{c_1}{2}\dot\psi_2(0)B,
+G_o(K;\vec{x},\phi;\vec{x'},\phi') = -\frac{1}{(2\pi)^4}\sum_{n=-\infty}^{n=+\infty} \int d^3p\frac{e^{i\vec{p} .(\vec{x}-\vec{x'})} e^{in(\phi-\phi')}}{[p^2 + n^2/R^2 - K^2-i \epsilon]},
+\epsilon_0 = \frac{1}{8r^2}+\frac{r^2}{2}           + \sum_{K=1}^{\infty}c_K g^K (r^2 )^{2K}
+\frac{f}{M_P} > \frac{g_1}{4\pi} \sqrt{\left|\frac{5c_3}{c_2}\right|} \;.
+T(z)=\beta \partial \gamma -\frac 12(\partial \phi )^2-\frac 1{\alpha _{+}}%\partial ^2\phi  \label{jemmm}
+N^F=\sum_{r=1/2}^{\infty}r\;(b_{-r}\; b_r+d_{-r}\;d_r)\;.
+[\cdots]\,\approx\,1\,+\,{1\over2\vert\vec k\vert}\,(2P_0-E'_1-E'_2-E_1-E_2).\label{51}
+\Delta_p = \prod_{\Gamma\subseteq P^\circ} \Delta_0^\Gamma,
+\alpha^a=\sqrt{\frac{m}{2}}\,\left[\hat{A}^a+\frac{i}{m}\hat{\pi}^a\right]\ \ ,\ \ \ {\alpha^a}^\dagger=\sqrt{\frac{m}{2}}\,\left[\hat{A}^a-\frac{i}{m}\hat{\pi}^a\right]\ \ ,
+\partial_z\partial_{\bar{z}}\mbox{G}+\frac{1}{2}\left\{\partial_{\varphi}^2V(\varphi_0)\right\}\mbox{G}=\delta(z-\hat{z})\delta(\bar{z}-\hat{\bar{z}})\,.\label{green1}
+\label{sp2}\sum (Q_A)^2 = \sum Q_A \,, \quad \sum Q_A + Q_B + Q_C = 0\,, \quad -Q_B +Q_C = 1\, .
+S_j (\lambda ) =\sum_{i_1 <...<i_j} \lambda_{i_1}...\lambda_{i_j}
+y^2 \partial_y y^{-2} \partial_y H + {1\over y^2}\left( f^{-{3\over2}}(\mu) \partial_\mu f^{{3\over 2}}(\mu)\,\partial_\mu -m^2f\right)H= -\omega^2 H\ .\label{scalar}
+\label{fixed-e2}\hat{G}[x, y; E] = \frac{e^{-\sqrt{2E} |x - y|}}{\sqrt{2E}} - \frac{\hat{v}(E)}{\sqrt{2E} ( \sqrt{2E} + \hat{v}(E) )}e^{-\sqrt{2E} (|x| + |y|)}.
+{\cal D}\equiv2{{{{(p^2\alpha+qa^2)}\over 4}\partial^2+q\alpha (\alpha+q)}\over{({{p+a}\over 2})^2\partial^2+(q+\alpha )^2}}.\label{eqd}
+\label{6.37}\begin{array}{rcl}\displaystyle  \left[a_q,a_q^\dagger\right]&=&\left[N+1+b\gamma\right]_q-\left[N+b\gamma\right]_q~,\\\displaystyle  \left[N, a_q\right]&=&-a_q~,~~~\displaystyle  \left[N, a_q^\dagger\right]=a_q^\dagger~.\end{array}
+\label{mu}\mu' = \alpha^2 x^2 (({\cal U} - \frac{q^2}{x^2}) + N {\cal K})
+\delta q^{\mu}=\frac{1}{i\hbar}\left[ q^{\mu}, G \right]\label{41}
+R_l(\beta)={\Gamma({2l\over\xi}+{i\beta\over\pi\xi})\Gamma(1+{2l\over\xi}+{i\beta\over\pi\xi})\over  \Gamma({2l+1\over\xi}+{i\beta\over\pi\xi})\Gamma(1+{2l-1\over\xi}+{i\beta\over\pi\xi}) }\ .
+\label{maJ}j_{\nu,1}\,< \sqrt{\left(\nu+\frac12\right)\left(\nu+2\sqrt{\nu +\frac 32}+\frac 52\right)}
+\hspace{-2.0cm}S_{a}=\int d^{4}x\,\psi _{a}{}^{\dagger }\left( \frac{1}{2m}D^{\mu }D_{\mu }+\frac{1}{2}iv_{\alpha }^{\mu }\sigma ^{\alpha }D_{\mu }+\frac{1}{2}D_{\mu}iv_{\alpha }^{\mu }\sigma ^{\alpha }-\frac{1}{2}mv^{\alpha \mu }v_{\mu}^{\alpha }+\mu _{ext}\right) \psi _{a}
+\xi(x)^{\dagger}=\xi(x), \ \ \ \eta(x)^{\dagger}=\eta(x).
+C_{0101} = \textstyle{\frac{1}{3}}\left\{K^{2}-\aleph L^{2}\right\}= 2g^{2} \; ,
+g^{j}_{\mu \nu} - G^{j+1}_{\mu \nu} = h^{j}_{\mu \nu} - h^{j+1}_{\mu \nu} +\pi^{j}_{\mu,\nu} + \pi^{j}_{\nu,\mu} +\pi^{j \alpha}_{,\mu} \pi^j_{\alpha,\nu} + \cdots \label{gminusG}
+f\left( A\right) =\phi \left( \left\langle e_{1},A\right\rangle ,\cdots\left\langle e_{d},A\right\rangle \right) ,  \label{e.4.7}
+z+{\mu^{2}\over z}={1\over 6} (p_{1}+ \sqrt{p_{1}^2+12 p_{2}}),
+\left\{\pm 1, \pm i, \pm j, \pm k, \frac{1}{2}(\pm 1 \pm i \pm j \pm k)\right\},
+- -\frac{1}{2\cdot6!}              \frac{k^2}{(2\pi)^7l_s^8}\int d^{10}x              \sqrt{-g}(F_{abcdef})^2,
+\label{action}A=A_{CFT}+\sum _{i}\lambda _{i}\int\Phi _{i}(x)d^{2}x.
+\omega_1^2 =0,\;\omega_2^2=k^2-1,\;\omega_3^2=k^2\label{14}
+H(t)=H_{0}+a(j_{t})+a^{*}(j_{t}),\quad H_{0}=\int (\frac{\vec{p}^{2}}{2m}% +\mu )a^{*}(\vec{p})a(\vec{p})d^{3}p,\quad
+\hat{\partial }_\mu z_i= \partial _\mu z_i -W_\mu ^ \alpha (\delta  _\alpha z_i)\,.\label{hatdz}
+G'[\sigma]\equiv G[\sigma]+\frac{1}{8}\int d^4x\frac{\partial_\mu\sigma\partial^\mu\sigma}{1+\sigma}
+l_{+}^{\; + \ldots +}=z^{k-1} ,  \label{eq:quadr}
+\mu \frac{d g(\mu)}{d \mu}\ = \beta(g(\mu))
+B^{ai}_b ={(\frac{\partial^2 A}{\partial \phi^i \partial \phi^j})}^{-1}(\frac{1}{4} \lambda^{a}_{bj} - \frac{1}{2}\frac{\partial^3 A}{\partial \phi^j \partial \phi^k \partial \phi^p}(\bar \psi^k_a \psi^{bp} + \bar \psi^{bk} \psi_{a}^p)) ,
+\tilde{B}_{\mu}^{(j;m)} = \frac{1}{1-|u|^2}             (\partial_{\mu}u P_m^{(j)}+\partial_{\mu}\bar{u} P_{-m}^{(j)}) \label{eqn:32}
+|\Lambda, \Xi\rangle_{orb} =const \sum_{\nu, \nu', \nu_i} (-1)^\nu (-1)^{\frac{s_0^2}{2}}|\lambda, \Xi + \nu \beta_0 +\nu' \beta_{\gamma} + \nu_1\beta^{(1)} +\dots +\nu_r\beta^{(r)} \rangle.
+DX_{a}(t,\tau) = - \theta_{a}(t) + \tau {\dot{x}}_{a}(t) \ ,
+J_{\nu-1}^{2}(ix)-e^{2\theta}J_{\nu}^{2}(ix)\sim {(ix)^{2(\nu-1)}\over 2\pi}\alpha_{\nu}e^{2\alpha_{\nu}}e^{-2\nu \log(\nu+\alpha_{\nu})}\Bigr[\Sigma_{1}^{2}A_{\theta}(t)+\Sigma_{2}^{2}+2t \Sigma_{1}\Sigma_{2}\Bigr],\label{(2.12)}
+U_{\rm s}\;=\;{4\over 3n_{\rm s}(k^2)^2}\int_0^kd\zeta\, \rho_{\rm s}(\zeta)(k^2-\zeta^2)-{1\over 3}-{2\over 3}{d_{\rm s}(k^2)-p_{\rm s}(k^2)\over n_{\rm s}(k^2)^2}\;.\label{ce20}
+Q_{I}(\theta)\rightarrow {\rm e}^{i\beta}Q_{I}({\rm e}^{-i\beta}\theta),\qquad{\overline Q}^I(\theta)\rightarrow {\rm e}^{i\beta}{\overline Q}^I({\rm e}^{-i\beta}\theta).\label{eq:ursym}
+\label{deviation2} \delta\phi'' - 4 |A'| \delta\phi' = - 6 | g^{-1} P_{,\phi \phi}|\delta\phi  \ .
+-i\theta^{\rho \sigma} \frac{\partial {a_{\mu}}^{\lambda}}{\partial x^\rho} \left\{A_{\lambda}, \ \frac{\partial A_{\nu}}{\partial x^\sigma} \right\}_{\star}.
+S_{\rm 4d-scalar}=\int{\left(-{1 \over 2}g^{\mu \nu} \partial_{\mu} \phi \partial_{\nu} \phi-V(\phi)\right) \sqrt{-g}d^4x}\label{NG}
+{{C}_{\cal A}} : =( P_Y,  \Phi, \Upsilon )
+[x^{\mu },x^{\nu }] = i\theta ^{\mu \nu }(x),
+\mbox{exp}\left( 2 \pi i \,\frac{\hat \gamma_1}{g_s}\right) \equiv\mbox{exp}\left( 2\pi i \tau_1 \right)
+\Lambda = {\tilde d \over 2r_0^2} \left[ 2(\tilde d+1)-{4\tilde d \over \Delta}\right] \, .
+\Omega(q) = \rho(q,q)=\frac1{N!} \sum_{P,P'} \int dx^+ dx^- e^{i(q_{PP'}^- x^++q_{PP'}^+x^-)} \rho(x^+,x^-)   \label{18}
+(\nabla \xi)^2=\Delta \xi=0\label{eq5.20}
+\chi (s,\vec \xi)= \Omega (s)\psi(s,\vec \xi) \label{eq3.10}
+ds^{2}=-f\left( \tau \right) d\tau ^{2}+d\hat{s}^{2}  \label{genform}
+\label{E5}(\bar{D}_\mu A_\nu)_A=\partial_\mu A_{\nu A}+A_{\mu a}f_{AaB}A_{\nu B}
+\left( \begin{array}{c}                                      {\xi}^{(i)}_{j}D^{(i)}_{jj^{'}}\\                                       {\eta}^{(i)}_{b}D^{(i)}_{bb^{''}}                                     \end{array}                                     \right)\label{offdiagform2}
+Q^{ij}_{\mu \sigma} Q^{jk}_{\sigma \nu} =Q^{ik}_{\mu \nu}
+B_{n0}=\delta_{n0}, \ B_{nj}=0 \ (n < j).
+p_\mu T^{S\rightarrow AV}_{\mu \nu} =2miT^{S\rightarrow PV}_\nu
+M=\widetilde{M}(1+\omega ^{2})/(1-\omega ^{2}),  \label{M/Q=0}
+a(t_b)=\pm a(t_a),~~~~~~~a^*(t_b)=\pm a^*(t_a),~~~\label{abc}
+r= { {- (N-2) - {\rm cot}\, kl } \over { N + i\, {\rm cot}\, kl} },\;\;\;t= { {2} \over { N + i\, {\rm cot}\, kl} }.
+S_{\rm replica} = {{\rm ln}({L\over\epsilon})\over\pi}\int_0^\infty d\omega \{{2\pi\omega\over(e^{2\pi\omega}+1)}+{\rm ln}(1+e^{-2\pi\omega})\}.\label{rindferment}
+Q=\left(\begin{array}{ccccccccr}0&0&0&0&0&-1 \\1&0&0&0&0&0 \\0&1&0&0&0&-1 \\0&0&1&0&0&0 \\0&0&0&1&0&-1 \\0&0&0&0&1&0\end{array}\right).
+({\bf u},{\bf v})=\int g_{ij}(\phi_0)u^iv^j\,d^2x\label{product}
+T_m(x)=\cos m\varphi,\qquad x=\cos\varphi.
+X(p_{1}/q_{1},\ldots,p_{n}/q_{n},0/1)=\mbox{disconnected sum of }L(-p_{i},q_{i})
+\label{abu+u-} \pmatrix{ a  \cr b} = T \pmatrix{ u^{+}  \cr u^{-}} = e^{i\chi} [\tau^{4} \cos (\kappa/2) + i N^{k} \tau^{k} \sin (\kappa/2)]\pmatrix{ u^{+}  \cr u^{-}} = e^{i\chi} e^{i N^{k} \tau^{k} \kappa/2} \pmatrix{ u^{+}  \cr u^{-}},
+{\cal L}_{\rm Ghost}={\bar c}\left[ \partial^2+ \xi  m_F^2 + \xi  e^2 \varphi \phi_1  \right]c
+\Psi \;=\; \Psi_{\vec{k}_1 s_1 \epsilon_1} \:\wedge\: \cdots \:\wedge\:\Psi_{\vec{k}_n s_n \epsilon_n} \;.    \label{eq:0h1}
+M=\left ( \matrix{G^{-1} & -G^{-1}C & -G^{-1}a^T \cr-C^T G^{-1} & G + C^T G^{-1}C +a^T a & C^T G^{-1} a^T+ a^T \cr -aG^{-1} & aG^{-1}C + a & I + aG^{-1}a^T}\right ),\label{modulthree}
+\label{gl80}a_i = P_{ik} a_k + (1-P)_{ik}a_k \equiv a^{\perp}_i +a^{\parallel}_i
+c_{-ij} = \delta_{i, j+1} I_m, \qquad c_{+ij} = \delta_{i+1,j} I_m,
+\label{ortho}\int d\Omega Y_{Lj}(\Omega)Y^*_{L'j'}(\Omega)=\delta_{LL'}\delta_{jj'} \ ,
+0 \rightarrow{\cal O}_{\pi^* {\cal S}}(\sigma|_{\pi^* {\cal S}})\rightarrow{\cal O}_{\pi^* {\cal S}}(2\sigma|_{\pi^* {\cal S}})\rightarrow{\cal O}_{\pi^* {\cal S}}(2\sigma|_{\pi^* {\cal S}})|_{\sigma|_{\pi^* {\cal S}}}\rightarrow 0\label{B19}
+%V(x_1 , x_2) =  V(\rho) \qquad {\rm where} \qquad\rho = \sqrt{({\bf x}_1 - {\bf x}_2)^2 - (t_1 -t_2)^2} \ .%\label{eqn:1.16}
+p=\int {d z\over 2\pi i}{\partial \gamma\over \gamma}.
+( xy ) d = x \eta + \xi y = x\eta + y \xi - h y \eta
+RX=-h_0(X)+\sum_{k<l}\,{\coth (q_k-q_l)}\,\left[\vphantom{1 \over 2}(x_{kl}+iy_{kl})E_{kl}-(x_{kl}-iy_{kl})E_{lk} \right]\label{rsln}
+Z = \int \sum^f_{\alpha=1} dM^{(\alpha)} e^{-S}\label{1.3}
+|Z_2|^2 ={1\over 4}  \left (Z_{ij} \bar Z^{ij} -  \sqrt { (Z_{ij} \bar Z^{ij} )^2 -{1\over 4} |\epsilon^{ijkl}  Z_{ij} Z_{kl} )|^2 }\right) \label{S}
+ds^2 = -B(r) dt^2 + A(r) dr^2 +  r^2 \left( d\theta^2+ \sin^2\theta d\phi^2 \right).
+V(t=0) = V_{cl} \equiv \left(\frac{\rho \varphi^4}{4 !} - \frac{1}{2} \xi R \varphi^2 \right)\sqrt{-g}\label{inition}
+\left[(n - 1)z - 1\right]\, \left(z + 1\right)^{n - 1} =  0 \, , \label{cubic}
+\int_\Sigma \frac{[dg_{\alpha \beta}] [dX^I]}{V}\ \ \exp \{ -S[X,g] \}\ ,\label{vac ampli}
+H^{(2)} = \frac{m}{2\kappa} \Phi^i \Phi^i.
+\label{Dq}D^\pm_i = \frac{1}{2}(1 \pm i) ~, ~~~~~ D^\pm_j = \frac{1}{2}(1 \pm j) ~,
+X_3[\phi_0,m(\mu),\lambda(\mu)] = \alpha_4(\lambda(\mu)) \; \phi_0^4 + \alpha_5(\lambda(\mu)) \; m^2(\mu) \; \phi_0^2.
+j(T)\stackrel{def}{=} 1728 J(T),\label{areko44}
+S_{TM}^4 = \int d^4x\Bigl[-{1 \over 4}F_{\mu\nu}F^{\mu\nu}-{1 \over 12\mu^2}H_{\mu\nu\lambda}H^{\mu\nu\lambda}-{1 \over 4}\varepsilon^{\mu\nu\lambda\rho}B_{\mu\nu}F_{\lambda\rho}\Bigl]\;,
+\label{1loopB2}  \beta(g) \propto -{1 \over {16\pi^2}} \left[ 3N-N-m\right]=-{1 \over {16\pi^2}} \left[  2N-m\right].
+[\phi_{m} , \tilde{\pi}_{n} ] = [\tilde{\phi}_{m} , \pi_{n} ] =i \delta_{mn} \mid 0 \rangle \langle 0 \mid \label{v}
+\label{00330}{\tilde f}^{(0)}= \left ( \begin{array}{cccccc}0 & -1 & 0 & 0 & 0 &  q\partial_y\\1 & 0 & 0 & 0 & 0 & q\\0 & 0 & 0 & 0 & 0 & 0\\0 & 0 & 0 & 0 & -1 & q^2 \\0 & 0 & 0 & 1 & 0 & \partial _y\\- q\partial_x & - q & 0 & - q^2 & - \partial_x & 0  \end{array} \right )\delta(x-y)
+c = \sqrt{ |\eta| + (kr_{1})^{2} } - \sqrt{|\eta|} \ln \left(\sqrt{ 1 + \frac{|\eta|}{(kr_{1})^{2}} } +\frac{\sqrt{|\eta|}}{kr_{1}} \right), \;\;\;\;\; \left( {\rm for}\; \eta = \alpha^{2} - \frac{1}{4} < 0 \right).
+E = V(x) - \frac{1}{2} \dot{x}^2.  \label{energy}
+\label{slinear}\tilde s^{(1)} = {1\over 8\pi}\,\ln {\mu^2\over m^2}
+X_{8} = \frac{1}{ (2\pi)^4} \lbrace - \frac{1}{768} ({\rm{Tr}} R^2)^2 + \frac{1}{192} ({\rm Tr} R^4) \rbrace, \label{af}
+J_0 = \frac{c}{12}(A^3+2n) , \qquad L_0 = (1-\gamma^2)\frac{c}{24}+ \frac{c}{24} (A^3 + 2 n)^2\label{qn3}
+(Ds)_{\beta \gamma}= \delta_{\beta,\gamma}(Ds)_{\beta},\quad    (Ds)_{\beta}=-i\sum_{\lambda\in\Delta_s,\    \beta\cdot\lambda=1}\left[    g_{s_1}z_{d}(\lambda\cdot q,\xi)    +g_{s_2}z_{d}^{(1/2)}(\lambda\cdot q,\xi)    \right].    \label{eq:bnlndsHD}
+S=1+\frac{Q_6g_{\rm str}}{4\pi r}.\label{masslessS}
+\label{evolR}{\cal R}(t)={\exp}\left[{\displaystyle t}\left(\begin{array}{cc} a & c \\ b & -a \\ \end{array}\right)\right]
+\left.\frac{dC_V}{dT}\right|_{T_c^+}-\left.\frac{dC_V}{dT}\right|_{T_c^-} =-\frac{3.66 Q}{T_c}
+f(\kappa, J)= - (-1)^{2J} \sum_{t=1} ^\infty\sum_{\alpha= \pm 1} ^{\pm 3} \frac{1}{t}A^{\alpha \alpha}_t({\bf 0}).\label{fe1}
+\max_{\Sigma } \max_{G} \int d^D x \, g \left(\mbox{tr} \left( GV(A-a)V^{\dagger } G^{\dagger } + G\partial G^{\dagger }\right)^{2} \right) \ .\label{mcgcalt}
+S^{abcd}=-ig^2e^\rho (p_1)e^\sigma (p_2)S_{\rho \sigma }^{abcd}
+\rho(x)=\int\frac{dk}{2\pi}\, f(x,k)\label{linear}
+\pi_{1}({\cal M})\stackrel{A}{\rightarrow}G,\;\;A:\;x\mapsto g(x)\in G\label{2.2}
+\label{391}  t^\ell_+(\mu,\nu;a,x) =  \frac{N(\mu)}{N(\nu)}  \frac{\Gamma(\nu-2\ell)\Gamma(\mu-\nu)}{\Gamma(\mu-2\ell)}\, e^{a(\mu-\ell)}\,  x^{\nu-\mu}_+\,, \qquad  2\ell < \Re(\nu) < \Re(\mu) \,.
+\label{eq:current1}  T(z) J(w) \sim \frac{-1}{(z-w)^3} + \frac{J(w)}{(z-w)^2} +  \frac{\partial J(w)}{z-w}.
+S= \frac{1}{2}\int d^{2}x\left( (\partial_{\mu} n_a)^2 + \zeta ( n_a^2 -1) \right),
+\sigma=2g_H^{-p/2}A_H\label{eq:dieleven}
+S_{int}=\frac{1}{2\pi \alpha ^{\prime }}\int d^{2}x\sqrt{-g}=\frac{1}{2\pi\alpha ^{\prime }}\int d^{2}xe^{\widehat{\phi }/2}\sqrt{-\widehat{g}},\label{eq:kalla}
+\label{mult} {\cal C}^a_b {\cal C}^b_d =\frac{1}{\alpha^2}({\cal M}^{ab}-\varepsilon^{ab})\varepsilon_{bd}.
+dB = -e^{\phi} {\,} {^*G} + \frac{1}{2} \omega_{cs} \ ,\qquad  H = dB - \frac{1}{2} \omega_{cs}\ .
+\;\;\;\;\; C_j=p,\: C_j=k {\mbox{ or }} C_j=s\;\;\; .
+f =\langle 0|T^{rr}_{\rm in}-T^{rr}_{\rm out}|0\rangle\bigm |_{r=a}.\label{7}
+{\cal{G}}(t,t')=-{\Gamma[-\nu] \over \sqrt{4 \pi iE}} D_\nu  \left( \sqrt{ 2i \over E}  (Et-k_x)\right)  D_\nu \left(-  \sqrt{2i \over E} (Et'-k_x)   \right)
+\ddot{C}_{n\parallel}+(n^2+\frac{m^2 a_{,rr}}{2})C_{n\parallel}=0.
+2:X^{-}f<{P_2}g>h:\rightarrow \frac 1{z-w}:2p^{+}(\partial_{p^{+}}f)(\partial _{p^{+}}g)h+(1-2is)(\partial _{p^{+}}f)gh:
+\label{orfan42}{\cal L}_{(0)} = 0 = {\cal L}_{(1)}
+\frac{\partial S_\epsilon}{\partial \mu} = -\frac{i}{2}\oint_\infty\phi(\frac{d\bar z}{\bar z}- \frac{d z}{ z}) - 2\pi(\mu-2)\ln\epsilon^2
+g_0 = \tan\left(\frac{k}{2}\ln\left|\ln\frac{r_0}{r}\right|\right).
+\langle K_{\tau}(x,y)\rangle=\langle E[\delta\left(y-x- \tau^{\frac{1}{2}-\sigma\gamma}\tilde{q}\left(1\right)\right)]\rangle
+D_a X_{\mu} ( \delta_{\mu\nu}I - i [X_{\mu}, X_{\nu}] )^{-1} D_bX_{\nu} = ( I - [X,Y]^2 )^{-1} ( D_a X_{\mu} D_b X_{\mu} + i D_a X_{\mu}[X_{\mu}, X_{\nu}] D_b X_{\nu} ).
+A_1B_1-A_2B_2 = V'(z)\quad B_1A_1-B_2A_2=V'(\tilde z)
+\label{conto3}\theta_i \equiv\theta_{a,\alpha} =  {2\pi a\over N_t} +\varphi_{a,\alpha}~,
+T^{(i)}_B (z) =\displaystyle\sum_{\mu= 0}^{n-1} G_{a+\bar{\varepsilon}_\mu}\phi^{*(a,a+\bar{\varepsilon}_\mu )}(z)K^{(i)}\left( \left. a+\bar{\varepsilon}_\mu \begin{array}{c} a \\ a \end{array} \right| z \right) \phi^{(a+\bar{\varepsilon}_\mu ,a)}(z).
+\tilde{q}\equiv \sqrt{\omega\over g}\,\bar{q},
+j^{A_1^{^{\prime }}\cdot \cdot \cdot A_k^{^{\prime }}}=\frac 1{\sqrt{g_y}}%\sum_{i=1}^l\frac{\beta _i\eta _i\sqrt{g_v}}{J(\frac \phi v)|_{p_i}}\delta(N_i)J^{A_1^{^{\prime }}\cdot \cdot \cdot A_k^{^{\prime }}}(\frac \phi x).
+{\cal W}=\epsilon_{ab}\epsilon_{cd} A_a B_c A_b B_d~.
+\psi_+(x) \rightarrow \exp \{iea \xi (x) \} \psi_+(x); \quad \psi_-^k(x)\rightarrow \exp \{i \frac{e}{\sqrt{2}}a \xi (x) \} \psi_-(x)  \label{28}
+\kappa_I\epsilon^{ij}\nabla_j a^I_0({\bf r},t)+i\hbar\sum_p\frac{q_p^I}{2m_pc}  \left[(D_i\Psi_p)^\dagger({\bf r},t)\Psi_p({\bf r},t)  -\Psi_p^\dagger({\bf r},t)(D_i\Psi_p)({\bf r},t)\right]=0\,,
+T_p (m, n) = \frac{1}{g} \sqrt{n^2 + (m - \chi_{B0} n)^2 g^2}~ T^p_0,\label{eq:gtension}
+t = 3E\tau , \hspace{0.3cm} r = const. = 3M,\hspace{0.3cm} \theta = \pm \frac{E\tau}{\sqrt{3}M} + \theta_{0}   ,\hspace{0.3cm} \varphi = \sigma ,
+z^- = \frac{1}{2} (z^0 - z^1), \qquad z^+ = \frac{1}{2} (z^0 + z^1).\label{A.34}
+{\cal L}={i\over2}\bar\psi_a\gamma^\mu\partial_\mu\psi_a+{g\over8}\left \{\left(\bar\psi_a\psi_a\right)^2 -  \left(\bar\psi_a\gamma_5\psi_a\right)^2\right \}
+H=\omega\sum_{i=1}^{n}N_{i}\;,\;\;\;N_{i}\equiv N_{ii}\;.
+(t,t)^{2} \mapsto (s_{1},s_{1})^{2} = \mid\mid s(A)\mid\mid =  \int tr( F + * F)^{2} = \int tr(F^{+})^{2},
+ds^{2}=- e^{2A(t,0)}\,dt^{2}+e^{2B(t,0)}(dx_{1}^{2}+dx_{2}^{2}+dx_{3}^{2})
+%\mathop{ B}^{\underline{a}}(\vec{x},t)= -{\lambda \over 2} \sum\limits_{\alpha} m_{\alpha}\xi^{\underline{a}}_{\alpha}\delta^{(2)} (\vec{x}-\vec{x}_{\alpha}(t)).
+\label{h}{\bf h_\varphi} = \left(\begin{array}{cc}e^{\varphi/4} & {1\over 2}\,\varphi_w e^{-\varphi/4} \\0 & e^{-\varphi/4} \end{array} \right),\qquad{\bf \bar{h}_\varphi} = \left(\begin{array}{cc}e^{\varphi/4} & 0 \\-{1\over 2}\,\varphi_{\bar{w}} e^{-\varphi/4} & e^{-\varphi/4} \end{array} \right).
+u\approx 30\left(10^{10}P_k^S\right)^{-1/8}\left({60\over L}\right)^{-1/4}\left({m\over M}\right)^{1/2}.
+\omega = \sum_{j = 1}^n 2 i \frac{d\zeta_j \wedge d \bar{\zeta}_j}{(1 + |\zeta_j|^2)^2}.
+%{\hat g}^2 = \frac {g^2} {1+  r^{(1)}_\eta g^ 2 \ln g^ 2 }\ ,%
+\zeta =-\frac{k^2s B_1}{12\ell _0^2}\biggl[27\omega _1\eta+\frac{4}{2+\omega _1\eta }+48\ln (-\eta )\biggr]+B_2.
+\label{fe:7a}\frac{d^2[TF(T)]}{dT^2}=2\ln \frac{b-a}{4}\,.
+\tilde z= \left\{\begin{array}{cc} z, & k=1,\ldots,n-4,\\(z-z_k)/( 1-z_k),& k=n-3, \\          1-z, & k=n-2, \\ z/(z-1), &  k=n-1.\end{array}  \right.\label{newssurf}
+A_{p} \! = \! e^{\frac{\phi}{2}}[z_1 \, \gamma_{p} \otimes 1 \! \! 1 + z_{2} \Pi^{(1) j} \, h_{jp} \otimes \sigma_{3} + z_3 \Pi^{(2) j} \, h_{jp} + z_4 \Pi^{(3)}_{p} \otimes \sigma_1 + z_5 {\tilde \gamma}^{j} h_{jp} \otimes \sigma_2]\label{A con Pi}
+A=  8\pi \sqrt {Q_H (Q_F)^2\over 2} \ ,\label{4}
+\label{Sa}S_\Lambda[\phi]\equiv S_\Lambda[\phi]( \alpha^1,\cdots,\alpha^n)\quad.
+[a(q),a^\dagger(q')] = 16 \pi^3 q^+ \delta^3(q-q') \;.
+x_1\sim x_2\qquad {\rm iff} \qquad f_r(x_1)=f_r(x_2)\quad \forall r.\label{equival}
+\label{1.7}ds^2=e^{-\varphi}(-\kappa^2\rho^2dt^2+d\rho^2)~~~.
+\vec{K}(\tau)=q^o(\tau)\vec{p}+\vec{K}'(\tau). \label{5.46}
+Z = const \left(\prod_{\vec{k}}    \left[\frac{1}{\sqrt{\beta[\hat{v}(\vec{k})+\mu]}}\right]\right),
+\left.{\partial_l^3 W\over \partial J_A\partial J_B \partial J_C}\right|_K.
+F_\lambda =\sum _{\lambda _0 ,...,\lambda _{k-1}}d\rho _{\lambda _0}\wedge d\rho _{\lambda _1}\wedge ...\wedge d\rho _{\lambda _{k-1}}\wedge d\log g_{\lambda \lambda _0\lambda _1 ...\lambda _{k-1}}
+J_{\pm }\ |j\ m\rangle _{q}=\sqrt{[m\pm j]\ [m\mp j\pm 1]}\ \ |j\ m\pm1\rangle _{q}
+S= \int{d^4x\sqrt{-g} \left[ \frac{1}{2}M_{P}^2\, \mathcal{R} -\frac{1}{4}T_p \,A_T (\partial_\mu Y)^2 + V(Y)\right]},
+\log d_{N_L}\sim {2\pi\sqrt{\textstyle{1\over 6} c_{eff}N_L}}=4\pi\sqrt{N_L},
+\psi_{rr}+{{n-1}\over r}\psi_r+{{n^2-4}\over 8}\psi^{{n+2}\over{n-2}}=0,\label{VI.8}
+\delta_{\mathrm{susy}}=\sum_{i=1}^N (\xi^{\alpha i}D_\alpha^i+\bar \xi_{\dot\alpha}^i\bar D^{{\dot\alpha} i})
+\label{bgt}B=\frac{1}{2}(1-\zeta^2)\partial_\zeta^2+(\zeta\partial_\zeta)^2+\frac{c^\prime+d-5}{2}\zeta\partial_\zeta-m^{ij}\zeta^i\partial_{\zeta^j}-\lambda(\lambda+\frac{c^\prime+d-3}{2})\,.
+Z_{N}={\rm const.}{\rm det}_{jk}e^{\epsilon(-j+k)}I_{-j+k}(N/\lambda)={\rm const.}{\rm det}_{jk}I_{-j+k}(N/\lambda).\label{pf21}
+G(k^2)\,=\,\frac{1+k^2/ \Lambda^2}{k^2} +\dots,\label{greenapp}
+\label{eqn:dtaudomega}\frac{d\tau}{d\omega} = \rho e^{-\omega} \>.
+T_2:=O_2-N_{p_2}\circ(Y+{\rm id})\label{T1}
+w(m,-m)\simeq -N^2 \int_{0}^{\infty} dz z {\rm e}^{-Nz} f(z)^2 ,
+{\cal L} = {\cal L}^{(1)} + m{W_i}^2  \quad\quad;\quad\quad   \delta{\cal L} = 0\label{finl1}
+\label{eq:11.5.1}\left[ \gamma \right] \longrightarrow \left[ \gamma \right]^{-1} ~~~, \hspace{.2in}\Phi \longrightarrow \Phi ~~~. \nonumber
+\label{STH}\dot\phi = {\delta\phi\over\Delta t} = {H^2\over2\pi}= {\lambda\over24\pi|\xi|}\,\phi^2\ ,
+\left(\begin{array}{c}\sigma^{i} [\omega_{0}^{+0i}\tilde{\epsilon}_{2}-i F^{+0i}\tilde{\epsilon}^{1}] \\\\\sigma^{i} [-\omega_{0}^{+0i}\tilde{\epsilon}^{1}-i F^{+0i}\tilde{\epsilon}_{2}]\end{array}\right)=0\, ,
+\label{}    q^2\frac{\alpha_3}8a^{-1/4}\int{\sqrt[4]{\ddot{x}^2}}d\tau
+\mathcal{A}(W_{+})^{\prime }\cap \mathcal{A}(W)
+\label{eq: 37}\left.\begin{array}{llr}\gamma_{1, 3, (\pm 1, 0,  0)} &  = &  {\bf 1}_{1}  \\\gamma_{1, {\tilde 7}_{3}, (\pm 1)}    &  = &  - \alpha {\bf 1}_{1} \\\gamma_{1, 7_{4}, (0)}        &  = &  - \alpha {\bf 1}_{2} \\\gamma_{1, 7_{5}, (0)}        &  = &    \alpha^2 {\bf 1}_{3}\end{array}\right.
+i\partial_{t}\psi\left(  r\right)  +\frac{1}{2m}\nabla^{2}\psi\left(r\right)  =V\left[  \psi\right]  \left(  r\right)  \,\psi\left(  r\right)
+%\Lambda = {1 \over 2}M^{\mu \nu} M_{\mu \nu} \rightarrow\ell(\ell +1) - {3\over 4},\label{eqn:1.19}%
+\label{Phi2}\langle\Phi^2(x)\rangle_{Ren.}=\lim_{x'\to x}\left[G_E(x,x')-G_H(x,x')\right] \ .
+[r_{12},r_{13}]+[r_{12},r_{23}]+[r_{32},r_{13}]=0.
+\label{eq2-1} {\bf \Pi '}=(0,\,0,\,U), \quad {\bf \Pi}''=(0,\,0,\,V){.}
+\hat{G}(x_0,\vec{k})=\frac{1}{2}\int_{-\infty}^{+\infty} dk_0~\left[(-k^2+m^2-i 0)^{-\alpha}+(-k^2+m^2+i 0)^{-\alpha}\right]e^{ik_0x_0}\label{e66}
+J_{mn}=\frac{1}{16\pi^2}\frac{1}{A^4}\eta_{nm}\Gamma(\frac{\epsilon}{2})\int\frac{dx dy dz \delta(1-x-y-z)}{{(a_2x+a_3(y+z)-p^2{(x+y)}^2)}^{\epsilon/2}}
+\nabla_{(i}\xi_{j)a} = 0  ,    \label{Kill}
+\lbrack \hat{\rho}_{0},\hat{\rho}_{0}]={0},\quad \lbrack \hat{S}_{0}^{A},%\hat{\rho}_{0}]={0},\quad \lbrack \hat{S}_{0}^{A},\hat{S}_{0}^{B}]={\frac{i}{%2\pi }}f^{ABC}\hat{S}_{0}^{C},
+i\partial^{\mu} \rightarrow i\partial^{\mu} -eA^{\mu} \; \; ,
+{\cal W}(t) \; = \; 4 \left( {\cal P}\int dt'\frac{\rho(t')}{t-t'}\right)^2-8{\cal P}\int dt'dt''\frac{\rho(t')}{t-t'}\frac{\rho(t'')}{t'-t''}+1-4{\cal P}\int dt'dt''\frac{\rho(t')\rho(t'')}{t'(t'-t'')} \; .
+{\cal A}_{V_\propto+{\rm NO}} = -{ig^2\over(2\pi)^{26}}2^{12}\pi    \int_0^1{dq'\over q'^3}\int_0^1d\nu'_{12}\,   \left[\,f(-q'^2)\,\right]^{-24}   \left[\,F\left(\nu'_{12},-q'^2\right)\,\right]^{-2},\label{eq:Vafinal}
+H       = 1+ \sum_{i} \frac{\rho_{i}^2}{|x^i-y^i|^2}\, .
+\mbox{$\stackrel{n}{X}$$^{M_1...M_n}$}(z)={\cal N}\frac{\partial(z^{M_1},...,z^{M_n})}{\partial(x^1,...,x^n)},
+\label{operator equationWyukawa}\left[i \partial_{\mu}\gamma^{\mu} - M\right]\psi(t,{\vec x}) +g \phi(t,{\vec x}) \psi(t,{\vec x}) = 0.
+S = - \frac{1}{16\pi G} \int d^2\!x\, \sqrt{-g}\,  e^{-2\phi}  \left( R + 2 (\nabla \phi )^2 + 2 e^{2\phi} -   2 Q^2 e^{4\phi} \right).
+{}^{(5)}\Lambda + {\kappa_5^2\over6} \lambda^2 = {1\over8} \left( {d\lambda \over d\phi} \right)^2\label{zeroLambda4}
+\label{stgf}\Psi=H_{\nu\mu}\partial X^{\nu}\bar{\partial} X^{\mu}(z^{\prime}).
+L_b = {1\over {g^2}} \int_{{\cal B}\times R} dt d^d\sigma\ tr \left \{-{1\over4} F^2 + {1\over2} (D_\alpha X^i)^2 -{1\over4} ([X^i,X^j])^2\right \} \quad,
+E=\int \biggl(\frac 12(\frac{d\phi }{dt})^2 +\frac 12(\nabla \phi )^2+V(\phi)\biggr)d^3x
+ds^2{}_{12}=h_{pq}dy^pdy^q +  \tilde{h}_{pq}d\tilde{y}^pd\tilde{y}^q +  ds^2{}_{(8)}
+\langle E_{{\rm right}\atop{\rm left}}\rangle  =\mp (12\pi )^{-1}(\hbar /c)\ddot q+O(1/c^2)\, .
+V_{\rm eff}(\xi)= \left[\frac{(n-1)(n-3)}{4}+\frac{\ell(\ell+n-2)}{\gamma^2}\right]\frac{1}{\xi^2} ,\label{potential}
+\tilde{S}_{Yuk}=-\tilde{h}\int\overline{\Psi}\Psi |\xi |e^{\tilde{\gamma}\phi/M_{p}}\Phi d^{4}x.\label{SYuk tilde original}
+Z_{\mbox{\scriptsize sing}} = \left(N|g^c_{k+1}|\right)^{-\frac{1}{k+1}}Y_\epsilon(\zeta_2,\zeta_3,...\zeta_k)\label{62}
+0<\eta _{+},\eta _{-}\leq \frac{\pi }{2}\min \{1,\: p,|\Im m\: \xi _{k}|\, ,\, k=1,...,M_{C}+M_{W}\}\: .
+{\cal D}_{2} = \left(\begin{array}{cc}\begin{array}{c}D^{2}V(DV)^{\gamma -3} + V(DV)^{\gamma -3}\\DV(DV)^{\gamma -3}D\end{array} & \begin{array}{c}D^{2}U + (\gamma -2)UD^{2}\\(\gamma -1) DUD\end{array}\\\begin{array}{c}(\gamma -2) D^{2}U + UD^{2}\\(\gamma -1) DUD\end{array} & D^{2}V + VD^{2} - (\gamma -2)DVD\end{array}\right)\label{19}
+{\cal D}^{\alpha +}\Phi(x,\theta)=0 \, .\label{typconstr}
+[\xi_1,\xi_2]^{\mu}_{L}=\xi^{\nu}_{1} \partial_{\nu}\xi^{\mu}_{2}-\xi^{\nu}_{2} \partial_{\nu}\xi^{\mu}_{1}
+\phi_<(\vec x, t) = \int_{\vert \vec k\vert < \Lambda} {d^3\vec k\over{(2 \pi)^3}} \phi(\vec k, t) \exp{i \vec k . \vec x},\label{sys}
+\begin{array}{lcr}\sum\limits_{\nu=1}^{8}X_{m_1n_1}^{\mu}(\sigma)X_{m_2n_2}^{\nu}(\sigma)X_{m_3n_3}^{\nu}(\sigma)=-8{\gamma}^{\mu}X_{m_1n_1}(\sigma)X_{m_2n_2}(\sigma)X_{m_3n_3}(\sigma) .\end{array}
+\rho=r^{D-3}\qquad\hat \mu ={16\pi G_NM \over{ (D-2)A_{D-2}}}
+i\beta_\mu = {{p_\mu} \over m} + \partial^{(x)}_\nu {{S_{\mu\nu} \over m}}
+C_0 =\frac{\prod_{1 \leq i < j \leq n} (z_i - z_j )^2 ( w_i - w_j )^2 }{\prod_{i,j = 1}^n ( z_i - w_j )^2 } \; .
+\gamma = (1)^{N_1} (2)^{N_2} \cdots (l)^{N_l} ~,
+\Omega(p) = p \quad,\quad \Omega(\bar p) = \bar p\label{omegap}
+\label{6.12}H={\cal H}+(i\hbar)^{-1}[\Omega,\bar{\cal P}_\alpha]\lambda^\alpha+\bar{\cal P}_\alpha{\cal P}^\alpha+\pi_\alpha\chi^\alpha+\bar{C}_\alpha(i\hbar)^{-1}[\chi^\alpha,\Omega].
+V({\cal M}) = \mu^4 {\cal F}({\cal M}/M_p)\label{inflatonpot}
+{\cal L}^{(2+1)spin}_{1/m^3}=\frac{\alpha}{720 m^3} \left[18 F^{\nu \lambda}F_{\nu\lambda,\mu}^{~~~~\mu}+7 F^{\nu \lambda,\mu}F_{\nu\lambda,\mu}-2F^{\nu \lambda,}_{~~~\lambda}F_{\nu\mu,}^{~~~\mu}\right],
+g = \det g_{ab} \ , \ g_{ab} = \partial_{a} x^{\mu } \partial_{b} x^{\mu }
+\label{dinvint2}Z^{\lambda}(\Gamma, A)=\int_{\Gamma}A(z){\rm e}^{-\lambda{\hat E}\Psi} {\cal D}_{\Gamma}
+\partial_{11} f = \frac{\sqrt{2}}{4}\left(\frac{1}{6}-\frac{1}{n}\right)                    e^{k/2-2f}\alpha \; .   \label{SimplifiedThetaEquation}
+\widetilde{\kappa}(\lambda)=-\frac{{\cal V}'_{\alpha}(\lambda)}{{\cal V}'_{\theta}(\lambda)}.
+%d'_{0} = \sum_{m>0} c_{m} L^{X}_{-m}.%
+T_{ab}(x)(\Omega) = \sum^{\infty}_{p=-\infty} \int^{\infty}_{0} {dx \over x} \Omega(x)\sin [(a+2p \pi)x + {b \over x}] (1 - {\sin \pi x \over \pi x}).
+i\hbar \frac{\partial }{\partial t}\,w(x,p;t)={\cal H}_I \star w (x,p;t)- w(x,p;t)\star {\cal H}_I,
+\label{Zexp1}Z(\kappa) = 1 + \sum_{k=1}^{K} {(4k-1)!\over 2^{4k-1} k! (2k-1)!}\,\kappa^{k} + {\cal O}(\kappa^{K+1}).
+\Gamma^{\wedge}_{inv}=\Gamma^{\otimes}_{inv}/I_{inv}^{\wedge}.
+r_0 \surd\sigma = 1.192(10) - (0.32\pm0.08)\biggl({{a_s}\over{r_0}}\biggr)^2+ (0.66\pm0.11)\biggl({{a_s}\over{r_0}}\biggr)^4\label{BB5}
+\tilde{T_a} \Theta_{k} \cong  \Theta_{k} + \frac{1}{M} C^l\left[ \begin{array}{ccc}D^{(0)}_l  & 0 & 0 \\0 &  D^{\ast(0)}_l  &0 \\0 & 0 &  \frac{\partial}{\partial s^l}\end{array}\right]  \Theta_{k},
+\alpha\to g\alpha g^{-1}- \frac12 \frac{dg}{dx}g^{-1}\ ,\quad\beta\to g \beta g^{-1}\ .
+u(i\pi-\theta)=t(\theta)~,~~r(i\pi-\theta)=r(\theta)
+\label{action}   S = S_{\rm SG}+S_{\rm YM}
+{\cal T}_2 (z'_1 , z_2 )R_{21}(z_1 +z_2 ){\cal T}_1 (z_1 , z_2 )R_{12}(z_1 -z_2 )=R_{21}(z'_1 -z_1 ){\cal T}_1 (z_1 , z_2 )R_{12}(z_1 +z'_1 ){\cal T}_2 (z'_1 , z_2 ). \label{eq:RTRT}
+\Omega^{\Lambda}_{\ \ \Sigma}=(L^{\Lambda}_{\ \ \Pi})^{-1}dL^{\Pi}_{\ \ \Sigma}
+T(Y\mid X)=\left\{\begin{array}{cl}\frac{1}{4\pi A} & {\rm if}~\frac{\chi}{2}-\frac{1}{4}\sin(2\chi)<A \\0 & {\rm otherwise.}\end{array}\right.
+T_j(\zeta_1,\ldots,\zeta_N) |\zeta_1,\ldots,\zeta_N\rangle  =  |\zeta_1,\ldots,\zeta_N\rangle,
+[\frac {e}{n+ \frac {1}{2}}]^{n+ \frac {1}{2}} \approx\frac{\sqrt{2\pi}}{n!}\frac{e^{\frac {1}{2}}}{(1+\frac{1}{2n})^{n+\frac{1}{2}}}\approx \frac{\sqrt{2\pi}}{n!}
+\label{Pilog}\Pi_{\mu_1\nu_1\mu_2\nu_2}^{log}(k,u) = \log(T) \Pi_{\mu_1\nu_1\mu_2\nu_2}^{\epsilon}(k),
+f^1_{abc} + f^1_{acb} - f^1_{bca} - f^1_{cba} =0 \quad .
+\langle \hat{\Phi}(y) \hat{\Pi}(x) \rangle =\langle \Pi (x) \Phi (y) \rangle + {i \over 2}\;\delta (x-y) \;.\label{A.6}
+\label{ernst}Re(\varepsilon ) \nabla ^2 \varepsilon =  \nabla \varepsilon \cdot\nabla \varepsilon
+\label{eq8.2}\Delta \Omega = -{1\over {\beta}} \sum_{m=1}^{\infty} \frac {(-1)^m} {m!} \int_0^{\beta} d \tau_1 ... d \tau_m \langle T_{\tau} ( H_I(\tau_1) ... H_I(\tau_m) ) \rangle_{conn}^{\beta} \; .
+G_{ABC11}      = \frac{\sqrt{2}}{32\pi} \left( \frac{\kappa}{4\pi} \right)^{2/3}               \delta(x^{11}) \bar{\chi}^a \Gamma_{ABC} \chi^a\label{eq:vev-G}
+S(\theta) = \exp\{e\int^\theta_0 rA_\theta d\theta \}\label{Stheta}
+\sigma \rightarrow \sqrt{\lambda}( \sigma- \mu^\varepsilon \sqrt{\lambda}Z_2 \phi_c \phi )
+\label{trsf}\phi(z)=\phi'(w(z))-\frac{Q}{2}\log\biggl|\frac{dz}{dw}\biggr|^2.
+H= \frac{1}{m^2} R^{\alpha\beta} H_{\alpha\beta}\frac{(D-2)b_2 - 2a_3-2a_4-Da_5}{D-1}+ O \left(\frac{1}{m^4}\right)\label{trace}
+a_{cov}(\Lambda,{\cal D}) = a_{cons}(\Lambda,{\cal D})+ \delta_\Lambda h({\cal D}',{\cal D})|_{_{{\cal D}' = {\cal D}}} .\label{cov1}
+0=V_2 -\frac{1}{\displaystyle V_4 -\frac{1}{\displaystyle V_6 -\frac{1}{\displaystyle V_8 -\ldots } } }
+\int_{\partial B} \, e \, \varepsilon_\mu{}^\nu \, [- \gamma\, R \, \delta \omega_\nu + (-)^{M+1} \beta \, T_a\delta e_\nu{}^a] \, dx^\mu .\label{3b}                                                          %3b
+p\dot{q} +\omega^a\varphi_a = p^*\dot{q}^* + p_\theta^a\dot{\theta}_a+\omega^a\varphi_a\label{g.3}
+\left\{ H_i , \frac{d}{d x} \, H_k \right\}_P = 0,\label{comm}
+K(u,\xi) = \left( \begin{array}{c}   \sinh(\xi+u) \hspace{60pt} \\   \hspace{60pt} \sinh(\xi - u) \end{array} \right),\label{eqn:km6}
+A_\mu\to A_\mu+\frac{1}{e}\partial_\mu \Lambda\label{lgt}
+{ \lambda = { r^2 \over { \left[ ( r + \eta_{13} P_{13} ) ( r + \eta_{24} P_{24} ) ( r + \eta_{56} P_{56} ) ( r + \eta_q Q^{RK} ) \right]^{1 \over 2} }}}\label{MIX1L}
+[\tilde{E}_{r},P_{+}]=0,\quad [\tilde{E}_{r},P_{s}]=\delta_{rs}P_{+},\quad [\tilde{E}_{3},P_{+}]=P_{+},\quad [\tilde{E}_{3},P_{s}]=0
+\hat h_{\rm red} = \sum_{\vec{b}}\left\{-\frac{g^2 LM}{4\sqrt2}\frac{1}{J}\frac{\delta}{\delta\varphi_{\vec b}} J\frac{\delta}{\delta\varphi _{\vec b}}+\left(\frac{4\sqrt2}{g^2LM}\right) \sum_{\vec{\varepsilon}}(\varphi_{\vec b}-\varphi_{\vec b+\vec\varepsilon})^2\right\} \, .
+\left| \beta_{L} - \beta_{\infty} \right| \sim L^{-1/\nu} \label{16}
+\int F_{z\theta}\;dzd\theta =2\pi m\ ,\label{mc}
+\label{gau3}S_{3+1} \, = \, \int\, d^4x \, F^2 \, + \, \int \,\phi^N \, d\sigma_{\mu\nu\gamma} \, \Pi^{\mu\mu'}\Pi^{\nu\nu'}\Pi^{\gamma\gamma'} \, A_{\mu'\nu'\gamma'}
+W_{2n}(\xi)=Y_{2n}(f_{1},\ldots,f_{2n};g_1(\xi),\ldots,g_{2n}(\xi)),
+l ~=~ {1\over 1- {\delta\over 2\pi}} {\rm integer} ~+~  s {{\delta\over 2\pi}\over 1 - {\delta\over 2\pi}} ~.
+B^a_\mu=\int\frac{d^Dq}{(2\pi)^D}e^{iq\cdot x}\tilde{\epsilon}_\mu^a(q)
+\label{YBE2}R(u/v)\hat g_{1}(u)\hat g_{2}(v)=\hat g_{2}(v)\hat g_{1}(u)R(u/v)\,,
+( S / \Lambda_0^3 )^{2N} = e^{2 \pi i \tau}.
+\label{dif} -\frac 1 2\frac{a_{d+1}}{\sqrt{\pi}}\Psi \left( 1\right)  =\frac 1 2\frac{a_{d+1}}{\sqrt{\pi}}\gamma\,,
+F={\cal G}^{-1/2}\, \epsilon^{\mu\nu}\partial_\mu a_\nu\, ,\quad{\cal G}=-\det ({\cal G}_{\mu\nu}).
+\Delta_F' (x^2) ={i\left (m^2\right )^2\over 4\pi^2}\,\int_0^{\infty}\kappa\, d\kappa\,e^{-i\kappa (m^2x^2-i\delta )}\> e^{-i(1-i\epsilon )/(4\kappa )}.\label{Eq:DeltaFp}
+\label{contMoyalBra}[x_\kappa,y_{\kappa'}]_*=\theta(\kappa)\delta(\kappa-\kappa')\,,
+\omega_+=-B-\Lambda,\quad\omega_-=B-\Lambda
+|p_{1}^{1},\ldots ,p_{1}^{m_{1}},\ldots ,p_{n}^{1},\ldots,p_{n}^{m_{n}}\rangle \;\;,
+{\cal I}(u,g)=\frac{i}{4u}\int_{{\cal C}_B} dx \frac{1}{\sqrt{x + x^g - u^2}}\label{Ilutt}
+H=-\frac{\sqrt{3}\Gamma}{F^{(min)}_{11}(\frac{2}{3}\pi i)}=-\frac{\sqrt{3}\Gamma}{F^{(min)}_{22}(\frac{2}{3}\pi i)}.
+V(\phi,\tau) = e^{- \phi} {|q_0 + \tau_1 q_{11} + \tau_2 q_{22} + \tau_1 \tau_2 \tilde{q}_0|\over\prod_i \sqrt{\Im\,\tau_i}}\,.
+{\it det} \left|\frac{\partial \tilde{g}_{\mu \nu }}{\partial g_{\alpha \beta }}\right| \neq 0\label{cond1}
+v_a=\left(\frac{\partial Q_b^{n_b}}{\partial q_a^{n_a}} \right)^{-1}\left(V_b -q_c^{s_c+1}\frac{\partial Q_b^{n_b}}{\partial q_c^{s_c}} \right).
+\label{eq_abelian}  f\cdot g = (1\circ f)\cdot (g\circ 1)=(1\cdot g)\circ (f\cdot 1)  = g\circ f = g\cdot f.
+\log s_b(x)\;=\;\frac{1}{i}\int\limits_0^{\infty}\frac{dt}{t}\biggl(\frac{\sin 2xt}{2\sinh bt\sinh b^{-1}t}-\frac{x}{t}\biggl)\;\;.
+\phi_0 = \sum_n g_n \ln|z-z_n|^2 %+(g_\infty-2) \ln|z-z_\infty|^2 -\alpha \phi_B+c_0.
+S_{WZ} = {1\over2}\int d^2\xi\, \varepsilon^{ij}b_{ij}\ .\label{eq:twom}
+\dot q ^\mu=e_i{}^ \mu(q) \dot x^i\label{10.diffbez}
+\label{eq:caldieuf}\phi=J\wedge dx +Re(e^{-{i\theta\over2}}\Omega),
+\int_{{\cal C}_0} \left(B \,+\, 2 \pi \alpha'  {\cal F}\right) = -\int_{{\cal C}_1} B + 2 \pi \alpha' \int_{{\cal C}_0} {\cal F} =
+\left[{d^{2}\over dr^{2}}+{2\over r}{d\over dr}-{l(l+1)\over r^{2}}\right]a_{l}=M^{2}a_{l} .
+\frac{\partial ^2}{\partial \gamma _\mu ^2 (s)} = \lim_{\epsilon \rightarrow 0}\int_{-\epsilon }^{\epsilon }dt\frac{\delta ^2 }{\delta \gamma _\mu(s + t/2)\delta \gamma _\mu (s - t/2)}
+\overline{\psi}e^{ig\gamma_5\phi}\psi = e^{ig\phi}\overline{\psi}\Gamma_+\psi + e^{-ig\phi}\overline{\psi}\Gamma_-\psi,
+{E'_{y} \over E'_{x}} = {\gamma E_{x} + \delta E_{y} \over\alpha E_{x} + \beta E_{y}} .
+\label{metric}ds^2 = -U(r) dt^2 + U(r)^{-1} dr^2 + R(r)^2 d\Omega_k ^2 \, ,
+ds^2=(\frac{J^2}{4r^2}-\Delta)dt^2+\frac{dr^2}{\Delta}-Jdt dr +r^2d\phi^2,
+ds^2 =-e^{-4 U} dt^2 +e^{2 U} (d\vec{x})^2 \ .\label{metric}
+H_{axial} = \int d^3x \frac{1}{2}[ (\frac{\partial_I}{\partial_3} \pi_I)^2+ \pi_I^2- A_I \partial^2 A_I - (\partial_I A_I)^2 ] \label{A}
+ds^2 = - e^{2U(r)}dt^2 + e^{-2U(r)}dr^2 + R(r)^2d\Omega^2. \label{met}
+\Psi_s (P) = \frac{2^{-1/4} \Gamma (1 + 2 i b P)    \Gamma \left( 1 + \frac{ 2 i P}{b} \right) \cos (2 \pi s P)}    { - 2 i \pi P} ( \pi \mu \gamma (b^2))^{- i P /b} ~.\label{s}
+\label{(144)}\delta _\epsilon z^a=\lambda \epsilon ^a,
+\label{op2}a = \partial_2 + M \;\;\;\; a^{\dagger} = -\partial_2 + M,
+<\phi,\psi>\equiv \int_{}^{}d_{q}w  d_{q}w^{\ast} \phi^{\ast}\psi ,\label{innpro}
+\label{ga}sB_{\mu \nu }^a=\varepsilon _{\mu \nu \lambda \rho }\left(D^\lambda \right) _{\;\;b}^a\eta ^{\rho b},\;sA_\mu ^a=0,\;s\varphi^{(1)a}=\left( D_\mu \right) _{\;\;b}^a\eta ^{\mu b},
+S(\theta )=\left( \begin{array}{ccccccc}u &  &  &  &  &  &  \\ & t & r &  &  &  &  \\ & r & t &  &  &  &  \\ &  &  & u &  &  &  \\ &  &  &  & S_{sb} &  &  \\ &  &  &  &  & S_{bb} &  \\ &  &  &  &  &  & \ddots\end{array}\right)
+V_{\rm eff}(\sigma)=-N\sigma[{1 \over g_0^2}+      {1 \over 8\pi}{\rm e}^{\gamma\rho}(\ln{\sigma \over \Lambda^2}-1)],               \label{eq:sig}
+\label{wzh}H=\bar{p}p+\bar{\partial}\bar{W}(\bar{z})\partial W(z)
+\dot y_i = \sqrt{ - {m x_j x_k \over x_i}}, \quad\dot x_i = - \sqrt{{y_j y_k \over y_i}}.
+\label{euclidean}\phi_n^E(\bar{x}) = {\phi_n^E}^*(x) {\; ,}
+\label{eq26}f(z)=\frac{\delta w}{\epsilon w}(z-\alpha )\bar \zeta \left( \ln (z-\alpha )\right) \ ,
+{\cal G}^{\rm GM}(q^2)=\exp\biggl[-q^2/\Lambda_{GM}^2\biggr].
+S_{\rm Volkov-Akulov} = \int_{M^{10}} d^{10} x \  C^{(10)}\, ,
+ds^2_{AdS_d} = {1\over \cos^2\theta} \big( -d\tau^2 +   d\theta^2 +\sin^2\theta\, d\Omega_{d-2}^2\big)\ ,\label{adsthree}
+S'_{+}(\tilde \lambda)= {\tilde \lambda + i  \over \tilde \lambda -i} S'_{0}(\tilde \lambda)\\. \label{S'+}
+\sigma\,\hat{N}_{2\ell-1}=\hat{N}_{2\ell}\,\sigma
+\omega=2\delta\ln\lambda\delta p\; .\label{107}
+P^{0}\equiv\frac{p^{0}+mcka^{1}K}{\Lambda};\;P\equiv\frac{p+mcka^{0}K}{\Lambda}\,.
+\label{appmet2}ds^2 \approx - d\tilde{U} dV + W^4 R^6 dq^2 + R^2 dx_i dx^i.
+J({\cal A}):=J{\cal A}J={\cal A}^{\prime },\,\,\,\,\,\,\,{\cal A}^{\prime}:commutant\,\,of\,\,{\cal A}.  \label{Equ.19}
+q(\Lambda _1)-q(\Lambda _2)=-g(\Lambda _1-\Lambda _2)\approx 0\ .
+\Phi^{A}=\{A_{\mu i},X^{i},C_{i}\}\;\;{\rm and}\;\;\Phi^{\star}_{A}=\{A^{\mu i\star},X^{\star}_{i},C^{i\star}\}\;.
+\begin{array}{lll}\delta e^{a}=\frac{1}{8}\bar{\epsilon}{\bf \Gamma }^{a}\psi & \hspace{1cm} &\delta \omega ^{ab}=-\frac{1}{8}\bar{\epsilon}{\bf \Gamma }^{ab}\psi \\ &  &\\ \delta \psi =D\epsilon & \hspace{1cm} & \delta A^{abcde}=\frac{1}{8}\bar{\epsilon}{\bf \Gamma }^{abcde}\psi .\end{array}
+\label{NewH}H_{R\otimes L^{*}}=H_R\otimes 1-1\otimes H_L
+\label{master}({{\delta \tilde \Gamma} \over {\delta A}},{{\delta \tilde \Gamma} \over {\delta K}} )+({{\delta \tilde \Gamma} \over {\delta c}},{{\delta \tilde \Gamma} \over {\delta L}} )+{{\delta \tilde \Gamma} \over {\delta V}}\cdot{{\delta \tilde \Gamma} \over {\delta M}} =0.
+\left[  Q,(f,g)_{Q}\right]  =[[Q,f],[Q,g]].\label{1.11}%
+\epsilon'_6 = e^{-(2\phi+3\psi)/24} \epsilon_6.
+[F,d\phi^\beta \}=(-)^{F(\beta +1)+\beta }\,[\phi^\beta ,dF\}.
+F_l(x)=        -\frac{1}{4}\left(\frac{d}{dx}(e_ls_l)\right)^2       -x^2\Bigl(s^{\prime\,   2}-  s  s^{\prime\prime}\Bigr)\Bigl(e^{\prime\,2}-e e^{\prime\prime}\Bigr) ,\label{y4}
+\alpha _{p}l^{D-2p}=\left\{\begin{array}{ll}(D-2p)^{-1}\left(\begin{array}{c}n-1 \\ p\end{array}\right) , & D=2n-1 \\ \left(\begin{array}{c}n \\ p\end{array}\right) , & D=2n.\end{array}\right.  \label{BI/CS}
+2\alpha ^{\textrm{v}}\cdot \lambda _{\phi }=\pm 1
+F_{\Gamma }=\lambda _i+w^2_1+w^2_2+w^2_3.
+F\left(\kappa;x,y\right)\equiv\exp\left[\sum^\infty_{n=1}{\left(-1\right)^n\over n}\kappa^n\left\{\left( x^n+y^n\right)-{n\over n+1}\left( x^{n+1}-y^{n+1}\right)\right\}\right]\ ,\label{fteig}
+D_{   [(\phi^\dagger \phi)^n]} = n  -\frac{\alpha^2}{2\pi^2} \left(n^2 + \frac{n}{3}\right) \; .\label{3.29}
+d_p f (\gamma _p)= exp [ \pi i (1- \delta_{m_{g+n-p},m_{g+n-p+1}})]f(-\gamma _p),
+\label{RO}R^\pm_{ij} = \frac{1}{\sqrt{2}}[1 \pm (ij)] ~, ~~~~~ R^\pm_{il} = \frac{1}{\sqrt{2}}[1 \pm (il)]~, ~~~~~ R^\pm_{jl} = \frac{1}{\sqrt{2}}[1 \pm (jl)]~,
+d^2 + d'^2 = {2 \over (\omega_2)^2} \sin ^2 \left[{\theta_2 - 2\theta _1 \over 2} \right]
+\sum_n \sim V \int { d^3 \vec k\over (2\pi)^3} + \cdots
+\widetilde{T}_+\equiv\frac{1}{\omega}    \sum_{i=1}^N\frac{p_{i}^{2}}{2}, \quad \widetilde{T}_-\equiv T_-, \quad \widetilde{T}_0\equiv T_0 \label{6}
+\label{invariant}S^{\prime}_0(\phi_s)= S_0(\phi^{\prime})%=S_0(\phi)=S^*,
+\begin{array}{lccll}\mbox{floor}     & \mbox{SU(2/1)}     & \mbox{U$^m$(1)$\otimes$U$^l$(1)}& \mbox{field}      & \mbox{helicity} \\\\\mid \mbox{gnd}> & (0~+\frac{5}{2})   & (-\frac{5}{2})(5)& A_\mu             & -1 \\\\\mid \mbox{1st}> & (1~+\frac{5}{2})   & (-\frac{5}{2})(6)& \chi_\mu          & -\frac{3}{2} \\\\                 & (-1~+\frac{7}{2})  & (-\frac{7}{2})(6)                 & \Psi_\mu          & -\frac{3}{2} \\\\\mid \mbox{2nd}> & (0~+\frac{7}{2})   & (-\frac{7}{2})(7)& e_\mu^a           & -2. \\\end{array}
+\chi _{W}(\vartheta ,w_{j})\equiv \chi _{II}(\vartheta -w_{j})
+{\cal L} = -\pi_i^T \dot A_i^T -\frac{1}{2} {\pi_i^T}^2 - \frac{1}{4} F_{ij}^2 (A^T) +\frac{1}{2} j_0\frac{1}{\partial^2}j_0 + j_i A_i^T +{\cal L}_M\label{13}
+{\rm{Det}} {\delta G^a \over \delta \theta^b} = {\rm{Det}}(D_\mu{\cal D}_\mu)^{a b} \ .%\label{}
+d\theta ^2=(x^{n+1})^{-2}[(dx^1)^2+(dx^2)^2+\cdots (dx^n)^2-(dx^{n+1})^2]%\text{ .}  \tag{5}
+\label{potential}V(R)\sim\frac{q^2(R)}{R^{d-3}},
+\eta_{H}(0)=-1-2\,\mu(\gamma), \ \ \ \zeta_{H}(0)=-1, \ \ \\zeta_{H}'(0)=2\ln\left|\frac{\sqrt{c}\,\ell[\gamma]}{2\sin(\sqrt{c}\,\ell[\gamma])}\right|,
+V_{\Phi}(w) = {\cal J} - {\cal J}' \,\,\,\rightarrow\,\,\, V_{{\cal G}}(w) = {\cal J}^2 +  {\cal J}'.
+[\alpha_m^{\mu},\alpha_n^{\nu}]=m\; \delta_{m+n}\;\eta^{\mu \nu}
+u=\tilde{u}+\tilde{r},\;\;\;\;\;\;\;\;\;\;r=-\sqrt{M}l\;\mbox{cotanh}\left(\frac{\sqrt{M}\;\tilde{r}}{l}\right),
+\mathcal{H} = \frac 12 g^{\mu\nu}(\Pi_{\mu} - q_I A^I_{\mu}) (\Pi_{\nu} -q_I A^I_{\nu}),
+P^{\rm b.t}_{{\bf k}_{\perp}} = \sum_{n = 1}^{\infty} (-1)^{n+1}e^{- 2n S_{{\bf k}_{\perp}}} = \frac{1}{ e^{2S_{{\bf k}_{\perp}}}+ 1},
+{\cal V}(x_0 ,\theta_0, \bar\beta,  \bar\zeta,\bar\omega,\rho  )=e^{iPx_0}e^{-iQ\theta_0}e^{-i\bar{S}\bar\beta}e^{-i\bar Q\bar \zeta}e^{i\bar M \bar\omega}e^{iD\ln\rho}\,.
+Z(z,\bar{z},{p},{q}) \equiv \left( M_\Sigma {p}^\Sigma-L^\Lambda {q}_\Lambda\right)\label{zentrum}
+{\cal L} =  - \frac{\epsilon_{0}}{4} F_{\mu \nu} F^{\mu \nu}                - \frac{\epsilon_{0}}{4} G_{\mu \nu} G^{\mu \nu}              - \frac{1}{c} {j_{e}}_{\mu} A^{\mu}  - \frac{1}{c} {j_{m}}_{\mu} W^{\mu}             +  (gauge fixing terms)  \, .
+\label{vielb}\hat P_{I A}= {\left (L^{-1}\,dL \right)}_{I A} + g{L^{-1}}_{I\Gamma} A^{\Lambda} (T_{\Lambda})^{\Gamma}_{\, \Pi}L^{\Pi}_{ A}
+\mathcal{L}(x) = \int\!d^{2}\theta\,  \mathrm{sdet}W  \left(\frac{1}{4}\overline{D^{\alpha}}vD_{\alpha}v    + \frac{\mu}{2} v^{2}\right), \label{laglag}
+\label{betak}p\sim |\theta-\theta_c|^{\beta_k} \hspace{1.0cm} (\theta>\theta_c).
+{\delta{S}\over\delta\varphi^i}{R}^i_\alpha=0,\label{as1}
+(i) \ \ |B_3|<1 \ \ \Rightarrow \      \alpha = 1, \hspace{1cm}      \beta  = \frac{-1 + B_1^2 + B_3^2}{\ \ 1 + B_1^2 - B_3^2},
+{{\cal G}^{-1}}^{\alpha\beta}_{\mu\nu}\eta^{\rm Tr}_{\alpha\beta}=\left(k^{2}-\Lambda_{l}+\frac{1}{2r^{2}}\frac{N(N-1)(N-2)}{N+d-2}-\frac{N+d}{N+d-2}\Lambda\right)\eta^{\rm Tr}_{\mu\nu}.
+L=-\dot x^{\mu}p_{\mu}-\dot n^{\mu}P_{\mu}-{{\lambda}\over 2}(n^2+1)-\lambda_1(p_\mu n^\mu)-\lambda_2(p_\mu P^\mu)-\Lambda (p^2-M^2).\label{eqlag}
+D_2=\frac{1}{r}-\frac{i}{r}\epsilon_{_{ijk}}\sigma_{_{i}}x_{_{j}}\partial_{_{k}}=\sqrt{2\lambda}(\sigma_{_{1}}I_{_{1}}+\sigma_{_{2}}I_{_{2}}+\alpha \sigma_{_{3}}I_{_{3}}+\alpha I),
+\partial_{t} ( e^{-a+b+3c} \dot{\lambda}) - \partial_{r}(e^{a-b+3c} \lambda') = e^{a+b-3c} [2Q_{K}^{2} e^{\frac{8\lambda}{3}} -P^2 e^{\frac{4\lambda}{3} + 4\nu} - Q^2 e^{\frac{4\lambda}{3} - 4\nu}].
+j_{\mu ,(1)}^{a,{\rm reg}}=\psi ^{+}(x+\varepsilon )T^a\gamma _\mu \Omega(x+\varepsilon ,x-\varepsilon )\psi (x-\varepsilon )  \label{j1}
+h_1=\left(\begin{array}{rrr}-1 & 0 & 0\\1 & 1 & 0\\0 & 0 & 1\end{array}\right)
+\Theta =a_{n}{\rm G}_{n}=a_{n}(-1)^{\frac{n}{2}}\varepsilon _{\mu _{1}\nu_{1}\cdots \mu _{\frac{n}{2}}\nu _{\frac{n}{2}}}\varepsilon ^{\alpha_{1}\beta _{1}\cdots \alpha _{\frac{n}{2}}\beta _{\frac{n}{2}}}\prod_{i=1}^{\frac{n}{2}}R_{\alpha _{i}\beta _{i}}^{\mu _{i}\nu _{i}}
+{\cal P}=({\hat{\xi}}_{i}ad{\lambda}_{i})^2 \label{cp2tangentbundle}
+\left[ a_{\pm }^\mu \left( x+\Delta \right) -a_{\pm }^\mu \left( x-\Delta\right) \right] ^2=0.  \label{DWESolConstr}
+\label{WronskianUse}|\varphi_k\dot\varphi_{k'}-\dot\varphi_k\varphi_{k'}|=|\dot\varphi_k|^2|\varphi_{k'}|^2+|\dot\varphi_k|^2|\varphi_{k'}|^2+\frac12(\dot\varphi_k\varphi_k^*+\varphi_k\dot\varphi_k^*)(\dot\varphi_{k'}\varphi_{k'}^*+\varphi_{k'}\dot\varphi_{k'}^*)+2
+R(x) = \overline\psi^{a}(x) \gamma^{j} \psi^{a}(x)          \overline\psi^{b}(x) \gamma^{j} \psi^{b}(x)  \label{roper}
+r \approx N^{1/5} E^{2/5} M^{-7/5} \ \leftrightarrow\ E \approx  N^{-1/2} r^{5/2} M^{7/2}\ . \label{holo}
+\label{g} \epsilon(k_0) = \left\{\begin{array}{r@{\quad:\quad}l} 1 & k_0 > 0 \\ -1 & k_0 < 0\end{array} \right.
+\mbox{mult}_{\psi} ( x_i ) = 2 \ , \ \\psi ( x_i ) = 1 \ \ \mbox{for \ } i = 1 , 2 .
+\label{spsi} S = \frac{1}{16 \pi G_N} \int d^4 x \sqrt{- g} e^{\psi} \left( - R + \frac{1}{2} \left(3 \psi_{\phi}^2 - 1 \right)  (\nabla \phi)^2 \right) + S_M ({\cal M}, g_{\mu \nu})  \; ,
+<f> = \frac{1}{Z} \int dq \, K(q, -i\beta; q,0) f(q)   \label{newthermave}
+x = \tilde\epsilon^{1/3} (-\psi_s)^{1/6}\tilde{x} \ ,\label{tildeepsilonx}
+\label{FlExp}\langle e^{-T}|\phi\rangle=\sum_j \langle T_j |\phi\rangle,
+Q_{\pm} = \int {\rho}_{\pm} d^2 r ={\mp}2{\pi}{\kappa}{\cal N}_{\pm} >0,
+f_{\alpha\beta}^{(0)}\,v_m^{(0)\beta}=0\label{4.5}
+u_\alpha =  J_{\alpha \beta} \Omega^{\beta p} u_p \ .\label{ualpha}
+\zeta_{\cal D}(s) = \sum_{j = -\infty}^{\infty} \sum_{N = 0}^{\infty} {(N + 1)^2\over [({2\pi \over \beta}j + i\mu)^2 + {N (N + 2) + 6\xi \over a^2} + m^2]^s}\label{3.1}
+\frac{A^{2n+2}}{V^{2n+1}}=\frac{2\pi}{(n+1)}{\mathrm{Vol{(M)}}}\,2^{2n+1}\,(n+1)^{2n+1}\frac{1}{\left(1-\frac{a^{2n+2}}{r^{2n+2}}\right)^n}
+G^{(\bar{\delta})}(-\bar{\psi}_{2},\bar{\psi}_{1})=(\bar{\psi}_{2})^{\bar{\delta}}~G^{(\bar{\delta})}(-1,\bar{z}),
+\psi = \left( \begin{array}{c} \psi_1 \\ \psi_2 \end{array} \right) \propto \left( \begin{array}{c} \exp -2\pi\beta^{-1} \int^{x}_{-\infty} dy \left( \dot{\phi} + \frac{\beta}{4\pi} \phi' \right) \\ \exp -2\pi\beta^{-1} \int^{x}_{-\infty} dy \left( \dot{\phi} - \frac{\beta}{4\pi} \phi' \right) \end{array} \right) ,
+x_{\phi }=2d_{\lambda _{\phi }}x_{\lambda _{\phi }}\, ,
+F_n(z) = \sum_{k=0}^{n/2} \tilde{\zeta}(n-2k) \frac{z^{2k}}{(2k)!}
+\label{1.10a}\Gamma_i=-{\eta_i \over 2}\int^{\infty}_{\delta}{ds \over s} e^{-m_i^2s}\mbox{Tr} e^{-s\Delta_i}~~~,
+D_{\alpha}D_{\bar{\beta}}D_{\beta}  =-\sqrt{\frac{1}{\zeta^3}}SC^{ \alpha\bar{\beta}\beta}S^{\dagger},
+\tilde{w}_1 = B_{-6} \oplus  B_{-8} \oplus B_{-9}\label{4.5}
+F_{\mu \nu }^a=\partial _\mu A_\nu ^a-\partial _\nu A_\mu ^a.
+%{\rm Tr}({\bf M}_+{\bf M}_-) = 0 \ , \label{trM+M-}%
+\label{ap1}\left\{ Q_\alpha ,Q_\beta \right\} =2\Gamma _{\alpha \beta}^m\cdot P_m\quad .
+\overline{\lambda}^{A}=\overline{\phi}^{A}+\overline{\varphi}^{A}\label{54}
+\sqrt{1-x} = 1 - \sum_{n=1}^{\infty}c_nx^n.
+\label{vortex}\varepsilon_{\mu\nu\lambda}\partial_\nu\partial_\lambda\theta^{\rm sing.}({\bf x})=2\pi\delta_\mu({\bf x}).
+F_{i}\eta^{-1} F_{j}=F_{j}\eta^{-1} F_{i},\label{eq:wdvv}
+\gamma^5\gamma^{\mu}\psi^m_{\ ;\mu}+\left(\kappa-{1\over 2}\right)\psi^m=0.\label{eq:2dDirac}
+r^i = \frac{1}{ \hat{N}}  {\rm Tr}\; \hat{X}^i-\frac{1}{ \tilde{N}}  {\rm Tr}\; \tilde{X}^i% \label{eq:}
+\begin{array}{rclrcl}\hat{g}_{\hat{\mu}\hat{\nu}}&=&\left( -\hat{\hat{g}}_{\underline{z}\underline{z}} \right)^{\frac{1}{2}}\left (\hat{\hat{g}}_{\hat{\mu}\hat{\nu}}-\hat{\hat{g}}_{\hat{\mu}\underline{z}}\hat{\hat{g}}_{\hat{\nu}\underline{z}}/\hat{\hat{g}}_{\underline{z}\underline{z}} \right)\, ,\hspace{1cm}&\hat{C}^{(3)}{}_{\hat{\mu}\hat{\nu}\hat{\rho}}&=&\hat{\hat{C}}_{\hat{\mu}\hat{\nu}\hat{\rho}}\, ,\\& & & & &\\\hat{C}^{(1)}{}_{\hat{\mu}}&=&\hat{\hat{g}}_{\hat{\mu}\underline{z}}/\hat{\hat{g}}_{\underline{z}\underline{z}}\, ,&\hat{B}_{\hat{\mu}\hat{\nu}}&=&\hat{\hat{C}}_{\hat{\mu}\hat{\nu}\underline{z}}\, ,\\& & & & &\\\hat{\phi}&=&\frac{3}{4}\log{\left( -\hat{\hat{g}}_{\underline{z}\underline{z}}\right)}\, .& & &\\\end{array}\label{eq:10ddef}
+1+\frac{2\pi \Lambda G}{9\alpha }>0  \label{ExtendedBound}
+\begin{array}{cc}{\rm v}_{\alpha\beta}=\textstyle{\frac{1}{2}}\epsilon_{\alpha\beta\gamma\delta}\tilde{{\rm v}}^{\gamma\delta}~~~~&~~~~\tilde{{\rm v}}^{\alpha\beta}=\textstyle{\frac{1}{2}}\epsilon^{\alpha\beta\gamma\delta}{\rm v}_{\gamma\delta}\end{array}
+\mu_2(g E)=\mu_2(E g) =\mu_2(E)\label{haar_inv}
+\label{2.105}C(\frac{dt}{dv^1})^2+2B\frac{dt}{dv^1}+A=0.
+{\cal{L}} \;=\; \sum_{\alpha=1}^{4N} |\lambda_\alpha|^4 \:-\: \frac{1}{28}    \left(\sum_{\alpha=1}^{4N} |\lambda_\alpha|^2 \right)^2 \;.    \label{eq:2N}
+{\bf d}\omega-*\frac {1}{c} \frac {\partial }{\partial t}{\cal I}_*(\omega)=\frac {4\pi}{c}*{\cal I}_*({\cal J}),\ \ \delta \omega =-4\pi {\cal Q},
+\label{eq25}{\cal L}_{Higgs} (x) =- (D^{\mu} \phi )^{\dagger} (D_{\mu} \phi) - V_{H} (\phi^{\dagger} \phi) ,
+m\,{\dot v}^\mu-{\frac23}\,g^2\,({\ddot v}^\mu+ {\dot v}^2 v^\mu)= f^\mu.\label{LD}
+\delta S_{L} = (\xi^{\alpha} \Delta_{\alpha} + \bar{\xi}_{\dot{\beta}} \bar{\Delta}^{\dot{\beta}}) S_{L} = \Xi S_{L} .   \label{eq:pib}
+\lambda= \frac{\sqrt{5}\, T}{\pi} |\sin \beta|,   \label{effcil}
+d\tilde s^2= d\tau^2 + (\tau^2+A^2) dS^{(3)} + \left({\tau^2 \over \tau^2+A^2}\right) dy^2.\label{instanton}
+\beta = \left ( \cos^4\theta + A\sin^4\theta \right ) ^{\frac{1}{2}}
+\delta {\cal E} = D(p, q, r) {\cal E} D^T(p, q, r) - {\cal E} = \left( \begin{array}{cccc}0 & (r b- q c) & (p c - r a) & (q a - p b) \\-(r b- q c) & 0 & 0 & 0 \\-(p c - r a) & 0 & 0 & 0 \\-(q a - p b) & 0 & 0 & 0\end{array} \right)\label{25}
+\dot{C}_{1(2)}({\vec k},t) = \frac{\dot{\nu}_k}{{\nu}_k}{\cal N}^t({\vec k},t) \mp 2{\nu}_k C_{1(2)}({\vec k},t) .\label{64}
+\label{2.39}F[f](x) - c_{2}^{\prime } \delta ((x^{0})^{2} - |{\bf x}|^{2}) =\sum_{k = 0}^{N} a_{k} \left( \sum_{\nu = 0}^{3} \eta^{\nu \nu }\left( \frac{\partial }{\partial x^{\nu }}\right)^{2} \right)^{k}\delta (x).
+[(e_i,x_i)] = c_i \;\;\;, \;\;\; (i\rightarrow f) \;\;\;,\label{bcx}
+\left({\partial V \over \partial \phi^a}\right)_h=0 \ .
+\epsilon=\left\{\begin{array}{ll} 1&\mbox{if $\omega=\pi/2$}\;,\\-1&\mbox{if $\omega=3\pi/2$}\;.\end{array}\right.
+A^{\mu\pm}_{M'M}(x)= \int_0^L\,dx_4\,\xi_{M'}^\pm(x_4) \,\xi_M^\pm(x_4)\,A^\mu(x,x_4)\,. \label{matrixA}
+{\cal Z}_{global}=\int^{\infty}_{-\infty} d h_\mu \exp\left (-4\pi^2\sqrt{\hat g}\hat g^{\mu\nu} h_\mu  h_\nu\right)\frac{1}{|\eta(\tau)|^2}\Theta \left[\!\!\begin{array}{c}\displaystyle{g  h_2}\\\\\displaystyle{-g  h_1}\\\end{array}\!\!\right]\!\!(0,\tau)\\Theta^* \left[\!\!\begin{array}{c}\displaystyle{g  h_2}\\\\\displaystyle{-g h_1}\\\end{array}\!\!\right]\!\!(0,\tau).\nonumber
+K_{\nu }^{2}\left( x\right) =\frac{\pi \gamma \left( \nu \right) }{4\sin\left( \nu \pi \right) }\left( \frac{2}{x}\right) ^{2\nu }\left( 1+O\left(x^{2}\right) \right) .  \label{A7}
+\label{eq3}J_\mu (\phi )J^\mu (\phi )=\phi ^{-2}\partial _\mu \phi \partial^\mu \phi.
+{\widehat \Sigma} (\theta) = \oplus _{r\leq s} \oplus _{m \in Z}{\widehat \Sigma}_{m}^{(r,s)}
+\Pi^{\perp i}=-\frac{1}{\gamma} F^{\perp i} + \frac{k}{8\pi} \epsilon^{\perp ij}A_j\,.\label{mom}
+\label{fermS1}S_{\rm ferm} = \int\! d^2x\, \Bigl( i\bar\psi \gamma^{\mu}\partial_{\mu}\psi +{\pi F_e\over\mu}\, \bar\psi\psi + {\pi F_m\over\mu}\, \bar\psi^C \psi -{G\over 2}\, \bar\psi\gamma^{\mu}\psi\, \bar\psi\gamma_{\mu}\psi\Bigr)
+\lbrack x^{\mu },x^{\nu }]_{*}=i\Theta ^{\mu \nu }.  \label{12}
+\Psi_{nlm}(r,\theta,\varphi;\delta_1,\delta_2) =\sum_{n_1=0}^{n-|m|-1} \widetilde W _{nlm}^{n_1}(\delta_1,\delta_2)\Psi_{n_1 n_2 m}(\mu,\nu,\varphi;\delta_1,\delta_2),
+ds^{2}=-N^{2}(r)f^{2}(r)dt^{2}+\frac{dr^{2}}{f^{2}(r)}+r^{2}d\sigma _{\gamma}^{2},  \label{ds}
+\hat{\rho}_R(0) = \frac{e^{-\beta \hat{H}_R}}{Z}
+V^\mu = \left({\sqrt{F(a)+\dot a^2}\over F(a)},\dot a, 0,0,0\right); \qquad V_\mu =\left(-\sqrt{F(a)+\dot a^2},{\dot a\over F(a)},0,0,0\right).
+R^{\mu\nu}_{reg \ \alpha\beta}R_{con \ \mu\nu}^{\alpha\beta}
+\label{collective}\Phi = \sum_{k=0}^{\infty} \phi_k
+P(W_2)= (1+xy+x^3y) +\sum \limits _{i=1}^{n}a_i x^i.
+\label{PB60}{\cal L}_{min}^{(1)} = {\cal L}_{min}^{(0)} - B_\mu K^\mu\, .
+\chi_\Lambda(C_m^{\Lambda_0})=\sum_{(\lambda+\lambda_0',\kappa+\kappa_0,-s)\in D^+}\sum_{s=0}^\infty\,m_{\lambda_0',s}\,\alpha^m_{\lambda_0',s}(\Lambda)\frac{D_q[(\lambda+\lambda_0',\kappa+\kappa_0,-s)]}{D_q[(\lambda,\kappa,0)]}\,,~~~m\in{\bf Z}^+\label{eigenvalue2}
+\frac{\partial U_{\Lambda}(\varphi)}{\partial \Lambda}=-\frac{K_{D}}{2}\Lambda^{D-1}\ln \left[Z_{\Lambda}+\frac{U^{\prime\prime}_{\Lambda} (\varphi)}{\Lambda^{2}}\right]\;, \label{eq:dU}
+L^\ell(\vec{x},t) = \psi^{+} (\vec{x}) \alpha^\ell \psi(x) ~~.\label{eq:3.14}
+S_0^{\prime }=\int \!\!d^3x~\left( \frac 1{12}H_{\mu \nu \alpha }^aH^{a\mu\nu \alpha }+\frac 12\partial _\mu \varphi ^a\partial ^\mu \varphi ^a\right),  \label{s0l}
+\int\limits_0^\infty ds\, \sin s\, f(s/z,y) =  \sum\limits_{k=0}^\infty \int\limits_{-\pi}^\pi ds\, (-\sin s)\,  f\left(\frac{\pi(2k+1)+s}z,y\right).
+(2i)^{N_+}\kappa (a)=\prod\limits_{\alpha >0}^{}\left( e^{i\pi (a,\alpha )/a_0}-e^{-i\pi (a,\alpha)/a_0}\right)=\sum\limits_{\hat{s}\in W}^{} \det \hat{s}\exp \left(\frac{2\pi i}{a_0}(\hat{s}\rho ,a)\right)
+d {\cal W} (\Phi+2 \pi) = d {\cal W} (\Phi).
+L{^{\pm}}_{CS} = \int_{\cal M} \varepsilon^{ijk} \bigg( {^{\pm}} A_i^{AB}\partial_j {\ ^{\pm}} A_{kAB} + {\frac{2 }{3}} {^{\pm}} A_{iA}^B {^{\pm}}A_{jB}^C {^{\pm}} A_{kC}^A \bigg),  \label{csself}
+\begin{array}{r c l}\hat{\phi}_{(I)}(t,\vec{x}\,)&=&e^{i(t-t_0)\hat{H}_0}\,\hat{\phi}(t_0,\vec{x}\,)\,e^{-i(t-t_0)\hat{H}_0}\ ,\\ & & \\\hat{\pi}_{(I)}(t,\vec{x}\,)&=&e^{i(t-t_0)\hat{H}_0}\,\hat{\pi}(t_0,\vec{x}\,)\,e^{-i(t-t_0)\hat{H}_0}\ ,\end{array}
+\left \{\;\int_{\cal R} d^np' \,(\tilde{\omega}_{p'}|e_{p'p}|\eta_p)\;,\;\int_{\cal R'} d^nq'\, (\tilde{\omega}_{q'}|f_{q'q}|\eta_q)\;\right \} =
+\phi _{i\pm ,h}(\tau ,\vec{\sigma})=\sum_{m=0}^{\infty }\frac{(\mp )^{m}}{m!}%\frac{d^{m}r_{i}^{h+m-1}(\tau ,\vec{\sigma})}{d\tau ^{m}}=\sum_{m=0}^{\infty}\frac{(\mp )^{m}}{m!}\frac{d^{m}}{d\tau ^{m}}[\sqrt{(\vec{\sigma}-\vec{\eta}%_{i}(\tau ))^{2}}]^{m+h-1}.  \label{VI14}
+(f\ast g)(x)=\chi_\infty\left(-\frac{\theta^{ij}}{2(2\pi)^2}\frac{\partial}{\partial y^i}\frac{\partial}{\partial z^j}\right ) f(y)g(z)|_{y=z=x}.
+L= \frac{1}{2} \gamma^{ab} J^{\mu}_{a} J_{\mu b}                              -i\frac {\varepsilon^{a b}}{\sqrt{-\gamma}} J^{\alpha}_{a} J_{\alpha b}       \nonumber
+X_r = \{x \in X\colon \; \kappa(x) = x\}  .
+\left|\psi\right>=c_{hj}\left|h\right>\left|j\right>\;,
+\int \frac{d^nk}{(2\pi)^n} \rightarrow \prod_\mu\left(\frac{1}{L_\mu}\sum_{l_\mu} \right)\label{eq:117}
+\Psi _{2n}=g_{2n,uv}\xi ^{u}\xi ^{v},  \label{a21}
+S=\frac{1}{4\pi\alpha'}\int d^2\sigma \left( \sqrt{g}g^{\alpha \beta}\partial_{\alpha}X^\mu\partial_{\beta}X^\mu -2\pi\alpha'iB^E_{\mu\nu}\epsilon^{\alpha \beta}\partial_{\alpha}X^\mu \partial_{\beta}X^\nu \right)\label{act}
+\label{equalf}\int d^2S_i{\mathcal{B}}_i=\int d^2S_iB_i(Ds);\;Q=\frac{1}{4\pi i}\int d^2S_i{\mathcal{B}}_i.
+\label{ft2ndorder0}{A^{c}_\mu(x)}^{(2)} =-2 \rho^4 \bar\eta^c_{\mu\nu} {(x - x_0)^\nu\over (x - x_0)^6}~,
+J^\mu=i\overline{\psi}\gamma^\mu M\psi \ .
+\tilde a_1 = 2a_1+a_3,\qquad \tilde a_2 = 2a_2+a_3.
+\rho(\theta,\tau)~=~\frac{1}{2\pi}~+~\frac{1}{2\pi}\sum_{n \neq 0} c_n(\tau) e^{-in\theta} \; ,\label{den}
+- \frac{1}{2 \pi i (u-v)} \left[ \left( e^{-i[ \theta_p(u) -    \theta_p(v) + \mbox{arg} \, \Gamma(1+iu) - \mbox{arg} \, \Gamma(1+iv)]}    - 1 \right) {\left( \frac{a}{2} \right)}^{i(u-v)} \right.
+\label{csk}c(s,k)=\sum_{j_1 + \cdots + j_{s}=k\atop j_1,\ldots, j_{s}\geq0}\tau^{}_{j_1}\cdots\tau^{}_{j_{s}}\quad s\geq1, k\geq0,
+Q_{2s+2t}^{\mu |2s,2t}=(-1)^{st}(\sigma _{2s+2t})^{\frac{3}{2}-t}(\sigma_{2s}^{+})^{s-2}(\sigma _{2t}^{-})^{-1}\det \mathcal{A}^{\mu }\mathcal{\,},\label{sol3}
+A_{\mu}=a_{\mu}-\frac{{\partial}_{\mu}}{{\partial}_-}a_- -\frac{n_{\mu}}{{\partial}_{\bot}^2}B-\frac{{\partial}_{\mu}}{{\partial}_{\bot}^2}C %(3.4)
+\label{h12}\sum_{p=0}^{d-3}n^p w'_p(d)={(d+n-2)! \over (n+2)n!}~~~.
+S = \frac{1}{16\pi} \, \int \;\left\{(-{\it R} + \, 2\partial_{\mu} \Phi \partial^{\mu} \Phi ) - \alpha'\exp (-2 \Phi) (F_{a\mu\nu} \, F_a^{\mu\nu} - \beta {G})\right\}\, \sqrt{-g} d^4x \; ,
+G(X,Y)=\langle 0| \phi(X) \phi(Y) |0 \rangle,\label{wightmann}
+\langle x_1\dots x_N \rangle \doteq \frac{(27/256)^N}{N!};
+\label{relwwSam}\omega=-\frac{\kappa}{2}\,\omega_{\rm Sam}.
+\lambda = \Gamma /J                   \label{20}
+D_{\mu\nu} = \overline{P}_{\mu\nu}\,\frac{1}{p^{2}+\Pi_{\rm T}} +Q_{\mu\nu}\,\frac{1}{p^{2}+\Pi_{\rm L}} +R_{\mu\nu}\,\frac{1}{p^{2}+\tilde{\Pi}_{\rm T}} +\xi\,\frac{p_{\mu}p_{\nu}}{p^{2}}\label{propagator}
+K_N(\phi ,\phi ')=-{1\over 16\pi}\ln \sin^2({\phi-\phi '\over 2})\label{4.26}
+\pi _{0}=\int ^{L}_{0}\pi (x,\, t)dx\, ,\quad \pi (x,\, t)=\frac{1}{4\pi }\partial _{t}\varphi (x,\, t)\: ,
+\widetilde{\varphi }_\mu (x)=\frac 1{3!}\epsilon _\mu ^{\nu \rho \sigma}\varphi _{\nu \rho \sigma }(x),\hspace{0.5in}\widetilde{\varphi }(x)=\frac1{4!}\epsilon ^{\mu \nu \rho \sigma }\varphi _{\mu \nu \rho \sigma }(x)\label{3}
+\int d^dx \partial^{\mu} \Delta^{ii}_{\mu}(x) = <0 \mid  [Q^i, \pi^i (0)] \mid 0> \not = 0
+f({\sf r}, v) = {\sf r} - {\sf r}_{\Sigma}(v) = 0
+iA^{+}=\left [ \begin{array} {ll}<\psi^{(0)}_1|d\psi^{(0)}_1>& <\psi^{(0)}_2|d\psi^{(0)}_1> \\<\psi^{(0)}_1|d\psi^{(0)}_2>&<\psi^{(0)}_2|d\psi^{(0)}_2>\end{array} \right ]=iA_a dx^a,
+\partial_m J_{ij} = - \frac{2}{x^2} ( x_m J_{ij} - x_m \delta_{ij}+ x_i \delta_{jm} + x_j \delta_{im} ),
+\label{L11}\bar{A}_1^{(2)}=3\bar{A}_1^{(0)}-4\pi(\chi[S^2_\beta]+n_{ck})~~~.
+{1\over 2\pi}  \int_{\Sigma_2}  \; F\; =\;   k\ \   .
+\delta_{A} f=R^{M}_{A}\partial_{M} f=\frac{1}{i\hbar}[f, G_{A}].\label{311}
+{\bf v}_0= \frac{\sqrt 2}l     \left[\begin{array}{c}      \,1 \\      \,\,a^2\,      \end{array}\right],\,\,\,     {\bf v}_i= \frac{{\sqrt 2}a}l     \left[\begin{array}{c}      1/J_2(j_i) \\      -1\,      \end{array}\right]\ .  \label{v}
+\label{k}k_{lm}(\theta) = \prod_{\stackrel{p=1-m}{step\,2}}^{m-1}\prod_{\stackrel{q=1-n}{ step\,2}}^{n-1} k(\theta + {p+q\over h}i\pi)
+\sum_{\alpha,\nu} R(\mu,\alpha;\nu,\beta)\tilde{g}_i(\alpha) \tilde{p}_{i+1}(\nu)=\tilde{g}_{i}^{'}(\beta) \tilde{p}_i(\mu).  \label{e40}
