@@ -24,3 +24,23 @@
 2019-12-13 17:21:04,427 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/55543.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
 2019-12-13 17:21:37,783 root  INFO     /home/shchae7/Downloads/IM2LATEX-100K-HANDWRITTEN/images/53471.png (after cropping and padding) is larger than the largest provided bucket size, left unchanged!
 2019-12-13 17:21:48,599 root  INFO     Jobs finished
+2019-12-14 14:03:11,984 root  INFO     Script being executed: ./im2markup_script/preprocessing/preprocess_images.py
+2019-12-14 14:03:11,987 root  INFO     Creating pool with 4 threads
+2019-12-14 14:03:11,991 root  INFO     Jobs running...
+2019-12-14 14:03:21,534 root  INFO     Jobs finished
+2019-12-14 14:03:43,932 root  INFO     Script being executed: ./im2markup_script/preprocessing/preprocess_images.py
+2019-12-14 14:03:43,937 root  INFO     Creating pool with 4 threads
+2019-12-14 14:03:43,940 root  INFO     Jobs running...
+2019-12-14 14:03:58,200 root  INFO     Jobs finished
+2019-12-14 14:04:44,727 root  INFO     Script being executed: ./im2markup_script/preprocessing/preprocess_images.py
+2019-12-14 14:04:44,733 root  INFO     Creating pool with 4 threads
+2019-12-14 14:04:44,739 root  INFO     Jobs running...
+2019-12-14 14:05:02,926 root  INFO     Jobs finished
+2019-12-14 14:05:21,864 root  INFO     Script being executed: ./im2markup_script/preprocessing/preprocess_images.py
+2019-12-14 14:05:21,879 root  INFO     Creating pool with 4 threads
+2019-12-14 14:05:21,884 root  INFO     Jobs running...
+2019-12-14 14:06:15,748 root  INFO     Jobs finished
+2019-12-14 14:09:00,406 root  INFO     Script being executed: ./im2markup_script/preprocessing/preprocess_images.py
+2019-12-14 14:09:00,432 root  INFO     Creating pool with 4 threads
+2019-12-14 14:09:00,435 root  INFO     Jobs running...
+2019-12-14 14:10:41,742 root  INFO     Jobs finished
