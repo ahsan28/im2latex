@@ -1,14 +1,5 @@
 # Im2Latex
-
-![License](https://img.shields.io/apm/l/vim-mode.svg)
-
 Neural Model converting Image to Latex.
-
-![Network structure of Im2latex Model](./imgs/model_structure.png)
-
-As the picture shows, given an input image, a CNN and RNN encoder is applied to extract visual features firstly. And then the encoded features are used by an RNN decoder with attention mechanism to produce final formulas.
-
-
 
 ## Install Prerequsites
 
