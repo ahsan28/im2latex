@@ -1,0 +1,4 @@
+Looking in links: https://download.pytorch.org/whl/torch_stable.html
+Requirement already satisfied: torchaudio in d:\algo testing\im2l\im2latex\venv\lib\site-packages (0.7.2)
+Collecting torch==1.7.1
+  Downloading https://download.pytorch.org/whl/cu110/torch-1.7.1%2Bcu110-cp36-cp36m-win_amd64.whl (2050.2 MB)
