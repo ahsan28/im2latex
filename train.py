@@ -9,9 +9,9 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 
 from utils import collate_fn, build_vocab
 from data import Im2LatexDataset
-from model import Im2LatexModel
-from training import Trainer
-from make_vocab import make_vocab
+from model.model import Im2LatexModel
+from model.training import Trainer
+from vocab.make_vocab import make_vocab
 
 
 def main():
@@ -36,13 +36,13 @@ def main():
     parser.add_argument(
         "--data_path",
         type=str,
-        default="./sample_data/",
+        default="./data/sample_data/",
         help="The dataset's dir")
     # training args
     parser.add_argument(
         "--cuda", action='store_true', default=True, help="Use cuda or not")
     parser.add_argument("--batch_size", type=int, default=4)
-    parser.add_argument("--epochs", type=int, default=5)
+    parser.add_argument("--epochs", type=int, default=2)
     parser.add_argument(
         "--lr", type=float, default=0.001, help="Learning Rate")
     parser.add_argument(
@@ -62,7 +62,7 @@ def main():
     parser.add_argument(
         "--vocab_path",
         type=str,
-        default="./sample_data/vocab.pkl",
+        default="./data/sample_data/vocab.pkl",
         help="The path to vocab file")
     parser.add_argument(
         "--print_freq",

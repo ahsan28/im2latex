@@ -4,7 +4,7 @@ import torch
 import torch.nn.functional as F
 from torch.nn.utils import clip_grad_norm_
 
-from make_vocab import PAD_TOKEN
+from vocab.make_vocab import PAD_TOKEN
 
 
 class Trainer(object):
@@ -109,5 +109,5 @@ class Trainer(object):
         print("Saving as best model...")
         torch.save(
             self.model.state_dict(),
-            join(self.args.save_dir, 'best_ckpt' + self.epoch)
+            join(self.args.save_dir, 'best_ckpt' + str(self.epoch))
         )

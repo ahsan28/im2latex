@@ -2,7 +2,7 @@ import pickle as pkl
 
 import torch
 
-from make_vocab import PAD_TOKEN, END_TOKEN, START_TOKEN, UNK_TOKEN
+from vocab.make_vocab import PAD_TOKEN, END_TOKEN, START_TOKEN, UNK_TOKEN
 
 
 def collate_fn(sign2id, batch):
@@ -73,6 +73,7 @@ def tile(x, count, dim=0):
     if dim != 0:
         x = x.permute(perm).contiguous()
     return x
+
 
 def load_formula(filename):
     formulas = dict()
